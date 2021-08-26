@@ -30,9 +30,9 @@ This directory contains raw data of endemic coronavirus infections by month, new
 
 ~/molecular_trees/ contains all molecular phylogenies based on the concatenated alignment (RAxML, IQTREE) and based on the non-recombining block of SARS-CoV-2 alignment (RAxML_non_recombinant, IQTREE_non_recombinant). Alignment information available in Townsend et al. 2021 Lancet Microbe and on Zenodo: 10.5281/zenodo.5146327.
 
-~/rphylopars/data contains formatted proportions of monthly infections for endemic coronaviruses (HCoV-229E, HCoV-NL63, HCoV-HKU1, and HCoV-OC43) for each location.
+~/rphylopars.zip/data contains formatted proportions of monthly infections for endemic coronaviruses (HCoV-229E, HCoV-NL63, HCoV-HKU1, and HCoV-OC43) for each location.
 
-~/rphylopars/code contains R Markdown files necessary to impute monthly proportions of SARS-CoV-2 infections using RPhylopars v0.2.12(Goolsby et al., 2017)
+~/rphylopars.zip/code contains R Markdown files necessary to impute monthly proportions of SARS-CoV-2 infections using RPhylopars v0.2.12(Goolsby et al., 2017)
 
 ~/time_trees/ contains all time trees based on the concatenated alignment (IQTREE_time_tree, RAxML_RelTime, RAxML_TreeTime, IQTREE_RelTime, IQTREE_TreeTime) and based on the non-recombining block of SARS-CoV-2 alignment (IQTREE_time_tree_non_recombinant, RAxML_RelTime_non_recombinant, RAxML_TreeTime_non_recombinant, IQTREE_RelTime_non_recombinant, IQTREE_TreeTime_non_recombinant). Alignment information available in Townsend et al. 2021 Lancet Microbe and on Zenodo: 10.5281/zenodo.5146327.
 

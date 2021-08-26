@@ -1,0 +1,153 @@
+---
+title: "Covid Seasonality"
+author: "April Lamb"
+date: "3/12/2021"
+output: html_document
+---
+
+```{r, include = FALSE}
+# Function to reduce line output of markdown file
+# save the built-in output hook
+hook_output <- knitr::knit_hooks$get("output")
+
+# set a new output hook to truncate text output
+knitr::knit_hooks$set(output = function(x, options) {
+  if (!is.null(n <- options$out.lines)) {
+    x <- xfun::split_lines(x)
+    if (length(x) > n) {
+      # truncate the output
+      x <- c(head(x, n), "....\n")
+    }
+    x <- paste(x, collapse = "\n")
+  }
+  hook_output(x, options)
+})
+```
+
+### Packages
+```{r load, include=FALSE}
+pkgs <- c("ggeffects", "ggplot2", "mgcv", "raster", "DHARMa", "GGally", "dplyr", "lubridate", 
+          "vip", "ggpubr", "pdp", "scales")
+
+vapply(pkgs, library, logical(1), character.only = TRUE, logical.return = TRUE,
+       quietly = TRUE)
+```
+
+### Data
+```{r data}
+setwd('C:/Users/april/OneDrive/Desktop/Covid/from Dan') # File path will need to be updated
+covid.df <- read.csv("covidseasonality_long.csv", stringsAsFactors = TRUE) # read data
+covid.df$author <- as.factor(covid.df$study) # make author a factor
+covid.df$month <- as.factor(covid.df$month) # make month a factor
+``` 
+ 
+### 229E
+```{r 229E, out.lines = 6} 
+# Isolate virus
+(virus.df <- covid.df[covid.df$virus.type == "229E", ])
+
+# Pull out complete data and same as df
+complete.df <- virus.df %>% group_by(study) %>% filter(cases > 0) # filter out 0 case counts
+complete.df <- complete.df %>% group_by(study) %>% add_tally() %>% filter(n >= 12) # filter out studies with <12 mo. of data
+
+# Same for incomplete data
+all.df <- virus.df %>% group_by(study) %>% add_tally() %>% filter(n >= 12)
+incomplete.df <- setdiff(all.df, complete.df)
+incomplete.df$cases <- incomplete.df$cases + 1 # add 1 to all cases to get rid of 0's
+
+# Create a column with cases as a proportion for each study & df
+complete.df <- complete.df %>% group_by(study) %>%
+  mutate(prop.study = (cases/sum(cases, na.rm = T))*100)
+
+incomplete.df <- incomplete.df %>% group_by(study) %>%
+  mutate(prop.study = (cases/sum(cases, na.rm = T))*100)
+
+# Join
+total <- rbind(complete.df, incomplete.df)
+
+# write to file
+setwd('C:/Users/april/OneDrive/Desktop/Covid/from Dan')
+write.csv(total, "229E_total.csv")
+```
+
+### NL63
+```{r NL63, out.lines = 6} 
+# Isolate virus
+(virus.df <- covid.df[covid.df$virus.type == "NL63", ])
+
+# Pull out complete data and same as df
+complete.df <- virus.df %>% group_by(study) %>% filter(cases > 0) # filter out 0 case counts
+complete.df <- complete.df %>% group_by(study) %>% add_tally() %>% filter(n >= 12) # filter out studies with <12 mo. of data
+
+# Same for incomplete data
+all.df <- virus.df %>% group_by(study) %>% add_tally() %>% filter(n >= 12)
+incomplete.df <- setdiff(all.df, complete.df)
+incomplete.df$cases <- incomplete.df$cases + 1 # add 1 to all cases to get rid of 0's
+
+# Create a column with cases as a proportion for each study & df
+complete.df <- complete.df %>% group_by(study) %>%
+  mutate(prop.study = (cases/sum(cases, na.rm = T))*100)
+
+incomplete.df <- incomplete.df %>% group_by(study) %>%
+  mutate(prop.study = (cases/sum(cases, na.rm = T))*100)
+
+# Join
+total <- rbind(complete.df, incomplete.df)
+
+# write to file
+setwd('C:/Users/april/OneDrive/Desktop/Covid/from Dan')
+write.csv(total, "NL63_total.csv")
+```
+
+### OC43
+```{r OC43, out.lines = 6} 
+# Isolate virus
+(virus.df <- covid.df[covid.df$virus.type == "OC43", ])
+
+# Pull out complete data and same as df
+complete.df <- virus.df %>% group_by(study) %>% filter(cases > 0) # filter out 0 case counts
+complete.df <- complete.df %>% group_by(study) %>% add_tally() %>% filter(n >= 12) # filter out studies with <12 mo. of data
+
+# Same for incomplete data
+all.df <- virus.df %>% group_by(study) %>% add_tally() %>% filter(n >= 12)
+incomplete.df <- setdiff(all.df, complete.df)
+incomplete.df$cases <- incomplete.df$cases + 1 # add 1 to all cases to get rid of 0's
+
+# Create a column with cases as a proportion for each study & df
+complete.df <- complete.df %>% group_by(study) %>%
+  mutate(prop.study = (cases/sum(cases, na.rm = T))*100)
+
+incomplete.df <- incomplete.df %>% group_by(study) %>%
+  mutate(prop.study = (cases/sum(cases, na.rm = T))*100)
+
+# Join
+total <- rbind(complete.df, incomplete.df)
+
+# write to file
+setwd('C:/Users/april/OneDrive/Desktop/Covid/from Dan')
+write.csv(total, "OC43_total.csv")
+```
+
+
+### HKU1
+```{r HKU1, out.lines = 6} 
+# Isolate virus
+(virus.df <- covid.df[covid.df$virus.type == "HKU1", ])
+
+### Note, we have no complete studies for HKU1 so we will only look at incomplete ###
+incomplete.df <- virus.df
+incomplete.df$cases <- incomplete.df$cases + 1 # add 1 to all cases to get rid of 0's
+
+# Create a column with cases as a proportion for each study & df
+incomplete.df <- incomplete.df %>% group_by(study) %>%
+  mutate(prop.study = (cases/sum(cases, na.rm = T))*100)
+
+# write to file
+setwd('C:/Users/april/OneDrive/Desktop/Covid/from Dan')
+write.csv(incomplete.df, "HKU1_total.csv")
+
+```
+
+
+
+

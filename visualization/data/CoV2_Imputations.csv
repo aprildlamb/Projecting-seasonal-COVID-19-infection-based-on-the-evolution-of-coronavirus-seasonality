@@ -1,0 +1,2353 @@
+tree,site,country,type,month,cases,nonrecombinant
+IQTREE,Beijing,China,CoV2,1,4.167989362,no
+IQTREE,Beijing,China,CoV2,2,6.754129197,no
+IQTREE,Beijing,China,CoV2,3,8.833776087,no
+IQTREE,Beijing,China,CoV2,4,9.387706964,no
+IQTREE,Beijing,China,CoV2,5,8.417846709,no
+IQTREE,Beijing,China,CoV2,6,13.6206389,no
+IQTREE,Beijing,China,CoV2,7,9.86992456,no
+IQTREE,Beijing,China,CoV2,8,4.682065126,no
+IQTREE,Beijing,China,CoV2,9,11.1339911,no
+IQTREE,Beijing,China,CoV2,10,10.84783339,no
+IQTREE,Beijing,China,CoV2,11,6.565885,no
+IQTREE,Beijing,China,CoV2,12,5.7182136,no
+IQTREE,Tampere,Finland,CoV2,1,10.98845823,no
+IQTREE,Tampere,Finland,CoV2,2,25.20308542,no
+IQTREE,Tampere,Finland,CoV2,3,14.31479498,no
+IQTREE,Tampere,Finland,CoV2,4,7.969184652,no
+IQTREE,Tampere,Finland,CoV2,5,5.113514069,no
+IQTREE,Tampere,Finland,CoV2,6,5.113514069,no
+IQTREE,Tampere,Finland,CoV2,7,4.082009211,no
+IQTREE,Tampere,Finland,CoV2,8,4.082009211,no
+IQTREE,Tampere,Finland,CoV2,9,5.113514069,no
+IQTREE,Tampere,Finland,CoV2,10,4.082009211,no
+IQTREE,Tampere,Finland,CoV2,11,5.113514069,no
+IQTREE,Tampere,Finland,CoV2,12,8.824392814,no
+IQTREE,Guangzhou,China,CoV2,1,14.31591092,no
+IQTREE,Guangzhou,China,CoV2,2,17.98512225,no
+IQTREE,Guangzhou,China,CoV2,3,10.09760234,no
+IQTREE,Guangzhou,China,CoV2,4,8.101847075,no
+IQTREE,Guangzhou,China,CoV2,5,3.968569832,no
+IQTREE,Guangzhou,China,CoV2,6,3.174229484,no
+IQTREE,Guangzhou,China,CoV2,7,2.521353181,no
+IQTREE,Guangzhou,China,CoV2,8,1.718230255,no
+IQTREE,Guangzhou,China,CoV2,9,2.555375168,no
+IQTREE,Guangzhou,China,CoV2,10,4.077147198,no
+IQTREE,Guangzhou,China,CoV2,11,13.64236453,no
+IQTREE,Guangzhou,China,CoV2,12,17.84224777,no
+IQTREE,Hong Kong,China,CoV2,1,9.913465545,no
+IQTREE,Hong Kong,China,CoV2,2,6.467976084,no
+IQTREE,Hong Kong,China,CoV2,3,5.751280392,no
+IQTREE,Hong Kong,China,CoV2,4,6.467976084,no
+IQTREE,Hong Kong,China,CoV2,5,5.229443477,no
+IQTREE,Hong Kong,China,CoV2,6,5.531671417,no
+IQTREE,Hong Kong,China,CoV2,7,6.377156077,no
+IQTREE,Hong Kong,China,CoV2,8,5.440851409,no
+IQTREE,Hong Kong,China,CoV2,9,8.133009245,no
+IQTREE,Hong Kong,China,CoV2,10,7.601638258,no
+IQTREE,Hong Kong,China,CoV2,11,15.3141833,no
+IQTREE,Hong Kong,China,CoV2,12,17.77134871,no
+IQTREE,Sarlahi,Nepal,CoV2,1,16.48509269,no
+IQTREE,Sarlahi,Nepal,CoV2,2,20.71733147,no
+IQTREE,Sarlahi,Nepal,CoV2,3,8.562214782,no
+IQTREE,Sarlahi,Nepal,CoV2,4,5.334650534,no
+IQTREE,Sarlahi,Nepal,CoV2,5,7.86891488,no
+IQTREE,Sarlahi,Nepal,CoV2,6,5.77489678,no
+IQTREE,Sarlahi,Nepal,CoV2,7,2.012776742,no
+IQTREE,Sarlahi,Nepal,CoV2,8,4.569874714,no
+IQTREE,Sarlahi,Nepal,CoV2,9,6.193468147,no
+IQTREE,Sarlahi,Nepal,CoV2,10,7.035659962,no
+IQTREE,Sarlahi,Nepal,CoV2,11,8.074246527,no
+IQTREE,Sarlahi,Nepal,CoV2,12,7.370872766,no
+IQTREE,Amsterdam,Netherlands,CoV2,1,10.17315768,no
+IQTREE,Amsterdam,Netherlands,CoV2,2,11.73431736,no
+IQTREE,Amsterdam,Netherlands,CoV2,3,11.50222877,no
+IQTREE,Amsterdam,Netherlands,CoV2,4,10.55318046,no
+IQTREE,Amsterdam,Netherlands,CoV2,5,10.3093126,no
+IQTREE,Amsterdam,Netherlands,CoV2,6,7.426054739,no
+IQTREE,Amsterdam,Netherlands,CoV2,7,7.426054739,no
+IQTREE,Amsterdam,Netherlands,CoV2,8,5.58110921,no
+IQTREE,Amsterdam,Netherlands,CoV2,9,4.770112096,no
+IQTREE,Amsterdam,Netherlands,CoV2,10,6.328784639,no
+IQTREE,Amsterdam,Netherlands,CoV2,11,6.663805163,no
+IQTREE,Amsterdam,Netherlands,CoV2,12,10.29452015,no
+IQTREE,Sor Trondelag,Norway,CoV2,1,14.31591092,no
+IQTREE,Sor Trondelag,Norway,CoV2,2,17.98512225,no
+IQTREE,Sor Trondelag,Norway,CoV2,3,10.09760234,no
+IQTREE,Sor Trondelag,Norway,CoV2,4,8.101847075,no
+IQTREE,Sor Trondelag,Norway,CoV2,5,3.968569832,no
+IQTREE,Sor Trondelag,Norway,CoV2,6,3.174229484,no
+IQTREE,Sor Trondelag,Norway,CoV2,7,2.521353181,no
+IQTREE,Sor Trondelag,Norway,CoV2,8,1.718230255,no
+IQTREE,Sor Trondelag,Norway,CoV2,9,2.555375168,no
+IQTREE,Sor Trondelag,Norway,CoV2,10,4.077147198,no
+IQTREE,Sor Trondelag,Norway,CoV2,11,13.64236453,no
+IQTREE,Sor Trondelag,Norway,CoV2,12,17.84224777,no
+IQTREE,New York,USA,CoV2,1,19.34559524,no
+IQTREE,New York,USA,CoV2,2,8.277717269,no
+IQTREE,New York,USA,CoV2,3,6.705153606,no
+IQTREE,New York,USA,CoV2,4,4.768352709,no
+IQTREE,New York,USA,CoV2,5,2.450857811,no
+IQTREE,New York,USA,CoV2,6,2.880651501,no
+IQTREE,New York,USA,CoV2,7,2.880651501,no
+IQTREE,New York,USA,CoV2,8,3.394708415,no
+IQTREE,New York,USA,CoV2,9,2.880651501,no
+IQTREE,New York,USA,CoV2,10,13.44615871,no
+IQTREE,New York,USA,CoV2,11,18.5586912,no
+IQTREE,New York,USA,CoV2,12,14.41081054,no
+IQTREE,Stockholm,Sweden,CoV2,1,17.1945701,no
+IQTREE,Stockholm,Sweden,CoV2,2,17.67768373,no
+IQTREE,Stockholm,Sweden,CoV2,3,15.86570993,no
+IQTREE,Stockholm,Sweden,CoV2,4,9.859323988,no
+IQTREE,Stockholm,Sweden,CoV2,5,6.325085791,no
+IQTREE,Stockholm,Sweden,CoV2,6,4.230010327,no
+IQTREE,Stockholm,Sweden,CoV2,7,4.230010327,no
+IQTREE,Stockholm,Sweden,CoV2,8,0.980024006,no
+IQTREE,Stockholm,Sweden,CoV2,9,1.144593768,no
+IQTREE,Stockholm,Sweden,CoV2,10,2.156351978,no
+IQTREE,Stockholm,Sweden,CoV2,11,5.891262033,no
+IQTREE,Stockholm,Sweden,CoV2,12,17.32418682,no
+IQTREE,South Korea,South Korea,CoV2,1,13.70661808,no
+IQTREE,South Korea,South Korea,CoV2,2,9.716381474,no
+IQTREE,South Korea,South Korea,CoV2,3,5.491715435,no
+IQTREE,South Korea,South Korea,CoV2,4,5.64938521,no
+IQTREE,South Korea,South Korea,CoV2,5,3.623362937,no
+IQTREE,South Korea,South Korea,CoV2,6,2.967796255,no
+IQTREE,South Korea,South Korea,CoV2,7,2.967796255,no
+IQTREE,South Korea,South Korea,CoV2,8,1.898608294,no
+IQTREE,South Korea,South Korea,CoV2,9,1.984616349,no
+IQTREE,South Korea,South Korea,CoV2,10,6.737630918,no
+IQTREE,South Korea,South Korea,CoV2,11,18.55696175,no
+IQTREE,South Korea,South Korea,CoV2,12,27.72165811,no
+IQTREE,Colorado,USA,CoV2,12,6.038021798,no
+IQTREE,Colorado,USA,CoV2,2,5.358763321,no
+IQTREE,Colorado,USA,CoV2,3,12.22097172,no
+IQTREE,Colorado,USA,CoV2,4,18.59862276,no
+IQTREE,Colorado,USA,CoV2,5,14.76709361,no
+IQTREE,Colorado,USA,CoV2,6,10.71752664,no
+IQTREE,Colorado,USA,CoV2,7,10.71752664,no
+IQTREE,Colorado,USA,CoV2,8,5.320121517,no
+IQTREE,Colorado,USA,CoV2,9,4.458533617,no
+IQTREE,Colorado,USA,CoV2,10,4.458533617,no
+IQTREE,Colorado,USA,CoV2,11,4.798162855,no
+IQTREE,Colorado,USA,CoV2,1,4.458533617,no
+IQTREE,Gothenburg,Sweden,CoV2,1,18.50159959,no
+IQTREE,Gothenburg,Sweden,CoV2,2,19.47768125,no
+IQTREE,Gothenburg,Sweden,CoV2,3,11.42741842,no
+IQTREE,Gothenburg,Sweden,CoV2,4,5.490141658,no
+IQTREE,Gothenburg,Sweden,CoV2,5,6.139309843,no
+IQTREE,Gothenburg,Sweden,CoV2,6,6.902126931,no
+IQTREE,Gothenburg,Sweden,CoV2,7,6.902126931,no
+IQTREE,Gothenburg,Sweden,CoV2,8,2.637412321,no
+IQTREE,Gothenburg,Sweden,CoV2,9,2.090938474,no
+IQTREE,Gothenburg,Sweden,CoV2,10,6.065235831,no
+IQTREE,Gothenburg,Sweden,CoV2,11,3.415704259,no
+IQTREE,Gothenburg,Sweden,CoV2,12,14.99751116,no
+IQTREE,Yamagata,Japan,CoV2,1,17.50523895,no
+IQTREE,Yamagata,Japan,CoV2,2,23.91959549,no
+IQTREE,Yamagata,Japan,CoV2,3,18.28701276,no
+IQTREE,Yamagata,Japan,CoV2,4,7.640085522,no
+IQTREE,Yamagata,Japan,CoV2,5,5.124672388,no
+IQTREE,Yamagata,Japan,CoV2,6,1.897401247,no
+IQTREE,Yamagata,Japan,CoV2,7,1.897401247,no
+IQTREE,Yamagata,Japan,CoV2,8,2.765407357,no
+IQTREE,Yamagata,Japan,CoV2,9,1.857559126,no
+IQTREE,Yamagata,Japan,CoV2,10,3.817279159,no
+IQTREE,Yamagata,Japan,CoV2,11,6.980224059,no
+IQTREE,Yamagata,Japan,CoV2,12,5.284687574,no
+IQTREE,Nakhon Si Thammarat,Thailand,CoV2,1,17.50523895,no
+IQTREE,Nakhon Si Thammarat,Thailand,CoV2,2,23.91959549,no
+IQTREE,Nakhon Si Thammarat,Thailand,CoV2,3,18.28701276,no
+IQTREE,Nakhon Si Thammarat,Thailand,CoV2,4,7.640085522,no
+IQTREE,Nakhon Si Thammarat,Thailand,CoV2,5,5.124672388,no
+IQTREE,Nakhon Si Thammarat,Thailand,CoV2,6,1.897401247,no
+IQTREE,Nakhon Si Thammarat,Thailand,CoV2,7,1.897401247,no
+IQTREE,Nakhon Si Thammarat,Thailand,CoV2,8,2.765407357,no
+IQTREE,Nakhon Si Thammarat,Thailand,CoV2,9,1.857559126,no
+IQTREE,Nakhon Si Thammarat,Thailand,CoV2,10,3.817279159,no
+IQTREE,Nakhon Si Thammarat,Thailand,CoV2,11,6.980224059,no
+IQTREE,Nakhon Si Thammarat,Thailand,CoV2,12,5.284687574,no
+IQTREE_non_recombinant,Beijing,China,CoV2,1,4.098666085,yes
+IQTREE_non_recombinant,Beijing,China,CoV2,2,6.986047918,yes
+IQTREE_non_recombinant,Beijing,China,CoV2,3,9.050001908,yes
+IQTREE_non_recombinant,Beijing,China,CoV2,4,9.19198194,yes
+IQTREE_non_recombinant,Beijing,China,CoV2,5,8.63721111,yes
+IQTREE_non_recombinant,Beijing,China,CoV2,6,13.66785295,yes
+IQTREE_non_recombinant,Beijing,China,CoV2,7,10.21122204,yes
+IQTREE_non_recombinant,Beijing,China,CoV2,8,4.603028742,yes
+IQTREE_non_recombinant,Beijing,China,CoV2,9,11.10128736,yes
+IQTREE_non_recombinant,Beijing,China,CoV2,10,10.32576988,yes
+IQTREE_non_recombinant,Beijing,China,CoV2,11,6.362681203,yes
+IQTREE_non_recombinant,Beijing,China,CoV2,12,5.764248876,yes
+IQTREE_non_recombinant,Tampere,Finland,CoV2,1,10.59304474,yes
+IQTREE_non_recombinant,Tampere,Finland,CoV2,2,25.12470375,yes
+IQTREE_non_recombinant,Tampere,Finland,CoV2,3,14.85423799,yes
+IQTREE_non_recombinant,Tampere,Finland,CoV2,4,7.89548068,yes
+IQTREE_non_recombinant,Tampere,Finland,CoV2,5,5.120733023,yes
+IQTREE_non_recombinant,Tampere,Finland,CoV2,6,5.120733023,yes
+IQTREE_non_recombinant,Tampere,Finland,CoV2,7,4.097011844,yes
+IQTREE_non_recombinant,Tampere,Finland,CoV2,8,4.097011844,yes
+IQTREE_non_recombinant,Tampere,Finland,CoV2,9,5.120733023,yes
+IQTREE_non_recombinant,Tampere,Finland,CoV2,10,4.097011844,yes
+IQTREE_non_recombinant,Tampere,Finland,CoV2,11,5.120733023,yes
+IQTREE_non_recombinant,Tampere,Finland,CoV2,12,8.75856522,yes
+IQTREE_non_recombinant,Guangzhou,China,CoV2,1,14.27892487,yes
+IQTREE_non_recombinant,Guangzhou,China,CoV2,2,18.25029577,yes
+IQTREE_non_recombinant,Guangzhou,China,CoV2,3,9.693152439,yes
+IQTREE_non_recombinant,Guangzhou,China,CoV2,4,7.758078855,yes
+IQTREE_non_recombinant,Guangzhou,China,CoV2,5,3.862988589,yes
+IQTREE_non_recombinant,Guangzhou,China,CoV2,6,3.049304777,yes
+IQTREE_non_recombinant,Guangzhou,China,CoV2,7,2.467036473,yes
+IQTREE_non_recombinant,Guangzhou,China,CoV2,8,1.695311379,yes
+IQTREE_non_recombinant,Guangzhou,China,CoV2,9,2.581867466,yes
+IQTREE_non_recombinant,Guangzhou,China,CoV2,10,4.147884513,yes
+IQTREE_non_recombinant,Guangzhou,China,CoV2,11,14.02612081,yes
+IQTREE_non_recombinant,Guangzhou,China,CoV2,12,18.18903406,yes
+IQTREE_non_recombinant,Hong Kong,China,CoV2,1,10.11856694,yes
+IQTREE_non_recombinant,Hong Kong,China,CoV2,2,6.468098775,yes
+IQTREE_non_recombinant,Hong Kong,China,CoV2,3,5.618605235,yes
+IQTREE_non_recombinant,Hong Kong,China,CoV2,4,6.468098775,yes
+IQTREE_non_recombinant,Hong Kong,China,CoV2,5,5.331684246,yes
+IQTREE_non_recombinant,Hong Kong,China,CoV2,6,5.358715467,yes
+IQTREE_non_recombinant,Hong Kong,China,CoV2,7,6.386860372,yes
+IQTREE_non_recombinant,Hong Kong,China,CoV2,8,5.277477063,yes
+IQTREE_non_recombinant,Hong Kong,China,CoV2,9,7.781568228,yes
+IQTREE_non_recombinant,Hong Kong,China,CoV2,10,7.380020786,yes
+IQTREE_non_recombinant,Hong Kong,China,CoV2,11,15.75494317,yes
+IQTREE_non_recombinant,Hong Kong,China,CoV2,12,18.05536095,yes
+IQTREE_non_recombinant,Sarlahi,Nepal,CoV2,1,17.18554083,yes
+IQTREE_non_recombinant,Sarlahi,Nepal,CoV2,2,21.41474206,yes
+IQTREE_non_recombinant,Sarlahi,Nepal,CoV2,3,8.607859703,yes
+IQTREE_non_recombinant,Sarlahi,Nepal,CoV2,4,5.236256546,yes
+IQTREE_non_recombinant,Sarlahi,Nepal,CoV2,5,7.837670443,yes
+IQTREE_non_recombinant,Sarlahi,Nepal,CoV2,6,5.822167817,yes
+IQTREE_non_recombinant,Sarlahi,Nepal,CoV2,7,1.973264865,yes
+IQTREE_non_recombinant,Sarlahi,Nepal,CoV2,8,4.356645392,yes
+IQTREE_non_recombinant,Sarlahi,Nepal,CoV2,9,5.849333568,yes
+IQTREE_non_recombinant,Sarlahi,Nepal,CoV2,10,6.622456122,yes
+IQTREE_non_recombinant,Sarlahi,Nepal,CoV2,11,7.817542266,yes
+IQTREE_non_recombinant,Sarlahi,Nepal,CoV2,12,7.276520388,yes
+IQTREE_non_recombinant,Amsterdam,Netherlands,CoV2,1,10.08637007,yes
+IQTREE_non_recombinant,Amsterdam,Netherlands,CoV2,2,11.72633045,yes
+IQTREE_non_recombinant,Amsterdam,Netherlands,CoV2,3,11.49599319,yes
+IQTREE_non_recombinant,Amsterdam,Netherlands,CoV2,4,10.53073815,yes
+IQTREE_non_recombinant,Amsterdam,Netherlands,CoV2,5,10.50259531,yes
+IQTREE_non_recombinant,Amsterdam,Netherlands,CoV2,6,7.576607613,yes
+IQTREE_non_recombinant,Amsterdam,Netherlands,CoV2,7,7.576607613,yes
+IQTREE_non_recombinant,Amsterdam,Netherlands,CoV2,8,5.638411438,yes
+IQTREE_non_recombinant,Amsterdam,Netherlands,CoV2,9,4.78985835,yes
+IQTREE_non_recombinant,Amsterdam,Netherlands,CoV2,10,6.247545349,yes
+IQTREE_non_recombinant,Amsterdam,Netherlands,CoV2,11,6.403799547,yes
+IQTREE_non_recombinant,Amsterdam,Netherlands,CoV2,12,10.29445594,yes
+IQTREE_non_recombinant,Sor Trondelag,Norway,CoV2,1,14.27892487,yes
+IQTREE_non_recombinant,Sor Trondelag,Norway,CoV2,2,18.25029577,yes
+IQTREE_non_recombinant,Sor Trondelag,Norway,CoV2,3,9.693152439,yes
+IQTREE_non_recombinant,Sor Trondelag,Norway,CoV2,4,7.758078855,yes
+IQTREE_non_recombinant,Sor Trondelag,Norway,CoV2,5,3.862988589,yes
+IQTREE_non_recombinant,Sor Trondelag,Norway,CoV2,6,3.049304777,yes
+IQTREE_non_recombinant,Sor Trondelag,Norway,CoV2,7,2.467036473,yes
+IQTREE_non_recombinant,Sor Trondelag,Norway,CoV2,8,1.695311379,yes
+IQTREE_non_recombinant,Sor Trondelag,Norway,CoV2,9,2.581867466,yes
+IQTREE_non_recombinant,Sor Trondelag,Norway,CoV2,10,4.147884513,yes
+IQTREE_non_recombinant,Sor Trondelag,Norway,CoV2,11,14.02612081,yes
+IQTREE_non_recombinant,Sor Trondelag,Norway,CoV2,12,18.18903406,yes
+IQTREE_non_recombinant,New York,USA,CoV2,1,19.42688715,yes
+IQTREE_non_recombinant,New York,USA,CoV2,2,8.135847818,yes
+IQTREE_non_recombinant,New York,USA,CoV2,3,6.754564439,yes
+IQTREE_non_recombinant,New York,USA,CoV2,4,4.911942879,yes
+IQTREE_non_recombinant,New York,USA,CoV2,5,2.439178175,yes
+IQTREE_non_recombinant,New York,USA,CoV2,6,2.865728666,yes
+IQTREE_non_recombinant,New York,USA,CoV2,7,2.865728666,yes
+IQTREE_non_recombinant,New York,USA,CoV2,8,3.462285281,yes
+IQTREE_non_recombinant,New York,USA,CoV2,9,2.865728666,yes
+IQTREE_non_recombinant,New York,USA,CoV2,10,12.94703111,yes
+IQTREE_non_recombinant,New York,USA,CoV2,11,18.64652701,yes
+IQTREE_non_recombinant,New York,USA,CoV2,12,14.67855014,yes
+IQTREE_non_recombinant,Stockholm,Sweden,CoV2,1,17.51128346,yes
+IQTREE_non_recombinant,Stockholm,Sweden,CoV2,2,17.29728744,yes
+IQTREE_non_recombinant,Stockholm,Sweden,CoV2,3,15.29808116,yes
+IQTREE_non_recombinant,Stockholm,Sweden,CoV2,4,9.539606422,yes
+IQTREE_non_recombinant,Stockholm,Sweden,CoV2,5,6.211346309,yes
+IQTREE_non_recombinant,Stockholm,Sweden,CoV2,6,4.261450665,yes
+IQTREE_non_recombinant,Stockholm,Sweden,CoV2,7,4.261450665,yes
+IQTREE_non_recombinant,Stockholm,Sweden,CoV2,8,0.95979276,yes
+IQTREE_non_recombinant,Stockholm,Sweden,CoV2,9,1.182978485,yes
+IQTREE_non_recombinant,Stockholm,Sweden,CoV2,10,2.177743488,yes
+IQTREE_non_recombinant,Stockholm,Sweden,CoV2,11,6.118366623,yes
+IQTREE_non_recombinant,Stockholm,Sweden,CoV2,12,18.05027595,yes
+IQTREE_non_recombinant,South Korea,South Korea,CoV2,1,13.55123504,yes
+IQTREE_non_recombinant,South Korea,South Korea,CoV2,2,9.261394089,yes
+IQTREE_non_recombinant,South Korea,South Korea,CoV2,3,5.256410326,yes
+IQTREE_non_recombinant,South Korea,South Korea,CoV2,4,5.506674237,yes
+IQTREE_non_recombinant,South Korea,South Korea,CoV2,5,3.63258632,yes
+IQTREE_non_recombinant,South Korea,South Korea,CoV2,6,2.946706871,yes
+IQTREE_non_recombinant,South Korea,South Korea,CoV2,7,2.946706871,yes
+IQTREE_non_recombinant,South Korea,South Korea,CoV2,8,1.976755711,yes
+IQTREE_non_recombinant,South Korea,South Korea,CoV2,9,1.958330535,yes
+IQTREE_non_recombinant,South Korea,South Korea,CoV2,10,6.777607088,yes
+IQTREE_non_recombinant,South Korea,South Korea,CoV2,11,18.92710041,yes
+IQTREE_non_recombinant,South Korea,South Korea,CoV2,12,28.26545425,yes
+IQTREE_non_recombinant,Colorado,USA,CoV2,12,6.075436795,yes
+IQTREE_non_recombinant,Colorado,USA,CoV2,2,5.450944803,yes
+IQTREE_non_recombinant,Colorado,USA,CoV2,3,12.08762842,yes
+IQTREE_non_recombinant,Colorado,USA,CoV2,4,18.47531122,yes
+IQTREE_non_recombinant,Colorado,USA,CoV2,5,14.38120917,yes
+IQTREE_non_recombinant,Colorado,USA,CoV2,6,10.90188961,yes
+IQTREE_non_recombinant,Colorado,USA,CoV2,7,10.90188961,yes
+IQTREE_non_recombinant,Colorado,USA,CoV2,8,5.372877838,yes
+IQTREE_non_recombinant,Colorado,USA,CoV2,9,4.582328601,yes
+IQTREE_non_recombinant,Colorado,USA,CoV2,10,4.582328601,yes
+IQTREE_non_recombinant,Colorado,USA,CoV2,11,4.894574597,yes
+IQTREE_non_recombinant,Colorado,USA,CoV2,1,4.582328601,yes
+IQTREE_non_recombinant,Gothenburg,Sweden,CoV2,1,18.86642193,yes
+IQTREE_non_recombinant,Gothenburg,Sweden,CoV2,2,19.35267585,yes
+IQTREE_non_recombinant,Gothenburg,Sweden,CoV2,3,11.11720567,yes
+IQTREE_non_recombinant,Gothenburg,Sweden,CoV2,4,5.320600012,yes
+IQTREE_non_recombinant,Gothenburg,Sweden,CoV2,5,5.800215324,yes
+IQTREE_non_recombinant,Gothenburg,Sweden,CoV2,6,6.563601987,yes
+IQTREE_non_recombinant,Gothenburg,Sweden,CoV2,7,6.563601987,yes
+IQTREE_non_recombinant,Gothenburg,Sweden,CoV2,8,2.620416619,yes
+IQTREE_non_recombinant,Gothenburg,Sweden,CoV2,9,2.115246492,yes
+IQTREE_non_recombinant,Gothenburg,Sweden,CoV2,10,6.334983871,yes
+IQTREE_non_recombinant,Gothenburg,Sweden,CoV2,11,3.521825618,yes
+IQTREE_non_recombinant,Gothenburg,Sweden,CoV2,12,15.624758,yes
+IQTREE_non_recombinant,Yamagata,Japan,CoV2,1,17.86239678,yes
+IQTREE_non_recombinant,Yamagata,Japan,CoV2,2,24.52803177,yes
+IQTREE_non_recombinant,Yamagata,Japan,CoV2,3,18.18127273,yes
+IQTREE_non_recombinant,Yamagata,Japan,CoV2,4,7.209076563,yes
+IQTREE_non_recombinant,Yamagata,Japan,CoV2,5,4.957181406,yes
+IQTREE_non_recombinant,Yamagata,Japan,CoV2,6,1.821195446,yes
+IQTREE_non_recombinant,Yamagata,Japan,CoV2,7,1.821195446,yes
+IQTREE_non_recombinant,Yamagata,Japan,CoV2,8,2.795091909,yes
+IQTREE_non_recombinant,Yamagata,Japan,CoV2,9,1.783175473,yes
+IQTREE_non_recombinant,Yamagata,Japan,CoV2,10,3.755892104,yes
+IQTREE_non_recombinant,Yamagata,Japan,CoV2,11,6.913686758,yes
+IQTREE_non_recombinant,Yamagata,Japan,CoV2,12,5.106380364,yes
+IQTREE_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,1,17.86239678,yes
+IQTREE_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,2,24.52803177,yes
+IQTREE_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,3,18.18127273,yes
+IQTREE_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,4,7.209076563,yes
+IQTREE_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,5,4.957181406,yes
+IQTREE_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,6,1.821195446,yes
+IQTREE_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,7,1.821195446,yes
+IQTREE_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,8,2.795091909,yes
+IQTREE_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,9,1.783175473,yes
+IQTREE_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,10,3.755892104,yes
+IQTREE_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,11,6.913686758,yes
+IQTREE_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,12,5.106380364,yes
+IQTREE_RelTime,Beijing,China,CoV2,1,4.153068266,no
+IQTREE_RelTime,Beijing,China,CoV2,2,6.140478285,no
+IQTREE_RelTime,Beijing,China,CoV2,3,8.520523092,no
+IQTREE_RelTime,Beijing,China,CoV2,4,9.27536191,no
+IQTREE_RelTime,Beijing,China,CoV2,5,8.044514131,no
+IQTREE_RelTime,Beijing,China,CoV2,6,14.52555974,no
+IQTREE_RelTime,Beijing,China,CoV2,7,9.179611901,no
+IQTREE_RelTime,Beijing,China,CoV2,8,4.894655298,no
+IQTREE_RelTime,Beijing,China,CoV2,9,11.13483926,no
+IQTREE_RelTime,Beijing,China,CoV2,10,11.68939077,no
+IQTREE_RelTime,Beijing,China,CoV2,11,6.888253234,no
+IQTREE_RelTime,Beijing,China,CoV2,12,5.553744109,no
+IQTREE_RelTime,Tampere,Finland,CoV2,1,11.8966253,no
+IQTREE_RelTime,Tampere,Finland,CoV2,2,24.36721305,no
+IQTREE_RelTime,Tampere,Finland,CoV2,3,12.7948058,no
+IQTREE_RelTime,Tampere,Finland,CoV2,4,8.402953481,no
+IQTREE_RelTime,Tampere,Finland,CoV2,5,5.222450986,no
+IQTREE_RelTime,Tampere,Finland,CoV2,6,5.222450986,no
+IQTREE_RelTime,Tampere,Finland,CoV2,7,4.041948761,no
+IQTREE_RelTime,Tampere,Finland,CoV2,8,4.041948761,no
+IQTREE_RelTime,Tampere,Finland,CoV2,9,5.222450986,no
+IQTREE_RelTime,Tampere,Finland,CoV2,10,4.041948761,no
+IQTREE_RelTime,Tampere,Finland,CoV2,11,5.222450986,no
+IQTREE_RelTime,Tampere,Finland,CoV2,12,9.522752146,no
+IQTREE_RelTime,Guangzhou,China,CoV2,1,15.07471229,no
+IQTREE_RelTime,Guangzhou,China,CoV2,2,17.06617093,no
+IQTREE_RelTime,Guangzhou,China,CoV2,3,10.63415904,no
+IQTREE_RelTime,Guangzhou,China,CoV2,4,8.450862698,no
+IQTREE_RelTime,Guangzhou,China,CoV2,5,4.19443142,no
+IQTREE_RelTime,Guangzhou,China,CoV2,6,3.315388027,no
+IQTREE_RelTime,Guangzhou,China,CoV2,7,2.631455452,no
+IQTREE_RelTime,Guangzhou,China,CoV2,8,1.682287435,no
+IQTREE_RelTime,Guangzhou,China,CoV2,9,2.419469237,no
+IQTREE_RelTime,Guangzhou,China,CoV2,10,3.940170214,no
+IQTREE_RelTime,Guangzhou,China,CoV2,11,12.89590198,no
+IQTREE_RelTime,Guangzhou,China,CoV2,12,17.69499129,no
+IQTREE_RelTime,Hong Kong,China,CoV2,1,9.614788434,no
+IQTREE_RelTime,Hong Kong,China,CoV2,2,6.082437911,no
+IQTREE_RelTime,Hong Kong,China,CoV2,3,5.810014862,no
+IQTREE_RelTime,Hong Kong,China,CoV2,4,6.082437911,no
+IQTREE_RelTime,Hong Kong,China,CoV2,5,4.801972213,no
+IQTREE_RelTime,Hong Kong,China,CoV2,6,5.60840006,no
+IQTREE_RelTime,Hong Kong,China,CoV2,7,6.21489988,no
+IQTREE_RelTime,Hong Kong,China,CoV2,8,5.74086203,no
+IQTREE_RelTime,Hong Kong,China,CoV2,9,9.020756679,no
+IQTREE_RelTime,Hong Kong,China,CoV2,10,8.263483131,no
+IQTREE_RelTime,Hong Kong,China,CoV2,11,14.7000277,no
+IQTREE_RelTime,Hong Kong,China,CoV2,12,18.05991919,no
+IQTREE_RelTime,Sarlahi,Nepal,CoV2,1,14.73308164,no
+IQTREE_RelTime,Sarlahi,Nepal,CoV2,2,19.20162776,no
+IQTREE_RelTime,Sarlahi,Nepal,CoV2,3,8.539338794,no
+IQTREE_RelTime,Sarlahi,Nepal,CoV2,4,5.47180956,no
+IQTREE_RelTime,Sarlahi,Nepal,CoV2,5,8.290667501,no
+IQTREE_RelTime,Sarlahi,Nepal,CoV2,6,5.947286682,no
+IQTREE_RelTime,Sarlahi,Nepal,CoV2,7,2.098238619,no
+IQTREE_RelTime,Sarlahi,Nepal,CoV2,8,5.10110697,no
+IQTREE_RelTime,Sarlahi,Nepal,CoV2,9,7.099882692,no
+IQTREE_RelTime,Sarlahi,Nepal,CoV2,10,8.010615179,no
+IQTREE_RelTime,Sarlahi,Nepal,CoV2,11,8.302071929,no
+IQTREE_RelTime,Sarlahi,Nepal,CoV2,12,7.204272673,no
+IQTREE_RelTime,Amsterdam,Netherlands,CoV2,1,10.33511113,no
+IQTREE_RelTime,Amsterdam,Netherlands,CoV2,2,11.79584939,no
+IQTREE_RelTime,Amsterdam,Netherlands,CoV2,3,11.53023639,no
+IQTREE_RelTime,Amsterdam,Netherlands,CoV2,4,10.59828666,no
+IQTREE_RelTime,Amsterdam,Netherlands,CoV2,5,9.865154257,no
+IQTREE_RelTime,Amsterdam,Netherlands,CoV2,6,7.056853112,no
+IQTREE_RelTime,Amsterdam,Netherlands,CoV2,7,7.056853112,no
+IQTREE_RelTime,Amsterdam,Netherlands,CoV2,8,5.47220066,no
+IQTREE_RelTime,Amsterdam,Netherlands,CoV2,9,4.777075266,no
+IQTREE_RelTime,Amsterdam,Netherlands,CoV2,10,6.480960467,no
+IQTREE_RelTime,Amsterdam,Netherlands,CoV2,11,7.243871091,no
+IQTREE_RelTime,Amsterdam,Netherlands,CoV2,12,10.23853765,no
+IQTREE_RelTime,Sor Trondelag,Norway,CoV2,1,15.07471229,no
+IQTREE_RelTime,Sor Trondelag,Norway,CoV2,2,17.06617093,no
+IQTREE_RelTime,Sor Trondelag,Norway,CoV2,3,10.63415904,no
+IQTREE_RelTime,Sor Trondelag,Norway,CoV2,4,8.450862698,no
+IQTREE_RelTime,Sor Trondelag,Norway,CoV2,5,4.19443142,no
+IQTREE_RelTime,Sor Trondelag,Norway,CoV2,6,3.315388027,no
+IQTREE_RelTime,Sor Trondelag,Norway,CoV2,7,2.631455452,no
+IQTREE_RelTime,Sor Trondelag,Norway,CoV2,8,1.682287435,no
+IQTREE_RelTime,Sor Trondelag,Norway,CoV2,9,2.419469237,no
+IQTREE_RelTime,Sor Trondelag,Norway,CoV2,10,3.940170214,no
+IQTREE_RelTime,Sor Trondelag,Norway,CoV2,11,12.89590198,no
+IQTREE_RelTime,Sor Trondelag,Norway,CoV2,12,17.69499129,no
+IQTREE_RelTime,New York,USA,CoV2,1,18.73573802,no
+IQTREE_RelTime,New York,USA,CoV2,2,8.536267195,no
+IQTREE_RelTime,New York,USA,CoV2,3,6.651438043,no
+IQTREE_RelTime,New York,USA,CoV2,4,4.432439349,no
+IQTREE_RelTime,New York,USA,CoV2,5,2.464936319,no
+IQTREE_RelTime,New York,USA,CoV2,6,2.956812245,no
+IQTREE_RelTime,New York,USA,CoV2,7,2.956812245,no
+IQTREE_RelTime,New York,USA,CoV2,8,3.20274987,no
+IQTREE_RelTime,New York,USA,CoV2,9,2.956812245,no
+IQTREE_RelTime,New York,USA,CoV2,10,14.46100641,no
+IQTREE_RelTime,New York,USA,CoV2,11,18.64625962,no
+IQTREE_RelTime,New York,USA,CoV2,12,13.99872844,no
+IQTREE_RelTime,Stockholm,Sweden,CoV2,1,17.1689105,no
+IQTREE_RelTime,Stockholm,Sweden,CoV2,2,18.16378927,no
+IQTREE_RelTime,Stockholm,Sweden,CoV2,3,16.09276276,no
+IQTREE_RelTime,Stockholm,Sweden,CoV2,4,9.883171974,no
+IQTREE_RelTime,Stockholm,Sweden,CoV2,5,6.291434193,no
+IQTREE_RelTime,Stockholm,Sweden,CoV2,6,4.13469661,no
+IQTREE_RelTime,Stockholm,Sweden,CoV2,7,4.13469661,no
+IQTREE_RelTime,Stockholm,Sweden,CoV2,8,0.982438768,no
+IQTREE_RelTime,Stockholm,Sweden,CoV2,9,1.113039967,no
+IQTREE_RelTime,Stockholm,Sweden,CoV2,10,2.095203785,no
+IQTREE_RelTime,Stockholm,Sweden,CoV2,11,5.762363352,no
+IQTREE_RelTime,Stockholm,Sweden,CoV2,12,17.00061059,no
+IQTREE_RelTime,South Korea,South Korea,CoV2,1,13.87595092,no
+IQTREE_RelTime,South Korea,South Korea,CoV2,2,9.96334394,no
+IQTREE_RelTime,South Korea,South Korea,CoV2,3,5.627060254,no
+IQTREE_RelTime,South Korea,South Korea,CoV2,4,5.629528797,no
+IQTREE_RelTime,South Korea,South Korea,CoV2,5,3.548046674,no
+IQTREE_RelTime,South Korea,South Korea,CoV2,6,2.877490332,no
+IQTREE_RelTime,South Korea,South Korea,CoV2,7,2.877490332,no
+IQTREE_RelTime,South Korea,South Korea,CoV2,8,1.84250983,no
+IQTREE_RelTime,South Korea,South Korea,CoV2,9,2.001565432,no
+IQTREE_RelTime,South Korea,South Korea,CoV2,10,6.67548112,no
+IQTREE_RelTime,South Korea,South Korea,CoV2,11,18.56198084,no
+IQTREE_RelTime,South Korea,South Korea,CoV2,12,27.4972463,no
+IQTREE_RelTime,Colorado,USA,CoV2,12,5.95439705,no
+IQTREE_RelTime,Colorado,USA,CoV2,2,5.118174554,no
+IQTREE_RelTime,Colorado,USA,CoV2,3,13.17757166,no
+IQTREE_RelTime,Colorado,USA,CoV2,4,19.55007996,no
+IQTREE_RelTime,Colorado,USA,CoV2,5,15.6809181,no
+IQTREE_RelTime,Colorado,USA,CoV2,6,10.23634911,no
+IQTREE_RelTime,Colorado,USA,CoV2,7,10.23634911,no
+IQTREE_RelTime,Colorado,USA,CoV2,8,4.949244756,no
+IQTREE_RelTime,Colorado,USA,CoV2,9,4.05848601,no
+IQTREE_RelTime,Colorado,USA,CoV2,10,4.05848601,no
+IQTREE_RelTime,Colorado,USA,CoV2,11,4.476597258,no
+IQTREE_RelTime,Colorado,USA,CoV2,1,4.05848601,no
+IQTREE_RelTime,Gothenburg,Sweden,CoV2,1,18.21228897,no
+IQTREE_RelTime,Gothenburg,Sweden,CoV2,2,20.04378642,no
+IQTREE_RelTime,Gothenburg,Sweden,CoV2,3,11.7880636,no
+IQTREE_RelTime,Gothenburg,Sweden,CoV2,4,5.578668441,no
+IQTREE_RelTime,Gothenburg,Sweden,CoV2,5,6.298113862,no
+IQTREE_RelTime,Gothenburg,Sweden,CoV2,6,6.788151739,no
+IQTREE_RelTime,Gothenburg,Sweden,CoV2,7,6.788151739,no
+IQTREE_RelTime,Gothenburg,Sweden,CoV2,8,2.578741678,no
+IQTREE_RelTime,Gothenburg,Sweden,CoV2,9,2.049751644,no
+IQTREE_RelTime,Gothenburg,Sweden,CoV2,10,5.852316742,no
+IQTREE_RelTime,Gothenburg,Sweden,CoV2,11,3.317273343,no
+IQTREE_RelTime,Gothenburg,Sweden,CoV2,12,14.57688938,no
+IQTREE_RelTime,Yamagata,Japan,CoV2,1,17.02337421,no
+IQTREE_RelTime,Yamagata,Japan,CoV2,2,23.05660064,no
+IQTREE_RelTime,Yamagata,Japan,CoV2,3,17.54490399,no
+IQTREE_RelTime,Yamagata,Japan,CoV2,4,8.169339008,no
+IQTREE_RelTime,Yamagata,Japan,CoV2,5,5.456595199,no
+IQTREE_RelTime,Yamagata,Japan,CoV2,6,2.078300634,no
+IQTREE_RelTime,Yamagata,Japan,CoV2,7,2.078300634,no
+IQTREE_RelTime,Yamagata,Japan,CoV2,8,2.666724498,no
+IQTREE_RelTime,Yamagata,Japan,CoV2,9,1.878932481,no
+IQTREE_RelTime,Yamagata,Japan,CoV2,10,4.240757117,no
+IQTREE_RelTime,Yamagata,Japan,CoV2,11,7.414753998,no
+IQTREE_RelTime,Yamagata,Japan,CoV2,12,5.879065809,no
+IQTREE_RelTime,Nakhon Si Thammarat,Thailand,CoV2,1,17.02337421,no
+IQTREE_RelTime,Nakhon Si Thammarat,Thailand,CoV2,2,23.05660064,no
+IQTREE_RelTime,Nakhon Si Thammarat,Thailand,CoV2,3,17.54490399,no
+IQTREE_RelTime,Nakhon Si Thammarat,Thailand,CoV2,4,8.169339008,no
+IQTREE_RelTime,Nakhon Si Thammarat,Thailand,CoV2,5,5.456595199,no
+IQTREE_RelTime,Nakhon Si Thammarat,Thailand,CoV2,6,2.078300634,no
+IQTREE_RelTime,Nakhon Si Thammarat,Thailand,CoV2,7,2.078300634,no
+IQTREE_RelTime,Nakhon Si Thammarat,Thailand,CoV2,8,2.666724498,no
+IQTREE_RelTime,Nakhon Si Thammarat,Thailand,CoV2,9,1.878932481,no
+IQTREE_RelTime,Nakhon Si Thammarat,Thailand,CoV2,10,4.240757117,no
+IQTREE_RelTime,Nakhon Si Thammarat,Thailand,CoV2,11,7.414753998,no
+IQTREE_RelTime,Nakhon Si Thammarat,Thailand,CoV2,12,5.879065809,no
+IQTREE_RelTime_non_recombinant,Beijing,China,CoV2,1,4.135875577,yes
+IQTREE_RelTime_non_recombinant,Beijing,China,CoV2,2,6.155475044,yes
+IQTREE_RelTime_non_recombinant,Beijing,China,CoV2,3,8.555474214,yes
+IQTREE_RelTime_non_recombinant,Beijing,China,CoV2,4,9.23901162,yes
+IQTREE_RelTime_non_recombinant,Beijing,China,CoV2,5,8.07547438,yes
+IQTREE_RelTime_non_recombinant,Beijing,China,CoV2,6,14.61085674,yes
+IQTREE_RelTime_non_recombinant,Beijing,China,CoV2,7,9.220089368,yes
+IQTREE_RelTime_non_recombinant,Beijing,China,CoV2,8,4.878245124,yes
+IQTREE_RelTime_non_recombinant,Beijing,China,CoV2,9,11.11873536,yes
+IQTREE_RelTime_non_recombinant,Beijing,China,CoV2,10,11.61039664,yes
+IQTREE_RelTime_non_recombinant,Beijing,China,CoV2,11,6.857505651,yes
+IQTREE_RelTime_non_recombinant,Beijing,China,CoV2,12,5.542860279,yes
+IQTREE_RelTime_non_recombinant,Tampere,Finland,CoV2,1,11.85166283,yes
+IQTREE_RelTime_non_recombinant,Tampere,Finland,CoV2,2,24.2808618,yes
+IQTREE_RelTime_non_recombinant,Tampere,Finland,CoV2,3,12.82196574,yes
+IQTREE_RelTime_non_recombinant,Tampere,Finland,CoV2,4,8.424342175,yes
+IQTREE_RelTime_non_recombinant,Tampere,Finland,CoV2,5,5.233942223,yes
+IQTREE_RelTime_non_recombinant,Tampere,Finland,CoV2,6,5.233942223,yes
+IQTREE_RelTime_non_recombinant,Tampere,Finland,CoV2,7,4.043542634,yes
+IQTREE_RelTime_non_recombinant,Tampere,Finland,CoV2,8,4.043542634,yes
+IQTREE_RelTime_non_recombinant,Tampere,Finland,CoV2,9,5.233942223,yes
+IQTREE_RelTime_non_recombinant,Tampere,Finland,CoV2,10,4.043542634,yes
+IQTREE_RelTime_non_recombinant,Tampere,Finland,CoV2,11,5.233942223,yes
+IQTREE_RelTime_non_recombinant,Tampere,Finland,CoV2,12,9.554770663,yes
+IQTREE_RelTime_non_recombinant,Guangzhou,China,CoV2,1,15.09442546,yes
+IQTREE_RelTime_non_recombinant,Guangzhou,China,CoV2,2,17.05330148,yes
+IQTREE_RelTime_non_recombinant,Guangzhou,China,CoV2,3,10.57235253,yes
+IQTREE_RelTime_non_recombinant,Guangzhou,China,CoV2,4,8.405685935,yes
+IQTREE_RelTime_non_recombinant,Guangzhou,China,CoV2,5,4.190921381,yes
+IQTREE_RelTime_non_recombinant,Guangzhou,China,CoV2,6,3.295774368,yes
+IQTREE_RelTime_non_recombinant,Guangzhou,China,CoV2,7,2.625445929,yes
+IQTREE_RelTime_non_recombinant,Guangzhou,China,CoV2,8,1.677053755,yes
+IQTREE_RelTime_non_recombinant,Guangzhou,China,CoV2,9,2.42041633,yes
+IQTREE_RelTime_non_recombinant,Guangzhou,China,CoV2,10,3.953867128,yes
+IQTREE_RelTime_non_recombinant,Guangzhou,China,CoV2,11,12.94788035,yes
+IQTREE_RelTime_non_recombinant,Guangzhou,China,CoV2,12,17.76287535,yes
+IQTREE_RelTime_non_recombinant,Hong Kong,China,CoV2,1,9.654745015,yes
+IQTREE_RelTime_non_recombinant,Hong Kong,China,CoV2,2,6.066578669,yes
+IQTREE_RelTime_non_recombinant,Hong Kong,China,CoV2,3,5.791871071,yes
+IQTREE_RelTime_non_recombinant,Hong Kong,China,CoV2,4,6.066578669,yes
+IQTREE_RelTime_non_recombinant,Hong Kong,China,CoV2,5,4.801577459,yes
+IQTREE_RelTime_non_recombinant,Hong Kong,China,CoV2,6,5.574110156,yes
+IQTREE_RelTime_non_recombinant,Hong Kong,China,CoV2,7,6.197439611,yes
+IQTREE_RelTime_non_recombinant,Hong Kong,China,CoV2,8,5.704971098,yes
+IQTREE_RelTime_non_recombinant,Hong Kong,China,CoV2,9,8.954541397,yes
+IQTREE_RelTime_non_recombinant,Hong Kong,China,CoV2,10,8.234286156,yes
+IQTREE_RelTime_non_recombinant,Hong Kong,China,CoV2,11,14.78262017,yes
+IQTREE_RelTime_non_recombinant,Hong Kong,China,CoV2,12,18.17068053,yes
+IQTREE_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,1,14.80581569,yes
+IQTREE_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,2,19.29830397,yes
+IQTREE_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,3,8.565253848,yes
+IQTREE_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,4,5.466893347,yes
+IQTREE_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,5,8.32290738,yes
+IQTREE_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,6,5.97851455,yes
+IQTREE_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,7,2.097195503,yes
+IQTREE_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,8,5.058778854,yes
+IQTREE_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,9,7.033413117,yes
+IQTREE_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,10,7.933146251,yes
+IQTREE_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,11,8.25294066,yes
+IQTREE_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,12,7.186836828,yes
+IQTREE_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,1,10.32744055,yes
+IQTREE_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,2,11.79287982,yes
+IQTREE_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,3,11.52503992,yes
+IQTREE_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,4,10.5940801,yes
+IQTREE_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,5,9.887919209,yes
+IQTREE_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,6,7.073679474,yes
+IQTREE_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,7,7.073679474,yes
+IQTREE_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,8,5.476159636,yes
+IQTREE_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,9,4.778559684,yes
+IQTREE_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,10,6.470320469,yes
+IQTREE_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,11,7.221601234,yes
+IQTREE_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,12,10.23928025,yes
+IQTREE_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,1,15.09442546,yes
+IQTREE_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,2,17.05330148,yes
+IQTREE_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,3,10.57235253,yes
+IQTREE_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,4,8.405685935,yes
+IQTREE_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,5,4.190921381,yes
+IQTREE_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,6,3.295774368,yes
+IQTREE_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,7,2.625445929,yes
+IQTREE_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,8,1.677053755,yes
+IQTREE_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,9,2.42041633,yes
+IQTREE_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,10,3.953867128,yes
+IQTREE_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,11,12.94788035,yes
+IQTREE_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,12,17.76287535,yes
+IQTREE_RelTime_non_recombinant,New York,USA,CoV2,1,18.6906193,yes
+IQTREE_RelTime_non_recombinant,New York,USA,CoV2,2,8.533816709,yes
+IQTREE_RelTime_non_recombinant,New York,USA,CoV2,3,6.656654141,yes
+IQTREE_RelTime_non_recombinant,New York,USA,CoV2,4,4.444326685,yes
+IQTREE_RelTime_non_recombinant,New York,USA,CoV2,5,2.46032737,yes
+IQTREE_RelTime_non_recombinant,New York,USA,CoV2,6,2.956327199,yes
+IQTREE_RelTime_non_recombinant,New York,USA,CoV2,7,2.956327199,yes
+IQTREE_RelTime_non_recombinant,New York,USA,CoV2,8,3.204327113,yes
+IQTREE_RelTime_non_recombinant,New York,USA,CoV2,9,2.956327199,yes
+IQTREE_RelTime_non_recombinant,New York,USA,CoV2,10,14.40712756,yes
+IQTREE_RelTime_non_recombinant,New York,USA,CoV2,11,18.68777136,yes
+IQTREE_RelTime_non_recombinant,New York,USA,CoV2,12,14.04604816,yes
+IQTREE_RelTime_non_recombinant,Stockholm,Sweden,CoV2,1,17.26805917,yes
+IQTREE_RelTime_non_recombinant,Stockholm,Sweden,CoV2,2,18.03263954,yes
+IQTREE_RelTime_non_recombinant,Stockholm,Sweden,CoV2,3,15.91026569,yes
+IQTREE_RelTime_non_recombinant,Stockholm,Sweden,CoV2,4,9.783137279,yes
+IQTREE_RelTime_non_recombinant,Stockholm,Sweden,CoV2,5,6.256963429,yes
+IQTREE_RelTime_non_recombinant,Stockholm,Sweden,CoV2,6,4.146997417,yes
+IQTREE_RelTime_non_recombinant,Stockholm,Sweden,CoV2,7,4.146997417,yes
+IQTREE_RelTime_non_recombinant,Stockholm,Sweden,CoV2,8,0.976084723,yes
+IQTREE_RelTime_non_recombinant,Stockholm,Sweden,CoV2,9,1.125810238,yes
+IQTREE_RelTime_non_recombinant,Stockholm,Sweden,CoV2,10,2.103474965,yes
+IQTREE_RelTime_non_recombinant,Stockholm,Sweden,CoV2,11,5.836387715,yes
+IQTREE_RelTime_non_recombinant,Stockholm,Sweden,CoV2,12,17.23493205,yes
+IQTREE_RelTime_non_recombinant,South Korea,South Korea,CoV2,1,13.82315388,yes
+IQTREE_RelTime_non_recombinant,South Korea,South Korea,CoV2,2,9.815340383,yes
+IQTREE_RelTime_non_recombinant,South Korea,South Korea,CoV2,3,5.550315466,yes
+IQTREE_RelTime_non_recombinant,South Korea,South Korea,CoV2,4,5.585685001,yes
+IQTREE_RelTime_non_recombinant,South Korea,South Korea,CoV2,5,3.552910132,yes
+IQTREE_RelTime_non_recombinant,South Korea,South Korea,CoV2,6,2.873326527,yes
+IQTREE_RelTime_non_recombinant,South Korea,South Korea,CoV2,7,2.873326527,yes
+IQTREE_RelTime_non_recombinant,South Korea,South Korea,CoV2,8,1.862564526,yes
+IQTREE_RelTime_non_recombinant,South Korea,South Korea,CoV2,9,1.998672357,yes
+IQTREE_RelTime_non_recombinant,South Korea,South Korea,CoV2,10,6.689556962,yes
+IQTREE_RelTime_non_recombinant,South Korea,South Korea,CoV2,11,18.67692689,yes
+IQTREE_RelTime_non_recombinant,South Korea,South Korea,CoV2,12,27.67226363,yes
+IQTREE_RelTime_non_recombinant,Colorado,USA,CoV2,12,5.951871986,yes
+IQTREE_RelTime_non_recombinant,Colorado,USA,CoV2,2,5.125749488,yes
+IQTREE_RelTime_non_recombinant,Colorado,USA,CoV2,3,13.19282862,yes
+IQTREE_RelTime_non_recombinant,Colorado,USA,CoV2,4,19.55776185,yes
+IQTREE_RelTime_non_recombinant,Colorado,USA,CoV2,5,15.65281443,yes
+IQTREE_RelTime_non_recombinant,Colorado,USA,CoV2,6,10.25149898,yes
+IQTREE_RelTime_non_recombinant,Colorado,USA,CoV2,7,10.25149898,yes
+IQTREE_RelTime_non_recombinant,Colorado,USA,CoV2,8,4.945732782,yes
+IQTREE_RelTime_non_recombinant,Colorado,USA,CoV2,9,4.065731941,yes
+IQTREE_RelTime_non_recombinant,Colorado,USA,CoV2,10,4.065731941,yes
+IQTREE_RelTime_non_recombinant,Colorado,USA,CoV2,11,4.478793189,yes
+IQTREE_RelTime_non_recombinant,Colorado,USA,CoV2,1,4.065731941,yes
+IQTREE_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,1,18.3333817,yes
+IQTREE_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,2,19.9899198,yes
+IQTREE_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,3,11.6820591,yes
+IQTREE_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,4,5.523610686,yes
+IQTREE_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,5,6.188478465,yes
+IQTREE_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,6,6.68592191,yes
+IQTREE_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,7,6.68592191,yes
+IQTREE_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,8,2.575012315,yes
+IQTREE_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,9,2.058400626,yes
+IQTREE_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,10,5.941825783,yes
+IQTREE_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,11,3.352875678,yes
+IQTREE_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,12,14.78305164,yes
+IQTREE_RelTime_non_recombinant,Yamagata,Japan,CoV2,1,17.04439724,yes
+IQTREE_RelTime_non_recombinant,Yamagata,Japan,CoV2,2,23.14695477,yes
+IQTREE_RelTime_non_recombinant,Yamagata,Japan,CoV2,3,17.50095366,yes
+IQTREE_RelTime_non_recombinant,Yamagata,Japan,CoV2,4,8.106222593,yes
+IQTREE_RelTime_non_recombinant,Yamagata,Japan,CoV2,5,5.444358255,yes
+IQTREE_RelTime_non_recombinant,Yamagata,Japan,CoV2,6,2.064935121,yes
+IQTREE_RelTime_non_recombinant,Yamagata,Japan,CoV2,7,2.064935121,yes
+IQTREE_RelTime_non_recombinant,Yamagata,Japan,CoV2,8,2.663343545,yes
+IQTREE_RelTime_non_recombinant,Yamagata,Japan,CoV2,9,1.86797566,yes
+IQTREE_RelTime_non_recombinant,Yamagata,Japan,CoV2,10,4.255623324,yes
+IQTREE_RelTime_non_recombinant,Yamagata,Japan,CoV2,11,7.43253221,yes
+IQTREE_RelTime_non_recombinant,Yamagata,Japan,CoV2,12,5.861725164,yes
+IQTREE_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,1,17.04439724,yes
+IQTREE_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,2,23.14695477,yes
+IQTREE_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,3,17.50095366,yes
+IQTREE_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,4,8.106222593,yes
+IQTREE_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,5,5.444358255,yes
+IQTREE_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,6,2.064935121,yes
+IQTREE_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,7,2.064935121,yes
+IQTREE_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,8,2.663343545,yes
+IQTREE_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,9,1.86797566,yes
+IQTREE_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,10,4.255623324,yes
+IQTREE_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,11,7.43253221,yes
+IQTREE_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,12,5.861725164,yes
+IQTREE_time_tree,Beijing,China,CoV2,1,4.118066417,no
+IQTREE_time_tree,Beijing,China,CoV2,2,6.114086685,no
+IQTREE_time_tree,Beijing,China,CoV2,3,8.618336158,no
+IQTREE_time_tree,Beijing,China,CoV2,4,9.414492159,no
+IQTREE_time_tree,Beijing,China,CoV2,5,8.117486264,no
+IQTREE_time_tree,Beijing,China,CoV2,6,14.98937264,no
+IQTREE_time_tree,Beijing,China,CoV2,7,9.2591982,no
+IQTREE_time_tree,Beijing,China,CoV2,8,4.729660385,no
+IQTREE_time_tree,Beijing,China,CoV2,9,10.99113853,no
+IQTREE_time_tree,Beijing,China,CoV2,10,11.47062285,no
+IQTREE_time_tree,Beijing,China,CoV2,11,6.807017287,no
+IQTREE_time_tree,Beijing,China,CoV2,12,5.370522429,no
+IQTREE_time_tree,Tampere,Finland,CoV2,1,11.75182989,no
+IQTREE_time_tree,Tampere,Finland,CoV2,2,23.93166518,no
+IQTREE_time_tree,Tampere,Finland,CoV2,3,12.68629302,no
+IQTREE_time_tree,Tampere,Finland,CoV2,4,8.627613541,no
+IQTREE_time_tree,Tampere,Finland,CoV2,5,5.292084279,no
+IQTREE_time_tree,Tampere,Finland,CoV2,6,5.292084279,no
+IQTREE_time_tree,Tampere,Finland,CoV2,7,4.049976541,no
+IQTREE_time_tree,Tampere,Finland,CoV2,8,4.049976541,no
+IQTREE_time_tree,Tampere,Finland,CoV2,9,5.292084279,no
+IQTREE_time_tree,Tampere,Finland,CoV2,10,4.049976541,no
+IQTREE_time_tree,Tampere,Finland,CoV2,11,5.292084279,no
+IQTREE_time_tree,Tampere,Finland,CoV2,12,9.684331626,no
+IQTREE_time_tree,Guangzhou,China,CoV2,1,14.9147579,no
+IQTREE_time_tree,Guangzhou,China,CoV2,2,16.74494892,no
+IQTREE_time_tree,Guangzhou,China,CoV2,3,10.54265128,no
+IQTREE_time_tree,Guangzhou,China,CoV2,4,8.565539559,no
+IQTREE_time_tree,Guangzhou,China,CoV2,5,4.297186114,no
+IQTREE_time_tree,Guangzhou,China,CoV2,6,3.297755453,no
+IQTREE_time_tree,Guangzhou,China,CoV2,7,2.625165295,no
+IQTREE_time_tree,Guangzhou,China,CoV2,8,1.700977777,no
+IQTREE_time_tree,Guangzhou,China,CoV2,9,2.4545628,no
+IQTREE_time_tree,Guangzhou,China,CoV2,10,4.032555614,no
+IQTREE_time_tree,Guangzhou,China,CoV2,11,13.06098342,no
+IQTREE_time_tree,Guangzhou,China,CoV2,12,17.76291587,no
+IQTREE_time_tree,Hong Kong,China,CoV2,1,9.811921076,no
+IQTREE_time_tree,Hong Kong,China,CoV2,2,6.132848481,no
+IQTREE_time_tree,Hong Kong,China,CoV2,3,5.900935556,no
+IQTREE_time_tree,Hong Kong,China,CoV2,4,6.132848481,no
+IQTREE_time_tree,Hong Kong,China,CoV2,5,4.802670693,no
+IQTREE_time_tree,Hong Kong,China,CoV2,6,5.565466394,no
+IQTREE_time_tree,Hong Kong,China,CoV2,7,6.042667352,no
+IQTREE_time_tree,Hong Kong,China,CoV2,8,5.475285265,no
+IQTREE_time_tree,Hong Kong,China,CoV2,9,8.433012326,no
+IQTREE_time_tree,Hong Kong,China,CoV2,10,8.006218576,no
+IQTREE_time_tree,Hong Kong,China,CoV2,11,15.05308438,no
+IQTREE_time_tree,Hong Kong,China,CoV2,12,18.64304142,no
+IQTREE_time_tree,Sarlahi,Nepal,CoV2,1,14.99296274,no
+IQTREE_time_tree,Sarlahi,Nepal,CoV2,2,19.65546897,no
+IQTREE_time_tree,Sarlahi,Nepal,CoV2,3,8.808447529,no
+IQTREE_time_tree,Sarlahi,Nepal,CoV2,4,5.598026432,no
+IQTREE_time_tree,Sarlahi,Nepal,CoV2,5,8.557618021,no
+IQTREE_time_tree,Sarlahi,Nepal,CoV2,6,6.144394639,no
+IQTREE_time_tree,Sarlahi,Nepal,CoV2,7,2.140086352,no
+IQTREE_time_tree,Sarlahi,Nepal,CoV2,8,4.717429445,no
+IQTREE_time_tree,Sarlahi,Nepal,CoV2,9,6.471571058,no
+IQTREE_time_tree,Sarlahi,Nepal,CoV2,10,7.377382134,no
+IQTREE_time_tree,Sarlahi,Nepal,CoV2,11,8.178980737,no
+IQTREE_time_tree,Sarlahi,Nepal,CoV2,12,7.357631939,no
+IQTREE_time_tree,Amsterdam,Netherlands,CoV2,1,10.36490952,no
+IQTREE_time_tree,Amsterdam,Netherlands,CoV2,2,11.72902677,no
+IQTREE_time_tree,Amsterdam,Netherlands,CoV2,3,11.44955253,no
+IQTREE_time_tree,Amsterdam,Netherlands,CoV2,4,10.5698381,no
+IQTREE_time_tree,Amsterdam,Netherlands,CoV2,5,9.948042765,no
+IQTREE_time_tree,Amsterdam,Netherlands,CoV2,6,7.125235578,no
+IQTREE_time_tree,Amsterdam,Netherlands,CoV2,7,7.125235578,no
+IQTREE_time_tree,Amsterdam,Netherlands,CoV2,8,5.43725216,no
+IQTREE_time_tree,Amsterdam,Netherlands,CoV2,9,4.733234743,no
+IQTREE_time_tree,Amsterdam,Netherlands,CoV2,10,6.455945372,no
+IQTREE_time_tree,Amsterdam,Netherlands,CoV2,11,7.272229599,no
+IQTREE_time_tree,Amsterdam,Netherlands,CoV2,12,10.29230065,no
+IQTREE_time_tree,Sor Trondelag,Norway,CoV2,1,14.9147579,no
+IQTREE_time_tree,Sor Trondelag,Norway,CoV2,2,16.74494892,no
+IQTREE_time_tree,Sor Trondelag,Norway,CoV2,3,10.54265128,no
+IQTREE_time_tree,Sor Trondelag,Norway,CoV2,4,8.565539559,no
+IQTREE_time_tree,Sor Trondelag,Norway,CoV2,5,4.297186114,no
+IQTREE_time_tree,Sor Trondelag,Norway,CoV2,6,3.297755453,no
+IQTREE_time_tree,Sor Trondelag,Norway,CoV2,7,2.625165295,no
+IQTREE_time_tree,Sor Trondelag,Norway,CoV2,8,1.700977777,no
+IQTREE_time_tree,Sor Trondelag,Norway,CoV2,9,2.4545628,no
+IQTREE_time_tree,Sor Trondelag,Norway,CoV2,10,4.032555614,no
+IQTREE_time_tree,Sor Trondelag,Norway,CoV2,11,13.06098342,no
+IQTREE_time_tree,Sor Trondelag,Norway,CoV2,12,17.76291587,no
+IQTREE_time_tree,New York,USA,CoV2,1,18.26075431,no
+IQTREE_time_tree,New York,USA,CoV2,2,8.742663136,no
+IQTREE_time_tree,New York,USA,CoV2,3,6.618265855,no
+IQTREE_time_tree,New York,USA,CoV2,4,4.422302067,no
+IQTREE_time_tree,New York,USA,CoV2,5,2.420531657,no
+IQTREE_time_tree,New York,USA,CoV2,6,2.938076547,no
+IQTREE_time_tree,New York,USA,CoV2,7,2.938076547,no
+IQTREE_time_tree,New York,USA,CoV2,8,3.162644416,no
+IQTREE_time_tree,New York,USA,CoV2,9,2.938076547,no
+IQTREE_time_tree,New York,USA,CoV2,10,14.42124894,no
+IQTREE_time_tree,New York,USA,CoV2,11,18.93792909,no
+IQTREE_time_tree,New York,USA,CoV2,12,14.19943088,no
+IQTREE_time_tree,Stockholm,Sweden,CoV2,1,17.3127709,no
+IQTREE_time_tree,Stockholm,Sweden,CoV2,2,17.54830359,no
+IQTREE_time_tree,Stockholm,Sweden,CoV2,3,15.65887091,no
+IQTREE_time_tree,Stockholm,Sweden,CoV2,4,9.739945166,no
+IQTREE_time_tree,Stockholm,Sweden,CoV2,5,6.281451823,no
+IQTREE_time_tree,Stockholm,Sweden,CoV2,6,4.239179379,no
+IQTREE_time_tree,Stockholm,Sweden,CoV2,7,4.239179379,no
+IQTREE_time_tree,Stockholm,Sweden,CoV2,8,0.972494935,no
+IQTREE_time_tree,Stockholm,Sweden,CoV2,9,1.158132932,no
+IQTREE_time_tree,Stockholm,Sweden,CoV2,10,2.162692803,no
+IQTREE_time_tree,Stockholm,Sweden,CoV2,11,5.972964798,no
+IQTREE_time_tree,Stockholm,Sweden,CoV2,12,17.58785119,no
+IQTREE_time_tree,South Korea,South Korea,CoV2,1,13.65296114,no
+IQTREE_time_tree,South Korea,South Korea,CoV2,2,9.552384203,no
+IQTREE_time_tree,South Korea,South Korea,CoV2,3,5.407112004,no
+IQTREE_time_tree,South Korea,South Korea,CoV2,4,5.595255288,no
+IQTREE_time_tree,South Korea,South Korea,CoV2,5,3.62474351,no
+IQTREE_time_tree,South Korea,South Korea,CoV2,6,2.957381444,no
+IQTREE_time_tree,South Korea,South Korea,CoV2,7,2.957381444,no
+IQTREE_time_tree,South Korea,South Korea,CoV2,8,1.919480032,no
+IQTREE_time_tree,South Korea,South Korea,CoV2,9,1.982133678,no
+IQTREE_time_tree,South Korea,South Korea,CoV2,10,6.750921673,no
+IQTREE_time_tree,South Korea,South Korea,CoV2,11,18.69606932,no
+IQTREE_time_tree,South Korea,South Korea,CoV2,12,27.91962217,no
+IQTREE_time_tree,Colorado,USA,CoV2,12,5.863531494,no
+IQTREE_time_tree,Colorado,USA,CoV2,2,5.129655921,no
+IQTREE_time_tree,Colorado,USA,CoV2,3,13.09868885,no
+IQTREE_time_tree,Colorado,USA,CoV2,4,19.32915814,no
+IQTREE_time_tree,Colorado,USA,CoV2,5,15.75805679,no
+IQTREE_time_tree,Colorado,USA,CoV2,6,10.25931184,no
+IQTREE_time_tree,Colorado,USA,CoV2,7,10.25931184,no
+IQTREE_time_tree,Colorado,USA,CoV2,8,5.01300065,no
+IQTREE_time_tree,Colorado,USA,CoV2,9,4.087659581,no
+IQTREE_time_tree,Colorado,USA,CoV2,10,4.087659581,no
+IQTREE_time_tree,Colorado,USA,CoV2,11,4.454597367,no
+IQTREE_time_tree,Colorado,USA,CoV2,1,4.087659581,no
+IQTREE_time_tree,Gothenburg,Sweden,CoV2,1,18.63057349,no
+IQTREE_time_tree,Gothenburg,Sweden,CoV2,2,19.44639963,no
+IQTREE_time_tree,Gothenburg,Sweden,CoV2,3,11.32091999,no
+IQTREE_time_tree,Gothenburg,Sweden,CoV2,4,5.428934732,no
+IQTREE_time_tree,Gothenburg,Sweden,CoV2,5,6.016387211,no
+IQTREE_time_tree,Gothenburg,Sweden,CoV2,6,6.771876317,no
+IQTREE_time_tree,Gothenburg,Sweden,CoV2,7,6.771876317,no
+IQTREE_time_tree,Gothenburg,Sweden,CoV2,8,2.629409141,no
+IQTREE_time_tree,Gothenburg,Sweden,CoV2,9,2.098926197,no
+IQTREE_time_tree,Gothenburg,Sweden,CoV2,10,6.160626102,no
+IQTREE_time_tree,Gothenburg,Sweden,CoV2,11,3.452826165,no
+IQTREE_time_tree,Gothenburg,Sweden,CoV2,12,15.22138201,no
+IQTREE_time_tree,Yamagata,Japan,CoV2,1,16.6013252,no
+IQTREE_time_tree,Yamagata,Japan,CoV2,2,23.19663264,no
+IQTREE_time_tree,Yamagata,Japan,CoV2,3,17.76622745,no
+IQTREE_time_tree,Yamagata,Japan,CoV2,4,8.145653382,no
+IQTREE_time_tree,Yamagata,Japan,CoV2,5,5.538391737,no
+IQTREE_time_tree,Yamagata,Japan,CoV2,6,1.974671608,no
+IQTREE_time_tree,Yamagata,Japan,CoV2,7,1.974671608,no
+IQTREE_time_tree,Yamagata,Japan,CoV2,8,2.598173339,no
+IQTREE_time_tree,Yamagata,Japan,CoV2,9,1.926738866,no
+IQTREE_time_tree,Yamagata,Japan,CoV2,10,4.336162176,no
+IQTREE_time_tree,Yamagata,Japan,CoV2,11,7.561907397,no
+IQTREE_time_tree,Yamagata,Japan,CoV2,12,5.718603812,no
+IQTREE_time_tree,Nakhon Si Thammarat,Thailand,CoV2,1,16.6013252,no
+IQTREE_time_tree,Nakhon Si Thammarat,Thailand,CoV2,2,23.19663264,no
+IQTREE_time_tree,Nakhon Si Thammarat,Thailand,CoV2,3,17.76622745,no
+IQTREE_time_tree,Nakhon Si Thammarat,Thailand,CoV2,4,8.145653382,no
+IQTREE_time_tree,Nakhon Si Thammarat,Thailand,CoV2,5,5.538391737,no
+IQTREE_time_tree,Nakhon Si Thammarat,Thailand,CoV2,6,1.974671608,no
+IQTREE_time_tree,Nakhon Si Thammarat,Thailand,CoV2,7,1.974671608,no
+IQTREE_time_tree,Nakhon Si Thammarat,Thailand,CoV2,8,2.598173339,no
+IQTREE_time_tree,Nakhon Si Thammarat,Thailand,CoV2,9,1.926738866,no
+IQTREE_time_tree,Nakhon Si Thammarat,Thailand,CoV2,10,4.336162176,no
+IQTREE_time_tree,Nakhon Si Thammarat,Thailand,CoV2,11,7.561907397,no
+IQTREE_time_tree,Nakhon Si Thammarat,Thailand,CoV2,12,5.718603812,no
+IQTREE_time_tree_non_recombinant,Beijing,China,CoV2,1,4.159567436,yes
+IQTREE_time_tree_non_recombinant,Beijing,China,CoV2,2,6.134807436,yes
+IQTREE_time_tree_non_recombinant,Beijing,China,CoV2,3,8.50730962,yes
+IQTREE_time_tree_non_recombinant,Beijing,China,CoV2,4,9.289101679,yes
+IQTREE_time_tree_non_recombinant,Beijing,China,CoV2,5,8.032809183,yes
+IQTREE_time_tree_non_recombinant,Beijing,China,CoV2,6,14.4933171,yes
+IQTREE_time_tree_non_recombinant,Beijing,China,CoV2,7,9.164308251,yes
+IQTREE_time_tree_non_recombinant,Beijing,China,CoV2,8,4.900860077,yes
+IQTREE_time_tree_non_recombinant,Beijing,China,CoV2,9,11.14092746,yes
+IQTREE_time_tree_non_recombinant,Beijing,China,CoV2,10,11.71925539,yes
+IQTREE_time_tree_non_recombinant,Beijing,China,CoV2,11,6.899877664,yes
+IQTREE_time_tree_non_recombinant,Beijing,China,CoV2,12,5.557858709,yes
+IQTREE_time_tree_non_recombinant,Tampere,Finland,CoV2,1,11.91362538,yes
+IQTREE_time_tree_non_recombinant,Tampere,Finland,CoV2,2,24.39985429,yes
+IQTREE_time_tree_non_recombinant,Tampere,Finland,CoV2,3,12.78453454,yes
+IQTREE_time_tree_non_recombinant,Tampere,Finland,CoV2,4,8.394868597,yes
+IQTREE_time_tree_non_recombinant,Tampere,Finland,CoV2,5,5.218107169,yes
+IQTREE_time_tree_non_recombinant,Tampere,Finland,CoV2,6,5.218107169,yes
+IQTREE_time_tree_non_recombinant,Tampere,Finland,CoV2,7,4.041346085,yes
+IQTREE_time_tree_non_recombinant,Tampere,Finland,CoV2,8,4.041346085,yes
+IQTREE_time_tree_non_recombinant,Tampere,Finland,CoV2,9,5.218107169,yes
+IQTREE_time_tree_non_recombinant,Tampere,Finland,CoV2,10,4.041346085,yes
+IQTREE_time_tree_non_recombinant,Tampere,Finland,CoV2,11,5.218107169,yes
+IQTREE_time_tree_non_recombinant,Tampere,Finland,CoV2,12,9.510650255,yes
+IQTREE_time_tree_non_recombinant,Guangzhou,China,CoV2,1,15.06726379,yes
+IQTREE_time_tree_non_recombinant,Guangzhou,China,CoV2,2,17.07103432,yes
+IQTREE_time_tree_non_recombinant,Guangzhou,China,CoV2,3,10.65752487,yes
+IQTREE_time_tree_non_recombinant,Guangzhou,China,CoV2,4,8.467940629,yes
+IQTREE_time_tree_non_recombinant,Guangzhou,China,CoV2,5,4.195758484,yes
+IQTREE_time_tree_non_recombinant,Guangzhou,China,CoV2,6,3.32280278,yes
+IQTREE_time_tree_non_recombinant,Guangzhou,China,CoV2,7,2.633727519,yes
+IQTREE_time_tree_non_recombinant,Guangzhou,China,CoV2,8,1.684265616,yes
+IQTREE_time_tree_non_recombinant,Guangzhou,China,CoV2,9,2.419110598,yes
+IQTREE_time_tree_non_recombinant,Guangzhou,China,CoV2,10,3.934991697,yes
+IQTREE_time_tree_non_recombinant,Guangzhou,China,CoV2,11,12.87625023,yes
+IQTREE_time_tree_non_recombinant,Guangzhou,China,CoV2,12,17.66932947,yes
+IQTREE_time_tree_non_recombinant,Hong Kong,China,CoV2,1,9.599682385,yes
+IQTREE_time_tree_non_recombinant,Hong Kong,China,CoV2,2,6.088431364,yes
+IQTREE_time_tree_non_recombinant,Hong Kong,China,CoV2,3,5.816873166,yes
+IQTREE_time_tree_non_recombinant,Hong Kong,China,CoV2,4,6.088431364,yes
+IQTREE_time_tree_non_recombinant,Hong Kong,China,CoV2,5,4.802120019,yes
+IQTREE_time_tree_non_recombinant,Hong Kong,China,CoV2,6,5.621362525,yes
+IQTREE_time_tree_non_recombinant,Hong Kong,China,CoV2,7,6.221500405,yes
+IQTREE_time_tree_non_recombinant,Hong Kong,China,CoV2,8,5.754431565,yes
+IQTREE_time_tree_non_recombinant,Hong Kong,China,CoV2,9,9.045792753,yes
+IQTREE_time_tree_non_recombinant,Hong Kong,China,CoV2,10,8.274523424,yes
+IQTREE_time_tree_non_recombinant,Hong Kong,China,CoV2,11,14.66880295,yes
+IQTREE_time_tree_non_recombinant,Hong Kong,China,CoV2,12,18.01804808,yes
+IQTREE_time_tree_non_recombinant,Sarlahi,Nepal,CoV2,1,14.7055802,yes
+IQTREE_time_tree_non_recombinant,Sarlahi,Nepal,CoV2,2,19.16507569,yes
+IQTREE_time_tree_non_recombinant,Sarlahi,Nepal,CoV2,3,8.529541158,yes
+IQTREE_time_tree_non_recombinant,Sarlahi,Nepal,CoV2,4,5.473667762,yes
+IQTREE_time_tree_non_recombinant,Sarlahi,Nepal,CoV2,5,8.278480486,yes
+IQTREE_time_tree_non_recombinant,Sarlahi,Nepal,CoV2,6,5.935481748,yes
+IQTREE_time_tree_non_recombinant,Sarlahi,Nepal,CoV2,7,2.098633,yes
+IQTREE_time_tree_non_recombinant,Sarlahi,Nepal,CoV2,8,5.117111199,yes
+IQTREE_time_tree_non_recombinant,Sarlahi,Nepal,CoV2,9,7.125015159,yes
+IQTREE_time_tree_non_recombinant,Sarlahi,Nepal,CoV2,10,8.039905785,yes
+IQTREE_time_tree_non_recombinant,Sarlahi,Nepal,CoV2,11,8.320645511,yes
+IQTREE_time_tree_non_recombinant,Sarlahi,Nepal,CoV2,12,7.210862305,yes
+IQTREE_time_tree_non_recombinant,Amsterdam,Netherlands,CoV2,1,10.33801109,yes
+IQTREE_time_tree_non_recombinant,Amsterdam,Netherlands,CoV2,2,11.79697247,yes
+IQTREE_time_tree_non_recombinant,Amsterdam,Netherlands,CoV2,3,11.53220122,yes
+IQTREE_time_tree_non_recombinant,Amsterdam,Netherlands,CoV2,4,10.59987709,yes
+IQTREE_time_tree_non_recombinant,Amsterdam,Netherlands,CoV2,5,9.856546945,yes
+IQTREE_time_tree_non_recombinant,Amsterdam,Netherlands,CoV2,6,7.050490979,yes
+IQTREE_time_tree_non_recombinant,Amsterdam,Netherlands,CoV2,7,7.050490979,yes
+IQTREE_time_tree_non_recombinant,Amsterdam,Netherlands,CoV2,8,5.470703936,yes
+IQTREE_time_tree_non_recombinant,Amsterdam,Netherlands,CoV2,9,4.776514383,yes
+IQTREE_time_tree_non_recombinant,Amsterdam,Netherlands,CoV2,10,6.484983143,yes
+IQTREE_time_tree_non_recombinant,Amsterdam,Netherlands,CoV2,11,7.252291138,yes
+IQTREE_time_tree_non_recombinant,Amsterdam,Netherlands,CoV2,12,10.23825648,yes
+IQTREE_time_tree_non_recombinant,Sor Trondelag,Norway,CoV2,1,15.06726379,yes
+IQTREE_time_tree_non_recombinant,Sor Trondelag,Norway,CoV2,2,17.07103432,yes
+IQTREE_time_tree_non_recombinant,Sor Trondelag,Norway,CoV2,3,10.65752487,yes
+IQTREE_time_tree_non_recombinant,Sor Trondelag,Norway,CoV2,4,8.467940629,yes
+IQTREE_time_tree_non_recombinant,Sor Trondelag,Norway,CoV2,5,4.195758484,yes
+IQTREE_time_tree_non_recombinant,Sor Trondelag,Norway,CoV2,6,3.32280278,yes
+IQTREE_time_tree_non_recombinant,Sor Trondelag,Norway,CoV2,7,2.633727519,yes
+IQTREE_time_tree_non_recombinant,Sor Trondelag,Norway,CoV2,8,1.684265616,yes
+IQTREE_time_tree_non_recombinant,Sor Trondelag,Norway,CoV2,9,2.419110598,yes
+IQTREE_time_tree_non_recombinant,Sor Trondelag,Norway,CoV2,10,3.934991697,yes
+IQTREE_time_tree_non_recombinant,Sor Trondelag,Norway,CoV2,11,12.87625023,yes
+IQTREE_time_tree_non_recombinant,Sor Trondelag,Norway,CoV2,12,17.66932947,yes
+IQTREE_time_tree_non_recombinant,New York,USA,CoV2,1,18.75279382,yes
+IQTREE_time_tree_non_recombinant,New York,USA,CoV2,2,8.537193318,yes
+IQTREE_time_tree_non_recombinant,New York,USA,CoV2,3,6.649466285,yes
+IQTREE_time_tree_non_recombinant,New York,USA,CoV2,4,4.427944735,yes
+IQTREE_time_tree_non_recombinant,New York,USA,CoV2,5,2.466678827,yes
+IQTREE_time_tree_non_recombinant,New York,USA,CoV2,6,2.956995945,yes
+IQTREE_time_tree_non_recombinant,New York,USA,CoV2,7,2.956995945,yes
+IQTREE_time_tree_non_recombinant,New York,USA,CoV2,8,3.202153222,yes
+IQTREE_time_tree_non_recombinant,New York,USA,CoV2,9,2.956995945,yes
+IQTREE_time_tree_non_recombinant,New York,USA,CoV2,10,14.48137681,yes
+IQTREE_time_tree_non_recombinant,New York,USA,CoV2,11,18.63056651,yes
+IQTREE_time_tree_non_recombinant,New York,USA,CoV2,12,13.98083864,yes
+IQTREE_time_tree_non_recombinant,Stockholm,Sweden,CoV2,1,17.3589522,yes
+IQTREE_time_tree_non_recombinant,Stockholm,Sweden,CoV2,2,17.91241893,yes
+IQTREE_time_tree_non_recombinant,Stockholm,Sweden,CoV2,3,15.74296784,yes
+IQTREE_time_tree_non_recombinant,Stockholm,Sweden,CoV2,4,9.691431964,yes
+IQTREE_time_tree_non_recombinant,Stockholm,Sweden,CoV2,5,6.225362046,yes
+IQTREE_time_tree_non_recombinant,Stockholm,Sweden,CoV2,6,4.158272178,yes
+IQTREE_time_tree_non_recombinant,Stockholm,Sweden,CoV2,7,4.158272178,yes
+IQTREE_time_tree_non_recombinant,Stockholm,Sweden,CoV2,8,0.970259764,yes
+IQTREE_time_tree_non_recombinant,Stockholm,Sweden,CoV2,9,1.137516632,yes
+IQTREE_time_tree_non_recombinant,Stockholm,Sweden,CoV2,10,2.111056281,yes
+IQTREE_time_tree_non_recombinant,Stockholm,Sweden,CoV2,11,5.904246253,yes
+IQTREE_time_tree_non_recombinant,Stockholm,Sweden,CoV2,12,17.44973749,yes
+IQTREE_time_tree_non_recombinant,South Korea,South Korea,CoV2,1,13.77475607,yes
+IQTREE_time_tree_non_recombinant,South Korea,South Korea,CoV2,2,9.6796645,yes
+IQTREE_time_tree_non_recombinant,South Korea,South Korea,CoV2,3,5.479963132,yes
+IQTREE_time_tree_non_recombinant,South Korea,South Korea,CoV2,4,5.545491259,yes
+IQTREE_time_tree_non_recombinant,South Korea,South Korea,CoV2,5,3.557367175,yes
+IQTREE_time_tree_non_recombinant,South Korea,South Korea,CoV2,6,2.869507622,yes
+IQTREE_time_tree_non_recombinant,South Korea,South Korea,CoV2,7,2.869507622,yes
+IQTREE_time_tree_non_recombinant,South Korea,South Korea,CoV2,8,1.880948358,yes
+IQTREE_time_tree_non_recombinant,South Korea,South Korea,CoV2,9,1.996020493,yes
+IQTREE_time_tree_non_recombinant,South Korea,South Korea,CoV2,10,6.702459621,yes
+IQTREE_time_tree_non_recombinant,South Korea,South Korea,CoV2,11,18.78230261,yes
+IQTREE_time_tree_non_recombinant,South Korea,South Korea,CoV2,12,27.83270456,yes
+IQTREE_time_tree_non_recombinant,Colorado,USA,CoV2,12,5.955351737,yes
+IQTREE_time_tree_non_recombinant,Colorado,USA,CoV2,2,5.115310285,yes
+IQTREE_time_tree_non_recombinant,Colorado,USA,CoV2,3,13.1718079,yes
+IQTREE_time_tree_non_recombinant,Colorado,USA,CoV2,4,19.54718037,yes
+IQTREE_time_tree_non_recombinant,Colorado,USA,CoV2,5,15.69154425,yes
+IQTREE_time_tree_non_recombinant,Colorado,USA,CoV2,6,10.23062057,yes
+IQTREE_time_tree_non_recombinant,Colorado,USA,CoV2,7,10.23062057,yes
+IQTREE_time_tree_non_recombinant,Colorado,USA,CoV2,8,4.950570775,yes
+IQTREE_time_tree_non_recombinant,Colorado,USA,CoV2,9,4.055745491,yes
+IQTREE_time_tree_non_recombinant,Colorado,USA,CoV2,10,4.055745491,yes
+IQTREE_time_tree_non_recombinant,Colorado,USA,CoV2,11,4.475766217,yes
+IQTREE_time_tree_non_recombinant,Colorado,USA,CoV2,1,4.055745491,yes
+IQTREE_time_tree_non_recombinant,Gothenburg,Sweden,CoV2,1,18.44438652,yes
+IQTREE_time_tree_non_recombinant,Gothenburg,Sweden,CoV2,2,19.94054928,yes
+IQTREE_time_tree_non_recombinant,Gothenburg,Sweden,CoV2,3,11.58488767,yes
+IQTREE_time_tree_non_recombinant,Gothenburg,Sweden,CoV2,4,5.473138797,yes
+IQTREE_time_tree_non_recombinant,Gothenburg,Sweden,CoV2,5,6.087974464,yes
+IQTREE_time_tree_non_recombinant,Gothenburg,Sweden,CoV2,6,6.592201515,yes
+IQTREE_time_tree_non_recombinant,Gothenburg,Sweden,CoV2,7,6.592201515,yes
+IQTREE_time_tree_non_recombinant,Gothenburg,Sweden,CoV2,8,2.571592305,yes
+IQTREE_time_tree_non_recombinant,Gothenburg,Sweden,CoV2,9,2.066328681,yes
+IQTREE_time_tree_non_recombinant,Gothenburg,Sweden,CoV2,10,6.023878086,yes
+IQTREE_time_tree_non_recombinant,Gothenburg,Sweden,CoV2,11,3.385511816,yes
+IQTREE_time_tree_non_recombinant,Gothenburg,Sweden,CoV2,12,14.97204049,yes
+IQTREE_time_tree_non_recombinant,Yamagata,Japan,CoV2,1,17.01542779,yes
+IQTREE_time_tree_non_recombinant,Yamagata,Japan,CoV2,2,23.02244214,yes
+IQTREE_time_tree_non_recombinant,Yamagata,Japan,CoV2,3,17.56151417,yes
+IQTREE_time_tree_non_recombinant,Yamagata,Japan,CoV2,4,8.193199636,yes
+IQTREE_time_tree_non_recombinant,Yamagata,Japan,CoV2,5,5.461221594,yes
+IQTREE_time_tree_non_recombinant,Yamagata,Japan,CoV2,6,2.083354079,yes
+IQTREE_time_tree_non_recombinant,Yamagata,Japan,CoV2,7,2.083354079,yes
+IQTREE_time_tree_non_recombinant,Yamagata,Japan,CoV2,8,2.668002559,yes
+IQTREE_time_tree_non_recombinant,Yamagata,Japan,CoV2,9,1.883074119,yes
+IQTREE_time_tree_non_recombinant,Yamagata,Japan,CoV2,10,4.23513843,yes
+IQTREE_time_tree_non_recombinant,Yamagata,Japan,CoV2,11,7.408034314,yes
+IQTREE_time_tree_non_recombinant,Yamagata,Japan,CoV2,12,5.885623556,yes
+IQTREE_time_tree_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,1,17.01542779,yes
+IQTREE_time_tree_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,2,23.02244214,yes
+IQTREE_time_tree_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,3,17.56151417,yes
+IQTREE_time_tree_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,4,8.193199636,yes
+IQTREE_time_tree_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,5,5.461221594,yes
+IQTREE_time_tree_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,6,2.083354079,yes
+IQTREE_time_tree_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,7,2.083354079,yes
+IQTREE_time_tree_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,8,2.668002559,yes
+IQTREE_time_tree_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,9,1.883074119,yes
+IQTREE_time_tree_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,10,4.23513843,yes
+IQTREE_time_tree_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,11,7.408034314,yes
+IQTREE_time_tree_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,12,5.885623556,yes
+IQTREE_TreeTime,Beijing,China,CoV2,1,4.203402639,no
+IQTREE_TreeTime,Beijing,China,CoV2,2,6.065540631,no
+IQTREE_TreeTime,Beijing,China,CoV2,3,8.411970417,no
+IQTREE_TreeTime,Beijing,China,CoV2,4,9.418879159,no
+IQTREE_TreeTime,Beijing,China,CoV2,5,7.94268446,no
+IQTREE_TreeTime,Beijing,China,CoV2,6,14.35700281,no
+IQTREE_TreeTime,Beijing,China,CoV2,7,9.036941429,no
+IQTREE_TreeTime,Beijing,China,CoV2,8,4.925562581,no
+IQTREE_TreeTime,Beijing,China,CoV2,9,11.16179411,no
+IQTREE_TreeTime,Beijing,China,CoV2,10,11.93951582,no
+IQTREE_TreeTime,Beijing,China,CoV2,11,6.986172355,no
+IQTREE_TreeTime,Beijing,China,CoV2,12,5.550533594,no
+IQTREE_TreeTime,Tampere,Finland,CoV2,1,12.04919938,no
+IQTREE_TreeTime,Tampere,Finland,CoV2,2,24.5468052,no
+IQTREE_TreeTime,Tampere,Finland,CoV2,3,12.63445551,no
+IQTREE_TreeTime,Tampere,Finland,CoV2,4,8.387625815,no
+IQTREE_TreeTime,Tampere,Finland,CoV2,5,5.200652605,no
+IQTREE_TreeTime,Tampere,Finland,CoV2,6,5.200652605,no
+IQTREE_TreeTime,Tampere,Finland,CoV2,7,4.036823431,no
+IQTREE_TreeTime,Tampere,Finland,CoV2,8,4.036823431,no
+IQTREE_TreeTime,Tampere,Finland,CoV2,9,5.200652605,no
+IQTREE_TreeTime,Tampere,Finland,CoV2,10,4.036823431,no
+IQTREE_TreeTime,Tampere,Finland,CoV2,11,5.200652605,no
+IQTREE_TreeTime,Tampere,Finland,CoV2,12,9.468833382,no
+IQTREE_TreeTime,Guangzhou,China,CoV2,1,15.0038719,no
+IQTREE_TreeTime,Guangzhou,China,CoV2,2,17.01927276,no
+IQTREE_TreeTime,Guangzhou,China,CoV2,3,10.84073834,no
+IQTREE_TreeTime,Guangzhou,China,CoV2,4,8.634296564,no
+IQTREE_TreeTime,Guangzhou,China,CoV2,5,4.232653049,no
+IQTREE_TreeTime,Guangzhou,China,CoV2,6,3.382121352,no
+IQTREE_TreeTime,Guangzhou,China,CoV2,7,2.653915293,no
+IQTREE_TreeTime,Guangzhou,China,CoV2,8,1.702056676,no
+IQTREE_TreeTime,Guangzhou,China,CoV2,9,2.418422962,no
+IQTREE_TreeTime,Guangzhou,China,CoV2,10,3.90724224,no
+IQTREE_TreeTime,Guangzhou,China,CoV2,11,12.72897778,no
+IQTREE_TreeTime,Guangzhou,China,CoV2,12,17.47643109,no
+IQTREE_TreeTime,Hong Kong,China,CoV2,1,9.508528873,no
+IQTREE_TreeTime,Hong Kong,China,CoV2,2,6.132168249,no
+IQTREE_TreeTime,Hong Kong,China,CoV2,3,5.88939421,no
+IQTREE_TreeTime,Hong Kong,China,CoV2,4,6.132168249,no
+IQTREE_TreeTime,Hong Kong,China,CoV2,5,4.789488778,no
+IQTREE_TreeTime,Hong Kong,China,CoV2,6,5.717269201,no
+IQTREE_TreeTime,Hong Kong,China,CoV2,7,6.235745183,no
+IQTREE_TreeTime,Hong Kong,China,CoV2,8,5.820846135,no
+IQTREE_TreeTime,Hong Kong,China,CoV2,9,9.160985549,no
+IQTREE_TreeTime,Hong Kong,China,CoV2,10,8.334480758,no
+IQTREE_TreeTime,Hong Kong,China,CoV2,11,14.47034301,no
+IQTREE_TreeTime,Hong Kong,China,CoV2,12,17.80858181,no
+IQTREE_TreeTime,Sarlahi,Nepal,CoV2,1,14.48183071,no
+IQTREE_TreeTime,Sarlahi,Nepal,CoV2,2,18.91437483,no
+IQTREE_TreeTime,Sarlahi,Nepal,CoV2,3,8.502318123,no
+IQTREE_TreeTime,Sarlahi,Nepal,CoV2,4,5.516204198,no
+IQTREE_TreeTime,Sarlahi,Nepal,CoV2,5,8.246637925,no
+IQTREE_TreeTime,Sarlahi,Nepal,CoV2,6,5.885487559,no
+IQTREE_TreeTime,Sarlahi,Nepal,CoV2,7,2.112303426,no
+IQTREE_TreeTime,Sarlahi,Nepal,CoV2,8,5.18808249,no
+IQTREE_TreeTime,Sarlahi,Nepal,CoV2,9,7.234006183,no
+IQTREE_TreeTime,Sarlahi,Nepal,CoV2,10,8.182742502,no
+IQTREE_TreeTime,Sarlahi,Nepal,CoV2,11,8.450425728,no
+IQTREE_TreeTime,Sarlahi,Nepal,CoV2,12,7.285586333,no
+IQTREE_TreeTime,Amsterdam,Netherlands,CoV2,1,10.37152809,no
+IQTREE_TreeTime,Amsterdam,Netherlands,CoV2,2,11.79530343,no
+IQTREE_TreeTime,Amsterdam,Netherlands,CoV2,3,11.53344186,no
+IQTREE_TreeTime,Amsterdam,Netherlands,CoV2,4,10.60848437,no
+IQTREE_TreeTime,Amsterdam,Netherlands,CoV2,5,9.790199852,no
+IQTREE_TreeTime,Amsterdam,Netherlands,CoV2,6,7.001445175,no
+IQTREE_TreeTime,Amsterdam,Netherlands,CoV2,7,7.001445175,no
+IQTREE_TreeTime,Amsterdam,Netherlands,CoV2,8,5.448932161,no
+IQTREE_TreeTime,Amsterdam,Netherlands,CoV2,9,4.764178984,no
+IQTREE_TreeTime,Amsterdam,Netherlands,CoV2,10,6.516745643,no
+IQTREE_TreeTime,Amsterdam,Netherlands,CoV2,11,7.342339867,no
+IQTREE_TreeTime,Amsterdam,Netherlands,CoV2,12,10.244258,no
+IQTREE_TreeTime,Sor Trondelag,Norway,CoV2,1,15.0038719,no
+IQTREE_TreeTime,Sor Trondelag,Norway,CoV2,2,17.01927276,no
+IQTREE_TreeTime,Sor Trondelag,Norway,CoV2,3,10.84073834,no
+IQTREE_TreeTime,Sor Trondelag,Norway,CoV2,4,8.634296564,no
+IQTREE_TreeTime,Sor Trondelag,Norway,CoV2,5,4.232653049,no
+IQTREE_TreeTime,Sor Trondelag,Norway,CoV2,6,3.382121352,no
+IQTREE_TreeTime,Sor Trondelag,Norway,CoV2,7,2.653915293,no
+IQTREE_TreeTime,Sor Trondelag,Norway,CoV2,8,1.702056676,no
+IQTREE_TreeTime,Sor Trondelag,Norway,CoV2,9,2.418422962,no
+IQTREE_TreeTime,Sor Trondelag,Norway,CoV2,10,3.90724224,no
+IQTREE_TreeTime,Sor Trondelag,Norway,CoV2,11,12.72897778,no
+IQTREE_TreeTime,Sor Trondelag,Norway,CoV2,12,17.47643109,no
+IQTREE_TreeTime,New York,USA,CoV2,1,18.77781612,no
+IQTREE_TreeTime,New York,USA,CoV2,2,8.591339057,no
+IQTREE_TreeTime,New York,USA,CoV2,3,6.62610622,no
+IQTREE_TreeTime,New York,USA,CoV2,4,4.379953657,no
+IQTREE_TreeTime,New York,USA,CoV2,5,2.472490772,no
+IQTREE_TreeTime,New York,USA,CoV2,6,2.957419594,no
+IQTREE_TreeTime,New York,USA,CoV2,7,2.957419594,no
+IQTREE_TreeTime,New York,USA,CoV2,8,3.183757803,no
+IQTREE_TreeTime,New York,USA,CoV2,9,2.957419594,no
+IQTREE_TreeTime,New York,USA,CoV2,10,14.66637637,no
+IQTREE_TreeTime,New York,USA,CoV2,11,18.56502179,no
+IQTREE_TreeTime,New York,USA,CoV2,12,13.86487943,no
+IQTREE_TreeTime,Stockholm,Sweden,CoV2,1,17.0367389,no
+IQTREE_TreeTime,Stockholm,Sweden,CoV2,2,18.27107068,no
+IQTREE_TreeTime,Stockholm,Sweden,CoV2,3,16.30917909,no
+IQTREE_TreeTime,Stockholm,Sweden,CoV2,4,10.0168296,no
+IQTREE_TreeTime,Stockholm,Sweden,CoV2,5,6.343745958,no
+IQTREE_TreeTime,Stockholm,Sweden,CoV2,6,4.132062361,no
+IQTREE_TreeTime,Stockholm,Sweden,CoV2,7,4.132062361,no
+IQTREE_TreeTime,Stockholm,Sweden,CoV2,8,0.990794039,no
+IQTREE_TreeTime,Stockholm,Sweden,CoV2,9,1.100236523,no
+IQTREE_TreeTime,Stockholm,Sweden,CoV2,10,2.092993029,no
+IQTREE_TreeTime,Stockholm,Sweden,CoV2,11,5.680078542,no
+IQTREE_TreeTime,Stockholm,Sweden,CoV2,12,16.72752513,no
+IQTREE_TreeTime,South Korea,South Korea,CoV2,1,13.9230771,no
+IQTREE_TreeTime,South Korea,South Korea,CoV2,2,10.12947025,no
+IQTREE_TreeTime,South Korea,South Korea,CoV2,3,5.712113744,no
+IQTREE_TreeTime,South Korea,South Korea,CoV2,4,5.692636915,no
+IQTREE_TreeTime,South Korea,South Korea,CoV2,5,3.55262698,no
+IQTREE_TreeTime,South Korea,South Korea,CoV2,6,2.896692917,no
+IQTREE_TreeTime,South Korea,South Korea,CoV2,7,2.896692917,no
+IQTREE_TreeTime,South Korea,South Korea,CoV2,8,1.823380917,no
+IQTREE_TreeTime,South Korea,South Korea,CoV2,9,2.003001886,no
+IQTREE_TreeTime,South Korea,South Korea,CoV2,10,6.665457585,no
+IQTREE_TreeTime,South Korea,South Korea,CoV2,11,18.40355639,no
+IQTREE_TreeTime,South Korea,South Korea,CoV2,12,27.29069558,no
+IQTREE_TreeTime,Colorado,USA,CoV2,12,5.943156457,no
+IQTREE_TreeTime,Colorado,USA,CoV2,2,5.08720879,no
+IQTREE_TreeTime,Colorado,USA,CoV2,3,13.14315247,no
+IQTREE_TreeTime,Colorado,USA,CoV2,4,19.51428276,no
+IQTREE_TreeTime,Colorado,USA,CoV2,5,15.81881435,no
+IQTREE_TreeTime,Colorado,USA,CoV2,6,10.17441758,no
+IQTREE_TreeTime,Colorado,USA,CoV2,7,10.17441758,no
+IQTREE_TreeTime,Colorado,USA,CoV2,8,4.960756993,no
+IQTREE_TreeTime,Colorado,USA,CoV2,9,4.0267191,no
+IQTREE_TreeTime,Colorado,USA,CoV2,10,4.0267191,no
+IQTREE_TreeTime,Colorado,USA,CoV2,11,4.454692934,no
+IQTREE_TreeTime,Colorado,USA,CoV2,1,4.0267191,no
+IQTREE_TreeTime,Gothenburg,Sweden,CoV2,1,18.08940346,no
+IQTREE_TreeTime,Gothenburg,Sweden,CoV2,2,20.03310516,no
+IQTREE_TreeTime,Gothenburg,Sweden,CoV2,3,11.87959536,no
+IQTREE_TreeTime,Gothenburg,Sweden,CoV2,4,5.640967473,no
+IQTREE_TreeTime,Gothenburg,Sweden,CoV2,5,6.424779681,no
+IQTREE_TreeTime,Gothenburg,Sweden,CoV2,6,6.945410161,no
+IQTREE_TreeTime,Gothenburg,Sweden,CoV2,7,6.945410161,no
+IQTREE_TreeTime,Gothenburg,Sweden,CoV2,8,2.592622269,no
+IQTREE_TreeTime,Gothenburg,Sweden,CoV2,9,2.04404058,no
+IQTREE_TreeTime,Gothenburg,Sweden,CoV2,10,5.761343151,no
+IQTREE_TreeTime,Gothenburg,Sweden,CoV2,11,3.283141437,no
+IQTREE_TreeTime,Gothenburg,Sweden,CoV2,12,14.3569285,no
+IQTREE_TreeTime,Yamagata,Japan,CoV2,1,16.8588791,no
+IQTREE_TreeTime,Yamagata,Japan,CoV2,2,22.75320982,no
+IQTREE_TreeTime,Yamagata,Japan,CoV2,3,17.70856921,no
+IQTREE_TreeTime,Yamagata,Japan,CoV2,4,8.392691711,no
+IQTREE_TreeTime,Yamagata,Japan,CoV2,5,5.523474466,no
+IQTREE_TreeTime,Yamagata,Japan,CoV2,6,2.109458723,no
+IQTREE_TreeTime,Yamagata,Japan,CoV2,7,2.109458723,no
+IQTREE_TreeTime,Yamagata,Japan,CoV2,8,2.662007431,no
+IQTREE_TreeTime,Yamagata,Japan,CoV2,9,1.925086007,no
+IQTREE_TreeTime,Yamagata,Japan,CoV2,10,4.222755862,no
+IQTREE_TreeTime,Yamagata,Japan,CoV2,11,7.397046163,no
+IQTREE_TreeTime,Yamagata,Japan,CoV2,12,5.926363164,no
+IQTREE_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,1,16.8588791,no
+IQTREE_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,2,22.75320982,no
+IQTREE_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,3,17.70856921,no
+IQTREE_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,4,8.392691711,no
+IQTREE_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,5,5.523474466,no
+IQTREE_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,6,2.109458723,no
+IQTREE_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,7,2.109458723,no
+IQTREE_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,8,2.662007431,no
+IQTREE_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,9,1.925086007,no
+IQTREE_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,10,4.222755862,no
+IQTREE_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,11,7.397046163,no
+IQTREE_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,12,5.926363164,no
+IQTREE_TreeTime_non_recombinant,Beijing,China,CoV2,1,3.947327272,yes
+IQTREE_TreeTime_non_recombinant,Beijing,China,CoV2,2,5.683427403,yes
+IQTREE_TreeTime_non_recombinant,Beijing,China,CoV2,3,8.769232585,yes
+IQTREE_TreeTime_non_recombinant,Beijing,China,CoV2,4,9.441975707,yes
+IQTREE_TreeTime_non_recombinant,Beijing,China,CoV2,5,8.152071549,yes
+IQTREE_TreeTime_non_recombinant,Beijing,China,CoV2,6,17.05597227,yes
+IQTREE_TreeTime_non_recombinant,Beijing,China,CoV2,7,9.122747407,yes
+IQTREE_TreeTime_non_recombinant,Beijing,China,CoV2,8,4.456740808,yes
+IQTREE_TreeTime_non_recombinant,Beijing,China,CoV2,9,10.60906601,yes
+IQTREE_TreeTime_non_recombinant,Beijing,China,CoV2,10,11.23245626,yes
+IQTREE_TreeTime_non_recombinant,Beijing,China,CoV2,11,6.718727095,yes
+IQTREE_TreeTime_non_recombinant,Beijing,China,CoV2,12,4.810255631,yes
+IQTREE_TreeTime_non_recombinant,Tampere,Finland,CoV2,1,11.88869428,yes
+IQTREE_TreeTime_non_recombinant,Tampere,Finland,CoV2,2,21.96984454,yes
+IQTREE_TreeTime_non_recombinant,Tampere,Finland,CoV2,3,11.47882989,yes
+IQTREE_TreeTime_non_recombinant,Tampere,Finland,CoV2,4,9.525316082,yes
+IQTREE_TreeTime_non_recombinant,Tampere,Finland,CoV2,5,5.575991705,yes
+IQTREE_TreeTime_non_recombinant,Tampere,Finland,CoV2,6,5.575991705,yes
+IQTREE_TreeTime_non_recombinant,Tampere,Finland,CoV2,7,4.045432334,yes
+IQTREE_TreeTime_non_recombinant,Tampere,Finland,CoV2,8,4.045432334,yes
+IQTREE_TreeTime_non_recombinant,Tampere,Finland,CoV2,9,5.575991705,yes
+IQTREE_TreeTime_non_recombinant,Tampere,Finland,CoV2,10,4.045432334,yes
+IQTREE_TreeTime_non_recombinant,Tampere,Finland,CoV2,11,5.575991705,yes
+IQTREE_TreeTime_non_recombinant,Tampere,Finland,CoV2,12,10.69705139,yes
+IQTREE_TreeTime_non_recombinant,Guangzhou,China,CoV2,1,15.23458724,yes
+IQTREE_TreeTime_non_recombinant,Guangzhou,China,CoV2,2,15.33096868,yes
+IQTREE_TreeTime_non_recombinant,Guangzhou,China,CoV2,3,10.43419259,yes
+IQTREE_TreeTime_non_recombinant,Guangzhou,China,CoV2,4,8.836026429,yes
+IQTREE_TreeTime_non_recombinant,Guangzhou,China,CoV2,5,4.661251555,yes
+IQTREE_TreeTime_non_recombinant,Guangzhou,China,CoV2,6,3.265932041,yes
+IQTREE_TreeTime_non_recombinant,Guangzhou,China,CoV2,7,2.662622057,yes
+IQTREE_TreeTime_non_recombinant,Guangzhou,China,CoV2,8,1.687606262,yes
+IQTREE_TreeTime_non_recombinant,Guangzhou,China,CoV2,9,2.43328321,yes
+IQTREE_TreeTime_non_recombinant,Guangzhou,China,CoV2,10,4.194818148,yes
+IQTREE_TreeTime_non_recombinant,Guangzhou,China,CoV2,11,13.12063293,yes
+IQTREE_TreeTime_non_recombinant,Guangzhou,China,CoV2,12,18.13807886,yes
+IQTREE_TreeTime_non_recombinant,Hong Kong,China,CoV2,1,10.20729262,yes
+IQTREE_TreeTime_non_recombinant,Hong Kong,China,CoV2,2,5.87619758,yes
+IQTREE_TreeTime_non_recombinant,Hong Kong,China,CoV2,3,6.044048048,yes
+IQTREE_TreeTime_non_recombinant,Hong Kong,China,CoV2,4,5.87619758,yes
+IQTREE_TreeTime_non_recombinant,Hong Kong,China,CoV2,5,4.488376274,yes
+IQTREE_TreeTime_non_recombinant,Hong Kong,China,CoV2,6,5.359567186,yes
+IQTREE_TreeTime_non_recombinant,Hong Kong,China,CoV2,7,5.474121274,yes
+IQTREE_TreeTime_non_recombinant,Hong Kong,China,CoV2,8,4.95749088,yes
+IQTREE_TreeTime_non_recombinant,Hong Kong,China,CoV2,9,7.51765756,yes
+IQTREE_TreeTime_non_recombinant,Hong Kong,China,CoV2,10,7.805070103,yes
+IQTREE_TreeTime_non_recombinant,Hong Kong,China,CoV2,11,15.75835849,yes
+IQTREE_TreeTime_non_recombinant,Hong Kong,China,CoV2,12,20.63562241,yes
+IQTREE_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,1,14.61779088,yes
+IQTREE_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,2,19.98136561,yes
+IQTREE_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,3,9.487045364,yes
+IQTREE_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,4,5.939219098,yes
+IQTREE_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,5,9.589786624,yes
+IQTREE_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,6,6.841708222,yes
+IQTREE_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,7,2.285505884,yes
+IQTREE_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,8,4.088944739,yes
+IQTREE_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,9,5.483413274,yes
+IQTREE_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,10,6.37401671,yes
+IQTREE_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,11,7.841132339,yes
+IQTREE_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,12,7.47007126,yes
+IQTREE_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,1,10.50791438,yes
+IQTREE_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,2,11.61890571,yes
+IQTREE_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,3,11.27452985,yes
+IQTREE_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,4,10.52207621,yes
+IQTREE_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,5,9.910360022,yes
+IQTREE_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,6,7.082306005,yes
+IQTREE_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,7,7.082306005,yes
+IQTREE_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,8,5.303744523,yes
+IQTREE_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,9,4.653686108,yes
+IQTREE_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,10,6.46171635,yes
+IQTREE_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,11,7.645882034,yes
+IQTREE_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,12,10.36788583,yes
+IQTREE_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,1,15.23458724,yes
+IQTREE_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,2,15.33096868,yes
+IQTREE_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,3,10.43419259,yes
+IQTREE_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,4,8.836026429,yes
+IQTREE_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,5,4.661251555,yes
+IQTREE_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,6,3.265932041,yes
+IQTREE_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,7,2.662622057,yes
+IQTREE_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,8,1.687606262,yes
+IQTREE_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,9,2.43328321,yes
+IQTREE_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,10,4.194818148,yes
+IQTREE_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,11,13.12063293,yes
+IQTREE_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,12,18.13807886,yes
+IQTREE_TreeTime_non_recombinant,New York,USA,CoV2,1,16.58883389,yes
+IQTREE_TreeTime_non_recombinant,New York,USA,CoV2,2,9.353783442,yes
+IQTREE_TreeTime_non_recombinant,New York,USA,CoV2,3,6.535310609,yes
+IQTREE_TreeTime_non_recombinant,New York,USA,CoV2,4,4.214064267,yes
+IQTREE_TreeTime_non_recombinant,New York,USA,CoV2,5,2.314452579,yes
+IQTREE_TreeTime_non_recombinant,New York,USA,CoV2,6,2.95218565,yes
+IQTREE_TreeTime_non_recombinant,New York,USA,CoV2,7,2.95218565,yes
+IQTREE_TreeTime_non_recombinant,New York,USA,CoV2,8,2.945391888,yes
+IQTREE_TreeTime_non_recombinant,New York,USA,CoV2,9,2.95218565,yes
+IQTREE_TreeTime_non_recombinant,New York,USA,CoV2,10,14.81237038,yes
+IQTREE_TreeTime_non_recombinant,New York,USA,CoV2,11,19.8232394,yes
+IQTREE_TreeTime_non_recombinant,New York,USA,CoV2,12,14.55599659,yes
+IQTREE_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,1,17.41477428,yes
+IQTREE_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,2,16.83728544,yes
+IQTREE_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,3,15.24201116,yes
+IQTREE_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,4,9.639630531,yes
+IQTREE_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,5,6.300229386,yes
+IQTREE_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,6,4.369215511,yes
+IQTREE_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,7,4.369215511,yes
+IQTREE_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,8,0.964976469,yes
+IQTREE_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,9,1.207262144,yes
+IQTREE_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,10,2.246382436,yes
+IQTREE_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,11,6.188939379,yes
+IQTREE_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,12,18.16391775,yes
+IQTREE_TreeTime_non_recombinant,South Korea,South Korea,CoV2,1,13.40030949,yes
+IQTREE_TreeTime_non_recombinant,South Korea,South Korea,CoV2,2,9.13427112,yes
+IQTREE_TreeTime_non_recombinant,South Korea,South Korea,CoV2,3,5.181022796,yes
+IQTREE_TreeTime_non_recombinant,South Korea,South Korea,CoV2,4,5.589904381,yes
+IQTREE_TreeTime_non_recombinant,South Korea,South Korea,CoV2,5,3.724102159,yes
+IQTREE_TreeTime_non_recombinant,South Korea,South Korea,CoV2,6,3.069527473,yes
+IQTREE_TreeTime_non_recombinant,South Korea,South Korea,CoV2,7,3.069527473,yes
+IQTREE_TreeTime_non_recombinant,South Korea,South Korea,CoV2,8,2.004973322,yes
+IQTREE_TreeTime_non_recombinant,South Korea,South Korea,CoV2,9,1.958516786,yes
+IQTREE_TreeTime_non_recombinant,South Korea,South Korea,CoV2,10,6.839945246,yes
+IQTREE_TreeTime_non_recombinant,South Korea,South Korea,CoV2,11,18.77002902,yes
+IQTREE_TreeTime_non_recombinant,South Korea,South Korea,CoV2,12,28.32788825,yes
+IQTREE_TreeTime_non_recombinant,Colorado,USA,CoV2,12,5.598576341,yes
+IQTREE_TreeTime_non_recombinant,Colorado,USA,CoV2,2,5.015176239,yes
+IQTREE_TreeTime_non_recombinant,Colorado,USA,CoV2,3,13.71168255,yes
+IQTREE_TreeTime_non_recombinant,Colorado,USA,CoV2,4,19.60195895,yes
+IQTREE_TreeTime_non_recombinant,Colorado,USA,CoV2,5,16.44992039,yes
+IQTREE_TreeTime_non_recombinant,Colorado,USA,CoV2,6,10.03035248,yes
+IQTREE_TreeTime_non_recombinant,Colorado,USA,CoV2,7,10.03035248,yes
+IQTREE_TreeTime_non_recombinant,Colorado,USA,CoV2,8,4.857091352,yes
+IQTREE_TreeTime_non_recombinant,Colorado,USA,CoV2,9,3.891650443,yes
+IQTREE_TreeTime_non_recombinant,Colorado,USA,CoV2,10,3.891650443,yes
+IQTREE_TreeTime_non_recombinant,Colorado,USA,CoV2,11,4.183350494,yes
+IQTREE_TreeTime_non_recombinant,Colorado,USA,CoV2,1,3.891650443,yes
+IQTREE_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,1,19.08382909,yes
+IQTREE_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,2,18.6874814,yes
+IQTREE_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,3,10.78732622,yes
+IQTREE_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,4,5.277655931,yes
+IQTREE_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,5,5.737416581,yes
+IQTREE_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,6,6.845624623,yes
+IQTREE_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,7,6.845624623,yes
+IQTREE_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,8,2.701553059,yes
+IQTREE_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,9,2.157447604,yes
+IQTREE_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,10,6.494473981,yes
+IQTREE_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,11,3.603123063,yes
+IQTREE_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,12,15.90140713,yes
+IQTREE_TreeTime_non_recombinant,Yamagata,Japan,CoV2,1,15.46637826,yes
+IQTREE_TreeTime_non_recombinant,Yamagata,Japan,CoV2,2,23.31063207,yes
+IQTREE_TreeTime_non_recombinant,Yamagata,Japan,CoV2,3,17.46599549,yes
+IQTREE_TreeTime_non_recombinant,Yamagata,Japan,CoV2,4,8.167753266,yes
+IQTREE_TreeTime_non_recombinant,Yamagata,Japan,CoV2,5,5.892498833,yes
+IQTREE_TreeTime_non_recombinant,Yamagata,Japan,CoV2,6,1.822690175,yes
+IQTREE_TreeTime_non_recombinant,Yamagata,Japan,CoV2,7,1.822690175,yes
+IQTREE_TreeTime_non_recombinant,Yamagata,Japan,CoV2,8,2.364752627,yes
+IQTREE_TreeTime_non_recombinant,Yamagata,Japan,CoV2,9,1.987900201,yes
+IQTREE_TreeTime_non_recombinant,Yamagata,Japan,CoV2,10,4.922031831,yes
+IQTREE_TreeTime_non_recombinant,Yamagata,Japan,CoV2,11,8.279218693,yes
+IQTREE_TreeTime_non_recombinant,Yamagata,Japan,CoV2,12,5.730788027,yes
+IQTREE_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,1,15.46637826,yes
+IQTREE_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,2,23.31063207,yes
+IQTREE_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,3,17.46599549,yes
+IQTREE_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,4,8.167753266,yes
+IQTREE_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,5,5.892498833,yes
+IQTREE_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,6,1.822690175,yes
+IQTREE_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,7,1.822690175,yes
+IQTREE_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,8,2.364752627,yes
+IQTREE_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,9,1.987900201,yes
+IQTREE_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,10,4.922031831,yes
+IQTREE_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,11,8.279218693,yes
+IQTREE_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,12,5.730788027,yes
+RAxML,Beijing,China,CoV2,1,4.29924575,no
+RAxML,Beijing,China,CoV2,2,6.538554496,no
+RAxML,Beijing,China,CoV2,3,8.504235388,no
+RAxML,Beijing,China,CoV2,4,9.624422879,no
+RAxML,Beijing,China,CoV2,5,8.11109921,no
+RAxML,Beijing,China,CoV2,6,13.07643417,no
+RAxML,Beijing,China,CoV2,7,9.435943102,no
+RAxML,Beijing,China,CoV2,8,4.863101947,no
+RAxML,Beijing,China,CoV2,9,11.27346395,no
+RAxML,Beijing,China,CoV2,10,11.61542088,no
+RAxML,Beijing,China,CoV2,11,6.863268565,no
+RAxML,Beijing,China,CoV2,12,5.794809662,no
+RAxML,Tampere,Finland,CoV2,1,11.5020472,no
+RAxML,Tampere,Finland,CoV2,2,25.76359458,no
+RAxML,Tampere,Finland,CoV2,3,13.86143551,no
+RAxML,Tampere,Finland,CoV2,4,7.854809116,no
+RAxML,Tampere,Finland,CoV2,5,5.037057234,no
+RAxML,Tampere,Finland,CoV2,6,5.037057234,no
+RAxML,Tampere,Finland,CoV2,7,4.062079511,no
+RAxML,Tampere,Finland,CoV2,8,4.062079511,no
+RAxML,Tampere,Finland,CoV2,9,5.037057234,no
+RAxML,Tampere,Finland,CoV2,10,4.062079511,no
+RAxML,Tampere,Finland,CoV2,11,5.037057234,no
+RAxML,Tampere,Finland,CoV2,12,8.683646133,no
+RAxML,Guangzhou,China,CoV2,1,14.3187312,no
+RAxML,Guangzhou,China,CoV2,2,17.96371424,no
+RAxML,Guangzhou,China,CoV2,3,10.66708927,no
+RAxML,Guangzhou,China,CoV2,4,8.487784181,no
+RAxML,Guangzhou,China,CoV2,5,4.021068794,no
+RAxML,Guangzhou,China,CoV2,6,3.348484963,no
+RAxML,Guangzhou,China,CoV2,7,2.586404077,no
+RAxML,Guangzhou,China,CoV2,8,1.749066656,no
+RAxML,Guangzhou,China,CoV2,9,2.520349389,no
+RAxML,Guangzhou,China,CoV2,10,3.93874123,no
+RAxML,Guangzhou,China,CoV2,11,13.10133852,no
+RAxML,Guangzhou,China,CoV2,12,17.29722748,no
+RAxML,Hong Kong,China,CoV2,1,9.536254139,no
+RAxML,Hong Kong,China,CoV2,2,6.514416969,no
+RAxML,Hong Kong,China,CoV2,3,5.886562183,no
+RAxML,Hong Kong,China,CoV2,4,6.514416969,no
+RAxML,Hong Kong,China,CoV2,5,5.158485035,no
+RAxML,Hong Kong,China,CoV2,6,5.808465691,no
+RAxML,Hong Kong,China,CoV2,7,6.502257778,no
+RAxML,Hong Kong,China,CoV2,8,5.7963065,no
+RAxML,Hong Kong,China,CoV2,9,8.858843417,no
+RAxML,Hong Kong,China,CoV2,10,7.968158598,no
+RAxML,Hong Kong,China,CoV2,11,14.54187803,no
+RAxML,Hong Kong,China,CoV2,12,16.9139547,no
+RAxML,Sarlahi,Nepal,CoV2,1,15.60217992,no
+RAxML,Sarlahi,Nepal,CoV2,2,19.67057698,no
+RAxML,Sarlahi,Nepal,CoV2,3,8.32928572,no
+RAxML,Sarlahi,Nepal,CoV2,4,5.379457801,no
+RAxML,Sarlahi,Nepal,CoV2,5,7.665450507,no
+RAxML,Sarlahi,Nepal,CoV2,6,5.544770926,no
+RAxML,Sarlahi,Nepal,CoV2,7,2.030122103,no
+RAxML,Sarlahi,Nepal,CoV2,8,5.028603187,no
+RAxML,Sarlahi,Nepal,CoV2,9,6.929549993,no
+RAxML,Sarlahi,Nepal,CoV2,10,7.867004181,no
+RAxML,Sarlahi,Nepal,CoV2,11,8.498961328,no
+RAxML,Sarlahi,Nepal,CoV2,12,7.454037359,no
+RAxML,Amsterdam,Netherlands,CoV2,1,10.25512514,no
+RAxML,Amsterdam,Netherlands,CoV2,2,11.77571654,no
+RAxML,Amsterdam,Netherlands,CoV2,3,11.55634655,no
+RAxML,Amsterdam,Netherlands,CoV2,4,10.59622166,no
+RAxML,Amsterdam,Netherlands,CoV2,5,10.05077565,no
+RAxML,Amsterdam,Netherlands,CoV2,6,7.226998246,no
+RAxML,Amsterdam,Netherlands,CoV2,7,7.226998246,no
+RAxML,Amsterdam,Netherlands,CoV2,8,5.53689429,no
+RAxML,Amsterdam,Netherlands,CoV2,9,4.765661263,no
+RAxML,Amsterdam,Netherlands,CoV2,10,6.438319556,no
+RAxML,Amsterdam,Netherlands,CoV2,11,6.928082278,no
+RAxML,Amsterdam,Netherlands,CoV2,12,10.27248877,no
+RAxML,Sor Trondelag,Norway,CoV2,1,14.3187312,no
+RAxML,Sor Trondelag,Norway,CoV2,2,17.96371424,no
+RAxML,Sor Trondelag,Norway,CoV2,3,10.66708927,no
+RAxML,Sor Trondelag,Norway,CoV2,4,8.487784181,no
+RAxML,Sor Trondelag,Norway,CoV2,5,4.021068794,no
+RAxML,Sor Trondelag,Norway,CoV2,6,3.348484963,no
+RAxML,Sor Trondelag,Norway,CoV2,7,2.586404077,no
+RAxML,Sor Trondelag,Norway,CoV2,8,1.749066656,no
+RAxML,Sor Trondelag,Norway,CoV2,9,2.520349389,no
+RAxML,Sor Trondelag,Norway,CoV2,10,3.93874123,no
+RAxML,Sor Trondelag,Norway,CoV2,11,13.10133852,no
+RAxML,Sor Trondelag,Norway,CoV2,12,17.29722748,no
+RAxML,New York,USA,CoV2,1,19.63971582,no
+RAxML,New York,USA,CoV2,2,8.314834693,no
+RAxML,New York,USA,CoV2,3,6.660785553,no
+RAxML,New York,USA,CoV2,4,4.622115572,no
+RAxML,New York,USA,CoV2,5,2.493577793,no
+RAxML,New York,USA,CoV2,6,2.899818511,no
+RAxML,New York,USA,CoV2,7,2.899818511,no
+RAxML,New York,USA,CoV2,8,3.354726324,no
+RAxML,New York,USA,CoV2,9,2.899818511,no
+RAxML,New York,USA,CoV2,10,14.03207031,no
+RAxML,New York,USA,CoV2,11,18.22458808,no
+RAxML,New York,USA,CoV2,12,13.95813032,no
+RAxML,Stockholm,Sweden,CoV2,1,17.02926003,no
+RAxML,Stockholm,Sweden,CoV2,2,18.05390355,no
+RAxML,Stockholm,Sweden,CoV2,3,16.23264476,no
+RAxML,Stockholm,Sweden,CoV2,4,10.02540017,no
+RAxML,Stockholm,Sweden,CoV2,5,6.367724485,no
+RAxML,Stockholm,Sweden,CoV2,6,4.177398874,no
+RAxML,Stockholm,Sweden,CoV2,7,4.177398874,no
+RAxML,Stockholm,Sweden,CoV2,8,0.990886494,no
+RAxML,Stockholm,Sweden,CoV2,9,1.113458771,no
+RAxML,Stockholm,Sweden,CoV2,10,2.122000542,no
+RAxML,Stockholm,Sweden,CoV2,11,5.729602755,no
+RAxML,Stockholm,Sweden,CoV2,12,16.84188567,no
+RAxML,South Korea,South Korea,CoV2,1,13.84888848,no
+RAxML,South Korea,South Korea,CoV2,2,10.03585342,no
+RAxML,South Korea,South Korea,CoV2,3,5.659911271,no
+RAxML,South Korea,South Korea,CoV2,4,5.711613146,no
+RAxML,South Korea,South Korea,CoV2,5,3.589449079,no
+RAxML,South Korea,South Korea,CoV2,6,2.942896372,no
+RAxML,South Korea,South Korea,CoV2,7,2.942896372,no
+RAxML,South Korea,South Korea,CoV2,8,1.847432426,no
+RAxML,South Korea,South Korea,CoV2,9,1.995084901,no
+RAxML,South Korea,South Korea,CoV2,10,6.693775846,no
+RAxML,South Korea,South Korea,CoV2,11,18.3774272,no
+RAxML,South Korea,South Korea,CoV2,12,27.36743994,no
+RAxML,Colorado,USA,CoV2,12,6.054027909,no
+RAxML,Colorado,USA,CoV2,2,5.258733837,no
+RAxML,Colorado,USA,CoV2,3,12.28129667,no
+RAxML,Colorado,USA,CoV2,4,18.73297161,no
+RAxML,Colorado,USA,CoV2,5,15.12679842,no
+RAxML,Colorado,USA,CoV2,6,10.51746768,no
+RAxML,Colorado,USA,CoV2,7,10.51746768,no
+RAxML,Colorado,USA,CoV2,8,5.274464601,no
+RAxML,Colorado,USA,CoV2,9,4.331207604,no
+RAxML,Colorado,USA,CoV2,10,4.331207604,no
+RAxML,Colorado,USA,CoV2,11,4.72885464,no
+RAxML,Colorado,USA,CoV2,1,4.331207604,no
+RAxML,Gothenburg,Sweden,CoV2,1,18.20981316,no
+RAxML,Gothenburg,Sweden,CoV2,2,19.75989203,no
+RAxML,Gothenburg,Sweden,CoV2,3,11.72026515,no
+RAxML,Gothenburg,Sweden,CoV2,4,5.607820961,no
+RAxML,Gothenburg,Sweden,CoV2,5,6.367552284,no
+RAxML,Gothenburg,Sweden,CoV2,6,7.023641232,no
+RAxML,Gothenburg,Sweden,CoV2,7,7.023641232,no
+RAxML,Gothenburg,Sweden,CoV2,8,2.622850442,no
+RAxML,Gothenburg,Sweden,CoV2,9,2.062946648,no
+RAxML,Gothenburg,Sweden,CoV2,10,5.849878865,no
+RAxML,Gothenburg,Sweden,CoV2,11,3.325257386,no
+RAxML,Gothenburg,Sweden,CoV2,12,14.5258053,no
+RAxML,Yamagata,Japan,CoV2,1,17.31689016,no
+RAxML,Yamagata,Japan,CoV2,2,23.07270263,no
+RAxML,Yamagata,Japan,CoV2,3,18.46180413,no
+RAxML,Yamagata,Japan,CoV2,4,8.209630798,no
+RAxML,Yamagata,Japan,CoV2,5,5.26382774,no
+RAxML,Yamagata,Japan,CoV2,6,2.042315622,no
+RAxML,Yamagata,Japan,CoV2,7,2.042315622,no
+RAxML,Yamagata,Japan,CoV2,8,2.782445272,no
+RAxML,Yamagata,Japan,CoV2,9,1.937713357,no
+RAxML,Yamagata,Japan,CoV2,10,3.76650454,no
+RAxML,Yamagata,Japan,CoV2,11,6.902920262,no
+RAxML,Yamagata,Japan,CoV2,12,5.538108876,no
+RAxML,Nakhon Si Thammarat,Thailand,CoV2,1,17.31689016,no
+RAxML,Nakhon Si Thammarat,Thailand,CoV2,2,23.07270263,no
+RAxML,Nakhon Si Thammarat,Thailand,CoV2,3,18.46180413,no
+RAxML,Nakhon Si Thammarat,Thailand,CoV2,4,8.209630798,no
+RAxML,Nakhon Si Thammarat,Thailand,CoV2,5,5.26382774,no
+RAxML,Nakhon Si Thammarat,Thailand,CoV2,6,2.042315622,no
+RAxML,Nakhon Si Thammarat,Thailand,CoV2,7,2.042315622,no
+RAxML,Nakhon Si Thammarat,Thailand,CoV2,8,2.782445272,no
+RAxML,Nakhon Si Thammarat,Thailand,CoV2,9,1.937713357,no
+RAxML,Nakhon Si Thammarat,Thailand,CoV2,10,3.76650454,no
+RAxML,Nakhon Si Thammarat,Thailand,CoV2,11,6.902920262,no
+RAxML,Nakhon Si Thammarat,Thailand,CoV2,12,5.538108876,no
+RAxML_non_recombinant,Beijing,China,CoV2,1,4.103741443,yes
+RAxML_non_recombinant,Beijing,China,CoV2,2,6.548777917,yes
+RAxML_non_recombinant,Beijing,China,CoV2,3,8.830606257,yes
+RAxML_non_recombinant,Beijing,China,CoV2,4,9.254497883,yes
+RAxML_non_recombinant,Beijing,China,CoV2,5,8.374240589,yes
+RAxML_non_recombinant,Beijing,China,CoV2,6,14.32134591,yes
+RAxML_non_recombinant,Beijing,China,CoV2,7,9.728985957,yes
+RAxML_non_recombinant,Beijing,China,CoV2,8,4.690277716,yes
+RAxML_non_recombinant,Beijing,China,CoV2,9,11.06149586,yes
+RAxML_non_recombinant,Beijing,China,CoV2,10,10.9090898,yes
+RAxML_non_recombinant,Beijing,China,CoV2,11,6.588283251,yes
+RAxML_non_recombinant,Beijing,China,CoV2,12,5.588657417,yes
+RAxML_non_recombinant,Tampere,Finland,CoV2,1,11.19257078,yes
+RAxML_non_recombinant,Tampere,Finland,CoV2,2,24.53158588,yes
+RAxML_non_recombinant,Tampere,Finland,CoV2,3,13.76855572,yes
+RAxML_non_recombinant,Tampere,Finland,CoV2,4,8.245933133,yes
+RAxML_non_recombinant,Tampere,Finland,CoV2,5,5.203873891,yes
+RAxML_non_recombinant,Tampere,Finland,CoV2,6,5.203873891,yes
+RAxML_non_recombinant,Tampere,Finland,CoV2,7,4.072087034,yes
+RAxML_non_recombinant,Tampere,Finland,CoV2,8,4.072087034,yes
+RAxML_non_recombinant,Tampere,Finland,CoV2,9,5.203873891,yes
+RAxML_non_recombinant,Tampere,Finland,CoV2,10,4.072087034,yes
+RAxML_non_recombinant,Tampere,Finland,CoV2,11,5.203873891,yes
+RAxML_non_recombinant,Tampere,Finland,CoV2,12,9.229597823,yes
+RAxML_non_recombinant,Guangzhou,China,CoV2,1,14.65487621,yes
+RAxML_non_recombinant,Guangzhou,China,CoV2,2,17.52335043,yes
+RAxML_non_recombinant,Guangzhou,China,CoV2,3,10.10963826,yes
+RAxML_non_recombinant,Guangzhou,China,CoV2,4,8.123201669,yes
+RAxML_non_recombinant,Guangzhou,China,CoV2,5,4.065618402,yes
+RAxML_non_recombinant,Guangzhou,China,CoV2,6,3.168221182,yes
+RAxML_non_recombinant,Guangzhou,China,CoV2,7,2.546250444,yes
+RAxML_non_recombinant,Guangzhou,China,CoV2,8,1.690880408,yes
+RAxML_non_recombinant,Guangzhou,China,CoV2,9,2.509394757,yes
+RAxML_non_recombinant,Guangzhou,China,CoV2,10,4.079095071,yes
+RAxML_non_recombinant,Guangzhou,China,CoV2,11,13.52803969,yes
+RAxML_non_recombinant,Guangzhou,China,CoV2,12,18.00143348,yes
+RAxML_non_recombinant,Hong Kong,China,CoV2,1,9.947802953,yes
+RAxML_non_recombinant,Hong Kong,China,CoV2,2,6.272830308,yes
+RAxML_non_recombinant,Hong Kong,China,CoV2,3,5.734500399,yes
+RAxML_non_recombinant,Hong Kong,China,CoV2,4,6.272830308,yes
+RAxML_non_recombinant,Hong Kong,China,CoV2,5,5.05644667,yes
+RAxML_non_recombinant,Hong Kong,China,CoV2,6,5.45078515,yes
+RAxML_non_recombinant,Hong Kong,China,CoV2,7,6.230226723,yes
+RAxML_non_recombinant,Hong Kong,China,CoV2,8,5.408181565,yes
+RAxML_non_recombinant,Hong Kong,China,CoV2,9,8.191044308,yes
+RAxML_non_recombinant,Hong Kong,China,CoV2,10,7.73628214,yes
+RAxML_non_recombinant,Hong Kong,China,CoV2,11,15.37748915,yes
+RAxML_non_recombinant,Hong Kong,China,CoV2,12,18.32158033,yes
+RAxML_non_recombinant,Sarlahi,Nepal,CoV2,1,16.04536518,yes
+RAxML_non_recombinant,Sarlahi,Nepal,CoV2,2,20.47767889,yes
+RAxML_non_recombinant,Sarlahi,Nepal,CoV2,3,8.676465258,yes
+RAxML_non_recombinant,Sarlahi,Nepal,CoV2,4,5.395601554,yes
+RAxML_non_recombinant,Sarlahi,Nepal,CoV2,5,8.180922555,yes
+RAxML_non_recombinant,Sarlahi,Nepal,CoV2,6,5.972025236,yes
+RAxML_non_recombinant,Sarlahi,Nepal,CoV2,7,2.050857106,yes
+RAxML_non_recombinant,Sarlahi,Nepal,CoV2,8,4.591079576,yes
+RAxML_non_recombinant,Sarlahi,Nepal,CoV2,9,6.251548918,yes
+RAxML_non_recombinant,Sarlahi,Nepal,CoV2,10,7.086918497,yes
+RAxML_non_recombinant,Sarlahi,Nepal,CoV2,11,7.995612295,yes
+RAxML_non_recombinant,Sarlahi,Nepal,CoV2,12,7.275924932,yes
+RAxML_non_recombinant,Amsterdam,Netherlands,CoV2,1,10.21978351,yes
+RAxML_non_recombinant,Amsterdam,Netherlands,CoV2,2,11.73898635,yes
+RAxML_non_recombinant,Amsterdam,Netherlands,CoV2,3,11.48433431,yes
+RAxML_non_recombinant,Amsterdam,Netherlands,CoV2,4,10.55379161,yes
+RAxML_non_recombinant,Amsterdam,Netherlands,CoV2,5,10.21384252,yes
+RAxML_non_recombinant,Amsterdam,Netherlands,CoV2,6,7.340210823,yes
+RAxML_non_recombinant,Amsterdam,Netherlands,CoV2,7,7.340210823,yes
+RAxML_non_recombinant,Amsterdam,Netherlands,CoV2,8,5.54363718,yes
+RAxML_non_recombinant,Amsterdam,Netherlands,CoV2,9,4.770218985,yes
+RAxML_non_recombinant,Amsterdam,Netherlands,CoV2,10,6.353381853,yes
+RAxML_non_recombinant,Amsterdam,Netherlands,CoV2,11,6.833773776,yes
+RAxML_non_recombinant,Amsterdam,Netherlands,CoV2,12,10.28313315,yes
+RAxML_non_recombinant,Sor Trondelag,Norway,CoV2,1,14.65487621,yes
+RAxML_non_recombinant,Sor Trondelag,Norway,CoV2,2,17.52335043,yes
+RAxML_non_recombinant,Sor Trondelag,Norway,CoV2,3,10.10963826,yes
+RAxML_non_recombinant,Sor Trondelag,Norway,CoV2,4,8.123201669,yes
+RAxML_non_recombinant,Sor Trondelag,Norway,CoV2,5,4.065618402,yes
+RAxML_non_recombinant,Sor Trondelag,Norway,CoV2,6,3.168221182,yes
+RAxML_non_recombinant,Sor Trondelag,Norway,CoV2,7,2.546250444,yes
+RAxML_non_recombinant,Sor Trondelag,Norway,CoV2,8,1.690880408,yes
+RAxML_non_recombinant,Sor Trondelag,Norway,CoV2,9,2.509394757,yes
+RAxML_non_recombinant,Sor Trondelag,Norway,CoV2,10,4.079095071,yes
+RAxML_non_recombinant,Sor Trondelag,Norway,CoV2,11,13.52803969,yes
+RAxML_non_recombinant,Sor Trondelag,Norway,CoV2,12,18.00143348,yes
+RAxML_non_recombinant,New York,USA,CoV2,1,18.88434829,yes
+RAxML_non_recombinant,New York,USA,CoV2,2,8.408224534,yes
+RAxML_non_recombinant,New York,USA,CoV2,3,6.694007352,yes
+RAxML_non_recombinant,New York,USA,CoV2,4,4.667880411,yes
+RAxML_non_recombinant,New York,USA,CoV2,5,2.435133574,yes
+RAxML_non_recombinant,New York,USA,CoV2,6,2.906711431,yes
+RAxML_non_recombinant,New York,USA,CoV2,7,2.906711431,yes
+RAxML_non_recombinant,New York,USA,CoV2,8,3.315718064,yes
+RAxML_non_recombinant,New York,USA,CoV2,9,2.906711431,yes
+RAxML_non_recombinant,New York,USA,CoV2,10,13.68326515,yes
+RAxML_non_recombinant,New York,USA,CoV2,11,18.76868229,yes
+RAxML_non_recombinant,New York,USA,CoV2,12,14.42260604,yes
+RAxML_non_recombinant,Stockholm,Sweden,CoV2,1,17.58700853,yes
+RAxML_non_recombinant,Stockholm,Sweden,CoV2,2,17.29228667,yes
+RAxML_non_recombinant,Stockholm,Sweden,CoV2,3,15.19654512,yes
+RAxML_non_recombinant,Stockholm,Sweden,CoV2,4,9.46277511,yes
+RAxML_non_recombinant,Stockholm,Sweden,CoV2,5,6.176059082,yes
+RAxML_non_recombinant,Stockholm,Sweden,CoV2,6,4.251455144,yes
+RAxML_non_recombinant,Stockholm,Sweden,CoV2,7,4.251455144,yes
+RAxML_non_recombinant,Stockholm,Sweden,CoV2,8,0.955101971,yes
+RAxML_non_recombinant,Stockholm,Sweden,CoV2,9,1.186786387,yes
+RAxML_non_recombinant,Stockholm,Sweden,CoV2,10,2.171641524,yes
+RAxML_non_recombinant,Stockholm,Sweden,CoV2,11,6.151806126,yes
+RAxML_non_recombinant,Stockholm,Sweden,CoV2,12,18.17390092,yes
+RAxML_non_recombinant,South Korea,South Korea,CoV2,1,13.5436742,yes
+RAxML_non_recombinant,South Korea,South Korea,CoV2,2,9.192271663,yes
+RAxML_non_recombinant,South Korea,South Korea,CoV2,3,5.222101607,yes
+RAxML_non_recombinant,South Korea,South Korea,CoV2,4,5.466621215,yes
+RAxML_non_recombinant,South Korea,South Korea,CoV2,5,3.620714188,yes
+RAxML_non_recombinant,South Korea,South Korea,CoV2,6,2.924293627,yes
+RAxML_non_recombinant,South Korea,South Korea,CoV2,7,2.924293627,yes
+RAxML_non_recombinant,South Korea,South Korea,CoV2,8,1.962932889,yes
+RAxML_non_recombinant,South Korea,South Korea,CoV2,9,1.977955742,yes
+RAxML_non_recombinant,South Korea,South Korea,CoV2,10,6.776043817,yes
+RAxML_non_recombinant,South Korea,South Korea,CoV2,11,19.02220805,yes
+RAxML_non_recombinant,South Korea,South Korea,CoV2,12,28.36142607,yes
+RAxML_non_recombinant,Colorado,USA,CoV2,12,5.981711021,yes
+RAxML_non_recombinant,Colorado,USA,CoV2,2,5.287024867,yes
+RAxML_non_recombinant,Colorado,USA,CoV2,3,12.63923882,yes
+RAxML_non_recombinant,Colorado,USA,CoV2,4,18.96829292,yes
+RAxML_non_recombinant,Colorado,USA,CoV2,5,15.06151388,yes
+RAxML_non_recombinant,Colorado,USA,CoV2,6,10.57404974,yes
+RAxML_non_recombinant,Colorado,USA,CoV2,7,10.57404974,yes
+RAxML_non_recombinant,Colorado,USA,CoV2,8,5.17076016,yes
+RAxML_non_recombinant,Colorado,USA,CoV2,9,4.324580238,yes
+RAxML_non_recombinant,Colorado,USA,CoV2,10,4.324580238,yes
+RAxML_non_recombinant,Colorado,USA,CoV2,11,4.671923315,yes
+RAxML_non_recombinant,Colorado,USA,CoV2,1,4.324580238,yes
+RAxML_non_recombinant,Gothenburg,Sweden,CoV2,1,18.9046125,yes
+RAxML_non_recombinant,Gothenburg,Sweden,CoV2,2,19.42774696,yes
+RAxML_non_recombinant,Gothenburg,Sweden,CoV2,3,11.10637411,yes
+RAxML_non_recombinant,Gothenburg,Sweden,CoV2,4,5.294182475,yes
+RAxML_non_recombinant,Gothenburg,Sweden,CoV2,5,5.743932178,yes
+RAxML_non_recombinant,Gothenburg,Sweden,CoV2,6,6.455967469,yes
+RAxML_non_recombinant,Gothenburg,Sweden,CoV2,7,6.455967469,yes
+RAxML_non_recombinant,Gothenburg,Sweden,CoV2,8,2.605016997,yes
+RAxML_non_recombinant,Gothenburg,Sweden,CoV2,9,2.113654843,yes
+RAxML_non_recombinant,Gothenburg,Sweden,CoV2,10,6.363409821,yes
+RAxML_non_recombinant,Gothenburg,Sweden,CoV2,11,3.530239835,yes
+RAxML_non_recombinant,Gothenburg,Sweden,CoV2,12,15.70491771,yes
+RAxML_non_recombinant,Yamagata,Japan,CoV2,1,17.30608018,yes
+RAxML_non_recombinant,Yamagata,Japan,CoV2,2,23.87141888,yes
+RAxML_non_recombinant,Yamagata,Japan,CoV2,3,17.89089102,yes
+RAxML_non_recombinant,Yamagata,Japan,CoV2,4,7.656362369,yes
+RAxML_non_recombinant,Yamagata,Japan,CoV2,5,5.234281374,yes
+RAxML_non_recombinant,Yamagata,Japan,CoV2,6,1.912275461,yes
+RAxML_non_recombinant,Yamagata,Japan,CoV2,7,1.912275461,yes
+RAxML_non_recombinant,Yamagata,Japan,CoV2,8,2.704105603,yes
+RAxML_non_recombinant,Yamagata,Japan,CoV2,9,1.840587395,yes
+RAxML_non_recombinant,Yamagata,Japan,CoV2,10,4.048679967,yes
+RAxML_non_recombinant,Yamagata,Japan,CoV2,11,7.233485645,yes
+RAxML_non_recombinant,Yamagata,Japan,CoV2,12,5.444342454,yes
+RAxML_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,1,17.30608018,yes
+RAxML_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,2,23.87141888,yes
+RAxML_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,3,17.89089102,yes
+RAxML_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,4,7.656362369,yes
+RAxML_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,5,5.234281374,yes
+RAxML_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,6,1.912275461,yes
+RAxML_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,7,1.912275461,yes
+RAxML_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,8,2.704105603,yes
+RAxML_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,9,1.840587395,yes
+RAxML_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,10,4.048679967,yes
+RAxML_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,11,7.233485645,yes
+RAxML_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,12,5.444342454,yes
+RAxML_RelTime,Beijing,China,CoV2,1,4.170337492,no
+RAxML_RelTime,Beijing,China,CoV2,2,6.125416256,no
+RAxML_RelTime,Beijing,China,CoV2,3,8.485417471,no
+RAxML_RelTime,Beijing,China,CoV2,4,9.311875264,no
+RAxML_RelTime,Beijing,China,CoV2,5,8.013417228,no
+RAxML_RelTime,Beijing,China,CoV2,6,14.43988207,no
+RAxML_RelTime,Beijing,China,CoV2,7,9.138956267,no
+RAxML_RelTime,Beijing,China,CoV2,8,4.91113726,no
+RAxML_RelTime,Beijing,China,CoV2,9,11.15101428,no
+RAxML_RelTime,Beijing,China,CoV2,10,11.76873372,no
+RAxML_RelTime,Beijing,China,CoV2,11,6.919136625,no
+RAxML_RelTime,Beijing,China,CoV2,12,5.564676058,no
+RAxML_RelTime,Tampere,Finland,CoV2,1,11.94178501,no
+RAxML_RelTime,Tampere,Finland,CoV2,2,24.45394961,no
+RAxML_RelTime,Tampere,Finland,CoV2,3,12.76752851,no
+RAxML_RelTime,Tampere,Finland,CoV2,4,8.381469266,no
+RAxML_RelTime,Tampere,Finland,CoV2,5,5.210908535,no
+RAxML_RelTime,Tampere,Finland,CoV2,6,5.210908535,no
+RAxML_RelTime,Tampere,Finland,CoV2,7,4.040347933,no
+RAxML_RelTime,Tampere,Finland,CoV2,8,4.040347933,no
+RAxML_RelTime,Tampere,Finland,CoV2,9,5.210908535,no
+RAxML_RelTime,Tampere,Finland,CoV2,10,4.040347933,no
+RAxML_RelTime,Tampere,Finland,CoV2,11,5.210908535,no
+RAxML_RelTime,Tampere,Finland,CoV2,12,9.490589665,no
+RAxML_RelTime,Guangzhou,China,CoV2,1,15.05490832,no
+RAxML_RelTime,Guangzhou,China,CoV2,2,17.07909881,no
+RAxML_RelTime,Guangzhou,China,CoV2,3,10.69623919,no
+RAxML_RelTime,Guangzhou,China,CoV2,4,8.49624047,no
+RAxML_RelTime,Guangzhou,China,CoV2,5,4.197956965,no
+RAxML_RelTime,Guangzhou,China,CoV2,6,3.335088662,no
+RAxML_RelTime,Guangzhou,China,CoV2,7,2.637491431,no
+RAxML_RelTime,Guangzhou,China,CoV2,8,1.687544643,no
+RAxML_RelTime,Guangzhou,China,CoV2,9,2.41851847,no
+RAxML_RelTime,Guangzhou,China,CoV2,10,3.926413051,no
+RAxML_RelTime,Guangzhou,China,CoV2,11,12.84369472,no
+RAxML_RelTime,Guangzhou,China,CoV2,12,17.62680526,no
+RAxML_RelTime,Hong Kong,China,CoV2,1,9.574655468,no
+RAxML_RelTime,Hong Kong,China,CoV2,2,6.098369193,no
+RAxML_RelTime,Hong Kong,China,CoV2,3,5.828239823,no
+RAxML_RelTime,Hong Kong,China,CoV2,4,6.098369193,no
+RAxML_RelTime,Hong Kong,China,CoV2,5,4.802369933,no
+RAxML_RelTime,Hong Kong,China,CoV2,6,5.642842443,no
+RAxML_RelTime,Hong Kong,China,CoV2,7,6.232437639,no
+RAxML_RelTime,Hong Kong,China,CoV2,8,5.776910889,no
+RAxML_RelTime,Hong Kong,China,CoV2,9,9.087261915,no
+RAxML_RelTime,Hong Kong,China,CoV2,10,8.292807206,no
+RAxML_RelTime,Hong Kong,China,CoV2,11,14.61707037,no
+RAxML_RelTime,Hong Kong,China,CoV2,12,17.94866593,no
+RAxML_RelTime,Sarlahi,Nepal,CoV2,1,14.66002944,no
+RAxML_RelTime,Sarlahi,Nepal,CoV2,2,19.10452689,no
+RAxML_RelTime,Sarlahi,Nepal,CoV2,3,8.513309533,no
+RAxML_RelTime,Sarlahi,Nepal,CoV2,4,5.476747909,no
+RAxML_RelTime,Sarlahi,Nepal,CoV2,5,8.258283951,no
+RAxML_RelTime,Sarlahi,Nepal,CoV2,6,5.915920024,no
+RAxML_RelTime,Sarlahi,Nepal,CoV2,7,2.099286346,no
+RAxML_RelTime,Sarlahi,Nepal,CoV2,8,5.143620502,no
+RAxML_RelTime,Sarlahi,Nepal,CoV2,9,7.166643109,no
+RAxML_RelTime,Sarlahi,Nepal,CoV2,10,8.08842378,no
+RAxML_RelTime,Sarlahi,Nepal,CoV2,11,8.351421046,no
+RAxML_RelTime,Sarlahi,Nepal,CoV2,12,7.221787464,no
+RAxML_RelTime,Amsterdam,Netherlands,CoV2,1,10.34281561,no
+RAxML_RelTime,Amsterdam,Netherlands,CoV2,2,11.79883171,no
+RAxML_RelTime,Amsterdam,Netherlands,CoV2,3,11.53545558,no
+RAxML_RelTime,Amsterdam,Netherlands,CoV2,4,10.60251172,no
+RAxML_RelTime,Amsterdam,Netherlands,CoV2,5,9.84228944,no
+RAxML_RelTime,Amsterdam,Netherlands,CoV2,6,7.039953085,no
+RAxML_RelTime,Amsterdam,Netherlands,CoV2,7,7.039953085,no
+RAxML_RelTime,Amsterdam,Netherlands,CoV2,8,5.46822417,no
+RAxML_RelTime,Amsterdam,Netherlands,CoV2,9,4.775584,no
+RAxML_RelTime,Amsterdam,Netherlands,CoV2,10,6.491647362,no
+RAxML_RelTime,Amsterdam,Netherlands,CoV2,11,7.266238754,no
+RAxML_RelTime,Amsterdam,Netherlands,CoV2,12,10.23779214,no
+RAxML_RelTime,Sor Trondelag,Norway,CoV2,1,15.05490832,no
+RAxML_RelTime,Sor Trondelag,Norway,CoV2,2,17.07909881,no
+RAxML_RelTime,Sor Trondelag,Norway,CoV2,3,10.69623919,no
+RAxML_RelTime,Sor Trondelag,Norway,CoV2,4,8.49624047,no
+RAxML_RelTime,Sor Trondelag,Norway,CoV2,5,4.197956965,no
+RAxML_RelTime,Sor Trondelag,Norway,CoV2,6,3.335088662,no
+RAxML_RelTime,Sor Trondelag,Norway,CoV2,7,2.637491431,no
+RAxML_RelTime,Sor Trondelag,Norway,CoV2,8,1.687544643,no
+RAxML_RelTime,Sor Trondelag,Norway,CoV2,9,2.41851847,no
+RAxML_RelTime,Sor Trondelag,Norway,CoV2,10,3.926413051,no
+RAxML_RelTime,Sor Trondelag,Norway,CoV2,11,12.84369472,no
+RAxML_RelTime,Sor Trondelag,Norway,CoV2,12,17.62680526,no
+RAxML_RelTime,New York,USA,CoV2,1,18.78105736,no
+RAxML_RelTime,New York,USA,CoV2,2,8.538728863,no
+RAxML_RelTime,New York,USA,CoV2,3,6.646198678,no
+RAxML_RelTime,New York,USA,CoV2,4,4.420499904,no
+RAxML_RelTime,New York,USA,CoV2,5,2.469565567,no
+RAxML_RelTime,New York,USA,CoV2,6,2.957299151,no
+RAxML_RelTime,New York,USA,CoV2,7,2.957299151,no
+RAxML_RelTime,New York,USA,CoV2,8,3.201165943,no
+RAxML_RelTime,New York,USA,CoV2,9,2.957299151,no
+RAxML_RelTime,New York,USA,CoV2,10,14.51512245,no
+RAxML_RelTime,New York,USA,CoV2,11,18.60456393,no
+RAxML_RelTime,New York,USA,CoV2,12,13.95119984,no
+RAxML_RelTime,Stockholm,Sweden,CoV2,1,17.2672396,no
+RAxML_RelTime,Stockholm,Sweden,CoV2,2,18.03372518,no
+RAxML_RelTime,Stockholm,Sweden,CoV2,3,15.91177485,no
+RAxML_RelTime,Stockholm,Sweden,CoV2,4,9.783964171,no
+RAxML_RelTime,Stockholm,Sweden,CoV2,5,6.257248223,no
+RAxML_RelTime,Stockholm,Sweden,CoV2,6,4.146895422,no
+RAxML_RelTime,Stockholm,Sweden,CoV2,7,4.146895422,no
+RAxML_RelTime,Stockholm,Sweden,CoV2,8,0.976137249,no
+RAxML_RelTime,Stockholm,Sweden,CoV2,9,1.125704581,no
+RAxML_RelTime,Stockholm,Sweden,CoV2,10,2.103406393,no
+RAxML_RelTime,Stockholm,Sweden,CoV2,11,5.835775445,no
+RAxML_RelTime,Stockholm,Sweden,CoV2,12,17.23299423,no
+RAxML_RelTime,South Korea,South Korea,CoV2,1,13.82359084,no
+RAxML_RelTime,South Korea,South Korea,CoV2,2,9.816564512,no
+RAxML_RelTime,South Korea,South Korea,CoV2,3,5.550950243,no
+RAxML_RelTime,South Korea,South Korea,CoV2,4,5.586047313,no
+RAxML_RelTime,South Korea,South Korea,CoV2,5,3.552869677,no
+RAxML_RelTime,South Korea,South Korea,CoV2,6,2.873360633,no
+RAxML_RelTime,South Korea,South Korea,CoV2,7,2.873360633,no
+RAxML_RelTime,South Korea,South Korea,CoV2,8,1.862398577,no
+RAxML_RelTime,South Korea,South Korea,CoV2,9,1.998696327,no
+RAxML_RelTime,South Korea,South Korea,CoV2,10,6.689440409,no
+RAxML_RelTime,South Korea,South Korea,CoV2,11,18.67597685,no
+RAxML_RelTime,South Korea,South Korea,CoV2,12,27.67081631,no
+RAxML_RelTime,Colorado,USA,CoV2,12,5.956933175,no
+RAxML_RelTime,Colorado,USA,CoV2,2,5.110566574,no
+RAxML_RelTime,Colorado,USA,CoV2,3,13.1622436,no
+RAxML_RelTime,Colorado,USA,CoV2,4,19.54236008,no
+RAxML_RelTime,Colorado,USA,CoV2,5,15.70914487,no
+RAxML_RelTime,Colorado,USA,CoV2,6,10.22113315,no
+RAxML_RelTime,Colorado,USA,CoV2,7,10.22113315,no
+RAxML_RelTime,Colorado,USA,CoV2,8,4.952773736,no
+RAxML_RelTime,Colorado,USA,CoV2,9,4.051209033,no
+RAxML_RelTime,Colorado,USA,CoV2,10,4.051209033,no
+RAxML_RelTime,Colorado,USA,CoV2,11,4.474392334,no
+RAxML_RelTime,Colorado,USA,CoV2,1,4.051209033,no
+RAxML_RelTime,Gothenburg,Sweden,CoV2,1,18.33237985,no
+RAxML_RelTime,Gothenburg,Sweden,CoV2,2,19.99036696,no
+RAxML_RelTime,Gothenburg,Sweden,CoV2,3,11.68293649,no
+RAxML_RelTime,Gothenburg,Sweden,CoV2,4,5.524066055,no
+RAxML_RelTime,Gothenburg,Sweden,CoV2,5,6.189385171,no
+RAxML_RelTime,Gothenburg,Sweden,CoV2,6,6.686766474,no
+RAxML_RelTime,Gothenburg,Sweden,CoV2,7,6.686766474,no
+RAxML_RelTime,Gothenburg,Sweden,CoV2,8,2.575042939,no
+RAxML_RelTime,Gothenburg,Sweden,CoV2,9,2.058328999,no
+RAxML_RelTime,Gothenburg,Sweden,CoV2,10,5.941085241,no
+RAxML_RelTime,Gothenburg,Sweden,CoV2,11,3.35258108,no
+RAxML_RelTime,Gothenburg,Sweden,CoV2,12,14.78134622,no
+RAxML_RelTime,Yamagata,Japan,CoV2,1,17.00225678,no
+RAxML_RelTime,Yamagata,Japan,CoV2,2,22.96584672,no
+RAxML_RelTime,Yamagata,Japan,CoV2,3,17.58905344,no
+RAxML_RelTime,Yamagata,Japan,CoV2,4,8.232735257,no
+RAxML_RelTime,Yamagata,Japan,CoV2,5,5.468886165,no
+RAxML_RelTime,Yamagata,Japan,CoV2,6,2.09172474,no
+RAxML_RelTime,Yamagata,Japan,CoV2,7,2.09172474,no
+RAxML_RelTime,Yamagata,Japan,CoV2,8,2.670120477,no
+RAxML_RelTime,Yamagata,Japan,CoV2,9,1.889938326,no
+RAxML_RelTime,Yamagata,Japan,CoV2,10,4.225823885,no
+RAxML_RelTime,Yamagata,Japan,CoV2,11,7.396895993,no
+RAxML_RelTime,Yamagata,Japan,CoV2,12,5.896481338,no
+RAxML_RelTime,Nakhon Si Thammarat,Thailand,CoV2,1,17.00225678,no
+RAxML_RelTime,Nakhon Si Thammarat,Thailand,CoV2,2,22.96584672,no
+RAxML_RelTime,Nakhon Si Thammarat,Thailand,CoV2,3,17.58905344,no
+RAxML_RelTime,Nakhon Si Thammarat,Thailand,CoV2,4,8.232735257,no
+RAxML_RelTime,Nakhon Si Thammarat,Thailand,CoV2,5,5.468886165,no
+RAxML_RelTime,Nakhon Si Thammarat,Thailand,CoV2,6,2.09172474,no
+RAxML_RelTime,Nakhon Si Thammarat,Thailand,CoV2,7,2.09172474,no
+RAxML_RelTime,Nakhon Si Thammarat,Thailand,CoV2,8,2.670120477,no
+RAxML_RelTime,Nakhon Si Thammarat,Thailand,CoV2,9,1.889938326,no
+RAxML_RelTime,Nakhon Si Thammarat,Thailand,CoV2,10,4.225823885,no
+RAxML_RelTime,Nakhon Si Thammarat,Thailand,CoV2,11,7.396895993,no
+RAxML_RelTime,Nakhon Si Thammarat,Thailand,CoV2,12,5.896481338,no
+RAxML_RelTime_non_recombinant,Beijing,China,CoV2,1,4.135134612,yes
+RAxML_RelTime_non_recombinant,Beijing,China,CoV2,2,6.156121263,yes
+RAxML_RelTime_non_recombinant,Beijing,China,CoV2,3,8.556980171,yes
+RAxML_RelTime_non_recombinant,Beijing,China,CoV2,4,9.237443864,yes
+RAxML_RelTime_non_recombinant,Beijing,China,CoV2,5,8.07680839,yes
+RAxML_RelTime_non_recombinant,Beijing,China,CoV2,6,14.61453188,yes
+RAxML_RelTime_non_recombinant,Beijing,China,CoV2,7,9.221833406,yes
+RAxML_RelTime_non_recombinant,Beijing,China,CoV2,8,4.877538702,yes
+RAxML_RelTime_non_recombinant,Beijing,China,CoV2,9,11.1180419,yes
+RAxML_RelTime_non_recombinant,Beijing,China,CoV2,10,11.60699306,yes
+RAxML_RelTime_non_recombinant,Beijing,China,CoV2,11,6.856180819,yes
+RAxML_RelTime_non_recombinant,Beijing,China,CoV2,12,5.542391939,yes
+RAxML_RelTime_non_recombinant,Tampere,Finland,CoV2,1,11.84972593,yes
+RAxML_RelTime_non_recombinant,Tampere,Finland,CoV2,2,24.27714111,yes
+RAxML_RelTime_non_recombinant,Tampere,Finland,CoV2,3,12.82313613,yes
+RAxML_RelTime_non_recombinant,Tampere,Finland,CoV2,4,8.425263313,yes
+RAxML_RelTime_non_recombinant,Tampere,Finland,CoV2,5,5.234437294,yes
+RAxML_RelTime_non_recombinant,Tampere,Finland,CoV2,6,5.234437294,yes
+RAxML_RelTime_non_recombinant,Tampere,Finland,CoV2,7,4.043611275,yes
+RAxML_RelTime_non_recombinant,Tampere,Finland,CoV2,8,4.043611275,yes
+RAxML_RelTime_non_recombinant,Tampere,Finland,CoV2,9,5.234437294,yes
+RAxML_RelTime_non_recombinant,Tampere,Finland,CoV2,10,4.043611275,yes
+RAxML_RelTime_non_recombinant,Tampere,Finland,CoV2,11,5.234437294,yes
+RAxML_RelTime_non_recombinant,Tampere,Finland,CoV2,12,9.556150518,yes
+RAxML_RelTime_non_recombinant,Guangzhou,China,CoV2,1,15.09527655,yes
+RAxML_RelTime_non_recombinant,Guangzhou,China,CoV2,2,17.05274777,yes
+RAxML_RelTime_non_recombinant,Guangzhou,China,CoV2,3,10.56968902,yes
+RAxML_RelTime_non_recombinant,Guangzhou,China,CoV2,4,8.403738109,yes
+RAxML_RelTime_non_recombinant,Guangzhou,China,CoV2,5,4.190769688,yes
+RAxML_RelTime_non_recombinant,Guangzhou,China,CoV2,6,3.294929051,yes
+RAxML_RelTime_non_recombinant,Guangzhou,China,CoV2,7,2.625186975,yes
+RAxML_RelTime_non_recombinant,Guangzhou,China,CoV2,8,1.676828025,yes
+RAxML_RelTime_non_recombinant,Guangzhou,China,CoV2,9,2.420456891,yes
+RAxML_RelTime_non_recombinant,Guangzhou,China,CoV2,10,3.954457008,yes
+RAxML_RelTime_non_recombinant,Guangzhou,China,CoV2,11,12.95011969,yes
+RAxML_RelTime_non_recombinant,Guangzhou,China,CoV2,12,17.76580123,yes
+RAxML_RelTime_non_recombinant,Hong Kong,China,CoV2,1,9.656466245,yes
+RAxML_RelTime_non_recombinant,Hong Kong,China,CoV2,2,6.065894513,yes
+RAxML_RelTime_non_recombinant,Hong Kong,China,CoV2,3,5.791088508,yes
+RAxML_RelTime_non_recombinant,Hong Kong,China,CoV2,4,6.065894513,yes
+RAxML_RelTime_non_recombinant,Hong Kong,China,CoV2,5,4.801560167,yes
+RAxML_RelTime_non_recombinant,Hong Kong,China,CoV2,6,5.572632271,yes
+RAxML_RelTime_non_recombinant,Hong Kong,China,CoV2,7,6.196687722,yes
+RAxML_RelTime_non_recombinant,Hong Kong,China,CoV2,8,5.703425479,yes
+RAxML_RelTime_non_recombinant,Hong Kong,China,CoV2,9,8.951690594,yes
+RAxML_RelTime_non_recombinant,Hong Kong,China,CoV2,10,8.233029285,yes
+RAxML_RelTime_non_recombinant,Hong Kong,China,CoV2,11,14.78617833,yes
+RAxML_RelTime_non_recombinant,Hong Kong,China,CoV2,12,18.17545238,yes
+RAxML_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,1,14.80894863,yes
+RAxML_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,2,19.30246816,yes
+RAxML_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,3,8.566369589,yes
+RAxML_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,4,5.466680862,yes
+RAxML_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,5,8.324296062,yes
+RAxML_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,6,5.979859806,yes
+RAxML_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,7,2.097150376,yes
+RAxML_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,8,5.056956497,yes
+RAxML_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,9,7.030551572,yes
+RAxML_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,10,7.92981062,yes
+RAxML_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,11,8.250823507,yes
+RAxML_RelTime_non_recombinant,Sarlahi,Nepal,CoV2,12,7.186084319,yes
+RAxML_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,1,10.32710984,yes
+RAxML_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,2,11.79275219,yes
+RAxML_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,3,11.52481634,yes
+RAxML_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,4,10.59389894,yes
+RAxML_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,5,9.888899843,yes
+RAxML_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,6,7.074404232,yes
+RAxML_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,7,7.074404232,yes
+RAxML_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,8,5.476330408,yes
+RAxML_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,9,4.778623903,yes
+RAxML_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,10,6.46986203,yes
+RAxML_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,11,7.220641458,yes
+RAxML_RelTime_non_recombinant,Amsterdam,Netherlands,CoV2,12,10.23931195,yes
+RAxML_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,1,15.09527655,yes
+RAxML_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,2,17.05274777,yes
+RAxML_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,3,10.56968902,yes
+RAxML_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,4,8.403738109,yes
+RAxML_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,5,4.190769688,yes
+RAxML_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,6,3.294929051,yes
+RAxML_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,7,2.625186975,yes
+RAxML_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,8,1.676828025,yes
+RAxML_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,9,2.420456891,yes
+RAxML_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,10,3.954457008,yes
+RAxML_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,11,12.95011969,yes
+RAxML_RelTime_non_recombinant,Sor Trondelag,Norway,CoV2,12,17.76580123,yes
+RAxML_RelTime_non_recombinant,New York,USA,CoV2,1,18.6886764,yes
+RAxML_RelTime_non_recombinant,New York,USA,CoV2,2,8.533710181,yes
+RAxML_RelTime_non_recombinant,New York,USA,CoV2,3,6.65687913,yes
+RAxML_RelTime_non_recombinant,New York,USA,CoV2,4,4.444838958,yes
+RAxML_RelTime_non_recombinant,New York,USA,CoV2,5,2.460128926,yes
+RAxML_RelTime_non_recombinant,New York,USA,CoV2,6,2.956306434,yes
+RAxML_RelTime_non_recombinant,New York,USA,CoV2,7,2.956306434,yes
+RAxML_RelTime_non_recombinant,New York,USA,CoV2,8,3.204395188,yes
+RAxML_RelTime_non_recombinant,New York,USA,CoV2,9,2.956306434,yes
+RAxML_RelTime_non_recombinant,New York,USA,CoV2,10,14.40480582,yes
+RAxML_RelTime_non_recombinant,New York,USA,CoV2,11,18.68955939,yes
+RAxML_RelTime_non_recombinant,New York,USA,CoV2,12,14.04808671,yes
+RAxML_RelTime_non_recombinant,Stockholm,Sweden,CoV2,1,17.42341638,yes
+RAxML_RelTime_non_recombinant,Stockholm,Sweden,CoV2,2,17.82714564,yes
+RAxML_RelTime_non_recombinant,Stockholm,Sweden,CoV2,3,15.62431136,yes
+RAxML_RelTime_non_recombinant,Stockholm,Sweden,CoV2,4,9.626391726,yes
+RAxML_RelTime_non_recombinant,Stockholm,Sweden,CoV2,5,6.20295021,yes
+RAxML_RelTime_non_recombinant,Stockholm,Sweden,CoV2,6,4.166270442,yes
+RAxML_RelTime_non_recombinant,Stockholm,Sweden,CoV2,7,4.166270442,yes
+RAxML_RelTime_non_recombinant,Stockholm,Sweden,CoV2,8,0.966128506,yes
+RAxML_RelTime_non_recombinant,Stockholm,Sweden,CoV2,9,1.14581974,yes
+RAxML_RelTime_non_recombinant,Stockholm,Sweden,CoV2,10,2.116434372,yes
+RAxML_RelTime_non_recombinant,Stockholm,Sweden,CoV2,11,5.952375857,yes
+RAxML_RelTime_non_recombinant,Stockholm,Sweden,CoV2,12,17.60208951,yes
+RAxML_RelTime_non_recombinant,South Korea,South Korea,CoV2,1,13.7404277,yes
+RAxML_RelTime_non_recombinant,South Korea,South Korea,CoV2,2,9.583434726,yes
+RAxML_RelTime_non_recombinant,South Korea,South Korea,CoV2,3,5.430064736,yes
+RAxML_RelTime_non_recombinant,South Korea,South Korea,CoV2,4,5.516985225,yes
+RAxML_RelTime_non_recombinant,South Korea,South Korea,CoV2,5,3.560529735,yes
+RAxML_RelTime_non_recombinant,South Korea,South Korea,CoV2,6,2.86680097,yes
+RAxML_RelTime_non_recombinant,South Korea,South Korea,CoV2,7,2.86680097,yes
+RAxML_RelTime_non_recombinant,South Korea,South Korea,CoV2,8,1.89398777,yes
+RAxML_RelTime_non_recombinant,South Korea,South Korea,CoV2,9,1.994139383,yes
+RAxML_RelTime_non_recombinant,South Korea,South Korea,CoV2,10,6.711611766,yes
+RAxML_RelTime_non_recombinant,South Korea,South Korea,CoV2,11,18.85703767,yes
+RAxML_RelTime_non_recombinant,South Korea,South Korea,CoV2,12,27.94649789,yes
+RAxML_RelTime_non_recombinant,Colorado,USA,CoV2,12,5.951763549,yes
+RAxML_RelTime_non_recombinant,Colorado,USA,CoV2,2,5.126075813,yes
+RAxML_RelTime_non_recombinant,Colorado,USA,CoV2,3,13.19348732,yes
+RAxML_RelTime_non_recombinant,Colorado,USA,CoV2,4,19.55809474,yes
+RAxML_RelTime_non_recombinant,Colorado,USA,CoV2,5,15.65160314,yes
+RAxML_RelTime_non_recombinant,Colorado,USA,CoV2,6,10.25215163,yes
+RAxML_RelTime_non_recombinant,Colorado,USA,CoV2,7,10.25215163,yes
+RAxML_RelTime_non_recombinant,Colorado,USA,CoV2,8,4.945580827,yes
+RAxML_RelTime_non_recombinant,Colorado,USA,CoV2,9,4.066043891,yes
+RAxML_RelTime_non_recombinant,Colorado,USA,CoV2,10,4.066043891,yes
+RAxML_RelTime_non_recombinant,Colorado,USA,CoV2,11,4.478887759,yes
+RAxML_RelTime_non_recombinant,Colorado,USA,CoV2,1,4.066043891,yes
+RAxML_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,1,18.9046125,yes
+RAxML_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,2,19.42774696,yes
+RAxML_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,3,11.10637411,yes
+RAxML_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,4,5.294182475,yes
+RAxML_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,5,5.743932178,yes
+RAxML_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,6,6.455967469,yes
+RAxML_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,7,6.455967469,yes
+RAxML_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,8,2.605016997,yes
+RAxML_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,9,2.113654843,yes
+RAxML_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,10,6.363409821,yes
+RAxML_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,11,3.530239835,yes
+RAxML_RelTime_non_recombinant,Gothenburg,Sweden,CoV2,12,15.70491771,yes
+RAxML_RelTime_non_recombinant,Yamagata,Japan,CoV2,1,17.04530535,yes
+RAxML_RelTime_non_recombinant,Yamagata,Japan,CoV2,2,23.15084845,yes
+RAxML_RelTime_non_recombinant,Yamagata,Japan,CoV2,3,17.49905746,yes
+RAxML_RelTime_non_recombinant,Yamagata,Japan,CoV2,4,8.103502256,yes
+RAxML_RelTime_non_recombinant,Yamagata,Japan,CoV2,5,5.443830541,yes
+RAxML_RelTime_non_recombinant,Yamagata,Japan,CoV2,6,2.064359613,yes
+RAxML_RelTime_non_recombinant,Yamagata,Japan,CoV2,7,2.064359613,yes
+RAxML_RelTime_non_recombinant,Yamagata,Japan,CoV2,8,2.663198089,yes
+RAxML_RelTime_non_recombinant,Yamagata,Japan,CoV2,9,1.867503107,yes
+RAxML_RelTime_non_recombinant,Yamagata,Japan,CoV2,10,4.25626395,yes
+RAxML_RelTime_non_recombinant,Yamagata,Japan,CoV2,11,7.433298107,yes
+RAxML_RelTime_non_recombinant,Yamagata,Japan,CoV2,12,5.860978852,yes
+RAxML_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,1,17.04530535,yes
+RAxML_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,2,23.15084845,yes
+RAxML_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,3,17.49905746,yes
+RAxML_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,4,8.103502256,yes
+RAxML_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,5,5.443830541,yes
+RAxML_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,6,2.064359613,yes
+RAxML_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,7,2.064359613,yes
+RAxML_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,8,2.663198089,yes
+RAxML_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,9,1.867503107,yes
+RAxML_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,10,4.25626395,yes
+RAxML_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,11,7.433298107,yes
+RAxML_RelTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,12,5.860978852,yes
+RAxML_TreeTime,Beijing,China,CoV2,1,4.162185905,no
+RAxML_TreeTime,Beijing,China,CoV2,2,6.099041985,no
+RAxML_TreeTime,Beijing,China,CoV2,3,8.494471198,no
+RAxML_TreeTime,Beijing,China,CoV2,4,9.331628104,no
+RAxML_TreeTime,Beijing,China,CoV2,5,8.015385356,no
+RAxML_TreeTime,Beijing,China,CoV2,6,14.56494201,no
+RAxML_TreeTime,Beijing,China,CoV2,7,9.131202183,no
+RAxML_TreeTime,Beijing,China,CoV2,8,4.886964718,no
+RAxML_TreeTime,Beijing,China,CoV2,9,11.12313914,no
+RAxML_TreeTime,Beijing,China,CoV2,10,11.75356629,no
+RAxML_TreeTime,Beijing,China,CoV2,11,6.913777403,no
+RAxML_TreeTime,Beijing,China,CoV2,12,5.523695704,no
+RAxML_TreeTime,Tampere,Finland,CoV2,1,11.94498159,no
+RAxML_TreeTime,Tampere,Finland,CoV2,2,24.33663503,no
+RAxML_TreeTime,Tampere,Finland,CoV2,3,12.69350767,no
+RAxML_TreeTime,Tampere,Finland,CoV2,4,8.440661661,no
+RAxML_TreeTime,Tampere,Finland,CoV2,5,5.228623386,no
+RAxML_TreeTime,Tampere,Finland,CoV2,6,5.228623386,no
+RAxML_TreeTime,Tampere,Finland,CoV2,7,4.040490496,no
+RAxML_TreeTime,Tampere,Finland,CoV2,8,4.040490496,no
+RAxML_TreeTime,Tampere,Finland,CoV2,9,5.228623386,no
+RAxML_TreeTime,Tampere,Finland,CoV2,10,4.040490496,no
+RAxML_TreeTime,Tampere,Finland,CoV2,11,5.228623386,no
+RAxML_TreeTime,Tampere,Finland,CoV2,12,9.548249012,no
+RAxML_TreeTime,Guangzhou,China,CoV2,1,15.05377843,no
+RAxML_TreeTime,Guangzhou,China,CoV2,2,16.98466835,no
+RAxML_TreeTime,Guangzhou,China,CoV2,3,10.69485716,no
+RAxML_TreeTime,Guangzhou,China,CoV2,4,8.527673326,no
+RAxML_TreeTime,Guangzhou,China,CoV2,5,4.225218045,no
+RAxML_TreeTime,Guangzhou,China,CoV2,6,3.335726914,no
+RAxML_TreeTime,Guangzhou,China,CoV2,7,2.639955149,no
+RAxML_TreeTime,Guangzhou,China,CoV2,8,1.689417469,no
+RAxML_TreeTime,Guangzhou,China,CoV2,9,2.420201914,no
+RAxML_TreeTime,Guangzhou,China,CoV2,10,3.939570135,no
+RAxML_TreeTime,Guangzhou,China,CoV2,11,12.85061601,no
+RAxML_TreeTime,Guangzhou,China,CoV2,12,17.63831709,no
+RAxML_TreeTime,Hong Kong,China,CoV2,1,9.603153065,no
+RAxML_TreeTime,Hong Kong,China,CoV2,2,6.092804578,no
+RAxML_TreeTime,Hong Kong,China,CoV2,3,5.846303453,no
+RAxML_TreeTime,Hong Kong,China,CoV2,4,6.092804578,no
+RAxML_TreeTime,Hong Kong,China,CoV2,5,4.786910054,no
+RAxML_TreeTime,Hong Kong,China,CoV2,6,5.635497415,no
+RAxML_TreeTime,Hong Kong,China,CoV2,7,6.193194733,no
+RAxML_TreeTime,Hong Kong,China,CoV2,8,5.73588757,no
+RAxML_TreeTime,Hong Kong,China,CoV2,9,9.005431114,no
+RAxML_TreeTime,Hong Kong,China,CoV2,10,8.266926662,no
+RAxML_TreeTime,Hong Kong,China,CoV2,11,14.6658972,no
+RAxML_TreeTime,Hong Kong,China,CoV2,12,18.07518958,no
+RAxML_TreeTime,Sarlahi,Nepal,CoV2,1,14.64936199,no
+RAxML_TreeTime,Sarlahi,Nepal,CoV2,2,19.1402657,no
+RAxML_TreeTime,Sarlahi,Nepal,CoV2,3,8.564476879,no
+RAxML_TreeTime,Sarlahi,Nepal,CoV2,4,5.505088448,no
+RAxML_TreeTime,Sarlahi,Nepal,CoV2,5,8.32562492,no
+RAxML_TreeTime,Sarlahi,Nepal,CoV2,6,5.961033704,no
+RAxML_TreeTime,Sarlahi,Nepal,CoV2,7,2.110174759,no
+RAxML_TreeTime,Sarlahi,Nepal,CoV2,8,5.088498082,no
+RAxML_TreeTime,Sarlahi,Nepal,CoV2,9,7.077876406,no
+RAxML_TreeTime,Sarlahi,Nepal,CoV2,10,8.000558774,no
+RAxML_TreeTime,Sarlahi,Nepal,CoV2,11,8.333654017,no
+RAxML_TreeTime,Sarlahi,Nepal,CoV2,12,7.243386315,no
+RAxML_TreeTime,Amsterdam,Netherlands,CoV2,1,10.35382706,no
+RAxML_TreeTime,Amsterdam,Netherlands,CoV2,2,11.78837197,no
+RAxML_TreeTime,Amsterdam,Netherlands,CoV2,3,11.52104207,no
+RAxML_TreeTime,Amsterdam,Netherlands,CoV2,4,10.59856746,no
+RAxML_TreeTime,Amsterdam,Netherlands,CoV2,5,9.843035337,no
+RAxML_TreeTime,Amsterdam,Netherlands,CoV2,6,7.040347973,no
+RAxML_TreeTime,Amsterdam,Netherlands,CoV2,7,7.040347973,no
+RAxML_TreeTime,Amsterdam,Netherlands,CoV2,8,5.457952686,no
+RAxML_TreeTime,Amsterdam,Netherlands,CoV2,9,4.767714926,no
+RAxML_TreeTime,Amsterdam,Netherlands,CoV2,10,6.491852165,no
+RAxML_TreeTime,Amsterdam,Netherlands,CoV2,11,7.291313996,no
+RAxML_TreeTime,Amsterdam,Netherlands,CoV2,12,10.2458712,no
+RAxML_TreeTime,Sor Trondelag,Norway,CoV2,1,15.05377843,no
+RAxML_TreeTime,Sor Trondelag,Norway,CoV2,2,16.98466835,no
+RAxML_TreeTime,Sor Trondelag,Norway,CoV2,3,10.69485716,no
+RAxML_TreeTime,Sor Trondelag,Norway,CoV2,4,8.527673326,no
+RAxML_TreeTime,Sor Trondelag,Norway,CoV2,5,4.225218045,no
+RAxML_TreeTime,Sor Trondelag,Norway,CoV2,6,3.335726914,no
+RAxML_TreeTime,Sor Trondelag,Norway,CoV2,7,2.639955149,no
+RAxML_TreeTime,Sor Trondelag,Norway,CoV2,8,1.689417469,no
+RAxML_TreeTime,Sor Trondelag,Norway,CoV2,9,2.420201914,no
+RAxML_TreeTime,Sor Trondelag,Norway,CoV2,10,3.939570135,no
+RAxML_TreeTime,Sor Trondelag,Norway,CoV2,11,12.85061601,no
+RAxML_TreeTime,Sor Trondelag,Norway,CoV2,12,17.63831709,no
+RAxML_TreeTime,New York,USA,CoV2,1,18.66710508,no
+RAxML_TreeTime,New York,USA,CoV2,2,8.586661878,no
+RAxML_TreeTime,New York,USA,CoV2,3,6.638346695,no
+RAxML_TreeTime,New York,USA,CoV2,4,4.407094755,no
+RAxML_TreeTime,New York,USA,CoV2,5,2.461477507,no
+RAxML_TreeTime,New York,USA,CoV2,6,2.956532878,no
+RAxML_TreeTime,New York,USA,CoV2,7,2.956532878,no
+RAxML_TreeTime,New York,USA,CoV2,8,3.186758446,no
+RAxML_TreeTime,New York,USA,CoV2,9,2.956532878,no
+RAxML_TreeTime,New York,USA,CoV2,10,14.54133741,no
+RAxML_TreeTime,New York,USA,CoV2,11,18.66493306,no
+RAxML_TreeTime,New York,USA,CoV2,12,13.97668653,no
+RAxML_TreeTime,Stockholm,Sweden,CoV2,1,17.23207682,no
+RAxML_TreeTime,Stockholm,Sweden,CoV2,2,18.01505085,no
+RAxML_TreeTime,Stockholm,Sweden,CoV2,3,15.95057276,no
+RAxML_TreeTime,Stockholm,Sweden,CoV2,4,9.819735406,no
+RAxML_TreeTime,Stockholm,Sweden,CoV2,5,6.275610653,no
+RAxML_TreeTime,Stockholm,Sweden,CoV2,6,4.155814931,no
+RAxML_TreeTime,Stockholm,Sweden,CoV2,7,4.155814931,no
+RAxML_TreeTime,Stockholm,Sweden,CoV2,8,0.978279636,no
+RAxML_TreeTime,Stockholm,Sweden,CoV2,9,1.125248137,no
+RAxML_TreeTime,Stockholm,Sweden,CoV2,10,2.108979872,no
+RAxML_TreeTime,Stockholm,Sweden,CoV2,11,5.825343761,no
+RAxML_TreeTime,Stockholm,Sweden,CoV2,12,17.18779867,no
+RAxML_TreeTime,South Korea,South Korea,CoV2,1,13.81987314,no
+RAxML_TreeTime,South Korea,South Korea,CoV2,2,9.838972189,no
+RAxML_TreeTime,South Korea,South Korea,CoV2,3,5.56151891,no
+RAxML_TreeTime,South Korea,South Korea,CoV2,4,5.606094784,no
+RAxML_TreeTime,South Korea,South Korea,CoV2,5,3.561821374,no
+RAxML_TreeTime,South Korea,South Korea,CoV2,6,2.888011611,no
+RAxML_TreeTime,South Korea,South Korea,CoV2,7,2.888011611,no
+RAxML_TreeTime,South Korea,South Korea,CoV2,8,1.862625433,no
+RAxML_TreeTime,South Korea,South Korea,CoV2,9,1.997386824,no
+RAxML_TreeTime,South Korea,South Korea,CoV2,10,6.692883108,no
+RAxML_TreeTime,South Korea,South Korea,CoV2,11,18.63019939,no
+RAxML_TreeTime,South Korea,South Korea,CoV2,12,27.63456938,no
+RAxML_TreeTime,Colorado,USA,CoV2,12,5.936710275,no
+RAxML_TreeTime,Colorado,USA,CoV2,2,5.104419343,no
+RAxML_TreeTime,Colorado,USA,CoV2,3,13.18323278,no
+RAxML_TreeTime,Colorado,USA,CoV2,4,19.53608852,no
+RAxML_TreeTime,Colorado,USA,CoV2,5,15.75515637,no
+RAxML_TreeTime,Colorado,USA,CoV2,6,10.20883869,no
+RAxML_TreeTime,Colorado,USA,CoV2,7,10.20883869,no
+RAxML_TreeTime,Colorado,USA,CoV2,8,4.950997844,no
+RAxML_TreeTime,Colorado,USA,CoV2,9,4.04254948,no
+RAxML_TreeTime,Colorado,USA,CoV2,10,4.04254948,no
+RAxML_TreeTime,Colorado,USA,CoV2,11,4.458694946,no
+RAxML_TreeTime,Colorado,USA,CoV2,1,4.04254948,no
+RAxML_TreeTime,Gothenburg,Sweden,CoV2,1,18.32662518,no
+RAxML_TreeTime,Gothenburg,Sweden,CoV2,2,19.92986784,no
+RAxML_TreeTime,Gothenburg,Sweden,CoV2,3,11.67249329,no
+RAxML_TreeTime,Gothenburg,Sweden,CoV2,4,5.532883859,no
+RAxML_TreeTime,Gothenburg,Sweden,CoV2,5,6.209463542,no
+RAxML_TreeTime,Gothenburg,Sweden,CoV2,6,6.743267374,no
+RAxML_TreeTime,Gothenburg,Sweden,CoV2,7,6.743267374,no
+RAxML_TreeTime,Gothenburg,Sweden,CoV2,8,2.584962936,no
+RAxML_TreeTime,Gothenburg,Sweden,CoV2,9,2.060876668,no
+RAxML_TreeTime,Gothenburg,Sweden,CoV2,10,5.936697027,no
+RAxML_TreeTime,Gothenburg,Sweden,CoV2,11,3.352816787,no
+RAxML_TreeTime,Gothenburg,Sweden,CoV2,12,14.76117842,no
+RAxML_TreeTime,Yamagata,Japan,CoV2,1,16.90692489,no
+RAxML_TreeTime,Yamagata,Japan,CoV2,2,22.96617688,no
+RAxML_TreeTime,Yamagata,Japan,CoV2,3,17.60080719,no
+RAxML_TreeTime,Yamagata,Japan,CoV2,4,8.243713456,no
+RAxML_TreeTime,Yamagata,Japan,CoV2,5,5.495549732,no
+RAxML_TreeTime,Yamagata,Japan,CoV2,6,2.078080917,no
+RAxML_TreeTime,Yamagata,Japan,CoV2,7,2.078080917,no
+RAxML_TreeTime,Yamagata,Japan,CoV2,8,2.653477439,no
+RAxML_TreeTime,Yamagata,Japan,CoV2,9,1.899003361,no
+RAxML_TreeTime,Yamagata,Japan,CoV2,10,4.260027442,no
+RAxML_TreeTime,Yamagata,Japan,CoV2,11,7.44137485,no
+RAxML_TreeTime,Yamagata,Japan,CoV2,12,5.887004186,no
+RAxML_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,1,16.90692489,no
+RAxML_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,2,22.96617688,no
+RAxML_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,3,17.60080719,no
+RAxML_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,4,8.243713456,no
+RAxML_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,5,5.495549732,no
+RAxML_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,6,2.078080917,no
+RAxML_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,7,2.078080917,no
+RAxML_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,8,2.653477439,no
+RAxML_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,9,1.899003361,no
+RAxML_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,10,4.260027442,no
+RAxML_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,11,7.44137485,no
+RAxML_TreeTime,Nakhon Si Thammarat,Thailand,CoV2,12,5.887004186,no
+RAxML_TreeTime_non_recombinant,Beijing,China,CoV2,1,1.621361212,yes
+RAxML_TreeTime_non_recombinant,Beijing,China,CoV2,2,3.230865327,yes
+RAxML_TreeTime_non_recombinant,Beijing,China,CoV2,3,11.27989121,yes
+RAxML_TreeTime_non_recombinant,Beijing,China,CoV2,4,4.857983327,yes
+RAxML_TreeTime_non_recombinant,Beijing,China,CoV2,5,9.67008603,yes
+RAxML_TreeTime_non_recombinant,Beijing,China,CoV2,6,35.42521245,yes
+RAxML_TreeTime_non_recombinant,Beijing,China,CoV2,7,9.671842421,yes
+RAxML_TreeTime_non_recombinant,Beijing,China,CoV2,8,3.229524503,yes
+RAxML_TreeTime_non_recombinant,Beijing,China,CoV2,9,8.072252457,yes
+RAxML_TreeTime_non_recombinant,Beijing,China,CoV2,10,6.472547986,yes
+RAxML_TreeTime_non_recombinant,Beijing,China,CoV2,11,4.846957364,yes
+RAxML_TreeTime_non_recombinant,Beijing,China,CoV2,12,1.621475718,yes
+RAxML_TreeTime_non_recombinant,Tampere,Finland,CoV2,1,12.00345609,yes
+RAxML_TreeTime_non_recombinant,Tampere,Finland,CoV2,2,4.057765513,yes
+RAxML_TreeTime_non_recombinant,Tampere,Finland,CoV2,3,4.017294225,yes
+RAxML_TreeTime_non_recombinant,Tampere,Finland,CoV2,4,15.98109959,yes
+RAxML_TreeTime_non_recombinant,Tampere,Finland,CoV2,5,7.992346966,yes
+RAxML_TreeTime_non_recombinant,Tampere,Finland,CoV2,6,7.992346966,yes
+RAxML_TreeTime_non_recombinant,Tampere,Finland,CoV2,7,4.00003013,yes
+RAxML_TreeTime_non_recombinant,Tampere,Finland,CoV2,8,4.00003013,yes
+RAxML_TreeTime_non_recombinant,Tampere,Finland,CoV2,9,7.992346966,yes
+RAxML_TreeTime_non_recombinant,Tampere,Finland,CoV2,10,4.00003013,yes
+RAxML_TreeTime_non_recombinant,Tampere,Finland,CoV2,11,7.992346966,yes
+RAxML_TreeTime_non_recombinant,Tampere,Finland,CoV2,12,19.97090633,yes
+RAxML_TreeTime_non_recombinant,Guangzhou,China,CoV2,1,22.09973424,yes
+RAxML_TreeTime_non_recombinant,Guangzhou,China,CoV2,2,6.219241724,yes
+RAxML_TreeTime_non_recombinant,Guangzhou,China,CoV2,3,6.213401898,yes
+RAxML_TreeTime_non_recombinant,Guangzhou,China,CoV2,4,6.209045417,yes
+RAxML_TreeTime_non_recombinant,Guangzhou,China,CoV2,5,6.191788362,yes
+RAxML_TreeTime_non_recombinant,Guangzhou,China,CoV2,6,1.776413659,yes
+RAxML_TreeTime_non_recombinant,Guangzhou,China,CoV2,7,2.655539471,yes
+RAxML_TreeTime_non_recombinant,Guangzhou,China,CoV2,8,0.888122614,yes
+RAxML_TreeTime_non_recombinant,Guangzhou,China,CoV2,9,1.772115102,yes
+RAxML_TreeTime_non_recombinant,Guangzhou,China,CoV2,10,5.305875402,yes
+RAxML_TreeTime_non_recombinant,Guangzhou,China,CoV2,11,15.03425976,yes
+RAxML_TreeTime_non_recombinant,Guangzhou,China,CoV2,12,25.63446234,yes
+RAxML_TreeTime_non_recombinant,Hong Kong,China,CoV2,1,13.83297199,yes
+RAxML_TreeTime_non_recombinant,Hong Kong,China,CoV2,2,1.553529392,yes
+RAxML_TreeTime_non_recombinant,Hong Kong,China,CoV2,3,4.622715696,yes
+RAxML_TreeTime_non_recombinant,Hong Kong,China,CoV2,4,1.553529392,yes
+RAxML_TreeTime_non_recombinant,Hong Kong,China,CoV2,5,1.547093531,yes
+RAxML_TreeTime_non_recombinant,Hong Kong,China,CoV2,6,1.553200647,yes
+RAxML_TreeTime_non_recombinant,Hong Kong,China,CoV2,7,1.550089335,yes
+RAxML_TreeTime_non_recombinant,Hong Kong,China,CoV2,8,1.549760591,yes
+RAxML_TreeTime_non_recombinant,Hong Kong,China,CoV2,9,3.091258675,yes
+RAxML_TreeTime_non_recombinant,Hong Kong,China,CoV2,10,7.693284395,yes
+RAxML_TreeTime_non_recombinant,Hong Kong,China,CoV2,11,23.04966413,yes
+RAxML_TreeTime_non_recombinant,Hong Kong,China,CoV2,12,38.40290223,yes
+RAxML_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,1,12.62133337,yes
+RAxML_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,2,23.28476826,yes
+RAxML_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,3,13.58017193,yes
+RAxML_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,4,6.795609486,yes
+RAxML_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,5,17.45189351,yes
+RAxML_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,6,12.60299731,yes
+RAxML_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,7,2.911385704,yes
+RAxML_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,8,0.980761921,yes
+RAxML_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,9,0.984999888,yes
+RAxML_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,10,0.988851368,yes
+RAxML_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,11,2.931469962,yes
+RAxML_TreeTime_non_recombinant,Sarlahi,Nepal,CoV2,12,4.865757279,yes
+RAxML_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,1,10.80039838,yes
+RAxML_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,2,11.40025277,yes
+RAxML_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,3,10.50198149,yes
+RAxML_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,4,10.20112524,yes
+RAxML_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,5,9.997931592,yes
+RAxML_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,6,6.899272591,yes
+RAxML_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,7,6.899272591,yes
+RAxML_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,8,4.900313523,yes
+RAxML_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,9,4.699202767,yes
+RAxML_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,10,6.102048453,yes
+RAxML_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,11,8.99904184,yes
+RAxML_TreeTime_non_recombinant,Amsterdam,Netherlands,CoV2,12,10.30070317,yes
+RAxML_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,1,22.09973424,yes
+RAxML_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,2,6.219241724,yes
+RAxML_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,3,6.213401898,yes
+RAxML_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,4,6.209045417,yes
+RAxML_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,5,6.191788362,yes
+RAxML_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,6,1.776413659,yes
+RAxML_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,7,2.655539471,yes
+RAxML_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,8,0.888122614,yes
+RAxML_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,9,1.772115102,yes
+RAxML_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,10,5.305875402,yes
+RAxML_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,11,15.03425976,yes
+RAxML_TreeTime_non_recombinant,Sor Trondelag,Norway,CoV2,12,25.63446234,yes
+RAxML_TreeTime_non_recombinant,New York,USA,CoV2,1,5.033841361,yes
+RAxML_TreeTime_non_recombinant,New York,USA,CoV2,2,11.66251804,yes
+RAxML_TreeTime_non_recombinant,New York,USA,CoV2,3,6.66529355,yes
+RAxML_TreeTime_non_recombinant,New York,USA,CoV2,4,3.334359256,yes
+RAxML_TreeTime_non_recombinant,New York,USA,CoV2,5,1.6686106,yes
+RAxML_TreeTime_non_recombinant,New York,USA,CoV2,6,3.332075947,yes
+RAxML_TreeTime_non_recombinant,New York,USA,CoV2,7,3.332075947,yes
+RAxML_TreeTime_non_recombinant,New York,USA,CoV2,8,1.669752254,yes
+RAxML_TreeTime_non_recombinant,New York,USA,CoV2,9,3.332075947,yes
+RAxML_TreeTime_non_recombinant,New York,USA,CoV2,10,15.00546312,yes
+RAxML_TreeTime_non_recombinant,New York,USA,CoV2,11,26.6450269,yes
+RAxML_TreeTime_non_recombinant,New York,USA,CoV2,12,18.31890708,yes
+RAxML_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,1,21.39017392,yes
+RAxML_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,2,12.57334468,yes
+RAxML_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,3,8.320256456,yes
+RAxML_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,4,5.624216398,yes
+RAxML_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,5,4.824472308,yes
+RAxML_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,6,4.659776426,yes
+RAxML_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,7,4.659776426,yes
+RAxML_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,8,0.711903262,yes
+RAxML_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,9,1.657156013,yes
+RAxML_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,10,2.448228689,yes
+RAxML_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,11,8.915591229,yes
+RAxML_TreeTime_non_recombinant,Stockholm,Sweden,CoV2,12,26.98078295,yes
+RAxML_TreeTime_non_recombinant,South Korea,South Korea,CoV2,1,11.62579422,yes
+RAxML_TreeTime_non_recombinant,South Korea,South Korea,CoV2,2,3.658972386,yes
+RAxML_TreeTime_non_recombinant,South Korea,South Korea,CoV2,3,2.357924524,yes
+RAxML_TreeTime_non_recombinant,South Korea,South Korea,CoV2,4,3.763339968,yes
+RAxML_TreeTime_non_recombinant,South Korea,South Korea,CoV2,5,3.756211602,yes
+RAxML_TreeTime_non_recombinant,South Korea,South Korea,CoV2,6,2.701576703,yes
+RAxML_TreeTime_non_recombinant,South Korea,South Korea,CoV2,7,2.701576703,yes
+RAxML_TreeTime_non_recombinant,South Korea,South Korea,CoV2,8,2.697098325,yes
+RAxML_TreeTime_non_recombinant,South Korea,South Korea,CoV2,9,1.878151258,yes
+RAxML_TreeTime_non_recombinant,South Korea,South Korea,CoV2,10,7.275632515,yes
+RAxML_TreeTime_non_recombinant,South Korea,South Korea,CoV2,11,23.45530152,yes
+RAxML_TreeTime_non_recombinant,South Korea,South Korea,CoV2,12,34.95129172,yes
+RAxML_TreeTime_non_recombinant,Colorado,USA,CoV2,12,4.350759865,yes
+RAxML_TreeTime_non_recombinant,Colorado,USA,CoV2,2,4.348986838,yes
+RAxML_TreeTime_non_recombinant,Colorado,USA,CoV2,3,21.71309172,yes
+RAxML_TreeTime_non_recombinant,Colorado,USA,CoV2,4,26.0647381,yes
+RAxML_TreeTime_non_recombinant,Colorado,USA,CoV2,5,19.56037628,yes
+RAxML_TreeTime_non_recombinant,Colorado,USA,CoV2,6,8.697973677,yes
+RAxML_TreeTime_non_recombinant,Colorado,USA,CoV2,7,8.697973677,yes
+RAxML_TreeTime_non_recombinant,Colorado,USA,CoV2,8,2.182840034,yes
+RAxML_TreeTime_non_recombinant,Colorado,USA,CoV2,9,2.178362914,yes
+RAxML_TreeTime_non_recombinant,Colorado,USA,CoV2,10,2.178362914,yes
+RAxML_TreeTime_non_recombinant,Colorado,USA,CoV2,11,2.179249427,yes
+RAxML_TreeTime_non_recombinant,Colorado,USA,CoV2,1,2.178362914,yes
+RAxML_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,1,23.37166384,yes
+RAxML_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,2,17.74218839,yes
+RAxML_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,3,7.269951201,yes
+RAxML_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,4,3.233473663,yes
+RAxML_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,5,1.628434994,yes
+RAxML_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,6,2.437798881,yes
+RAxML_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,7,2.437798881,yes
+RAxML_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,8,2.420851742,yes
+RAxML_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,9,2.418562793,yes
+RAxML_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,10,9.665997579,yes
+RAxML_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,11,4.834374388,yes
+RAxML_TreeTime_non_recombinant,Gothenburg,Sweden,CoV2,12,23.35973456,yes
+RAxML_TreeTime_non_recombinant,Yamagata,Japan,CoV2,1,12.99998679,yes
+RAxML_TreeTime_non_recombinant,Yamagata,Japan,CoV2,2,28.97419285,yes
+RAxML_TreeTime_non_recombinant,Yamagata,Japan,CoV2,3,8.035230999,yes
+RAxML_TreeTime_non_recombinant,Yamagata,Japan,CoV2,4,4.019409963,yes
+RAxML_TreeTime_non_recombinant,Yamagata,Japan,CoV2,5,6.999149184,yes
+RAxML_TreeTime_non_recombinant,Yamagata,Japan,CoV2,6,1.002845422,yes
+RAxML_TreeTime_non_recombinant,Yamagata,Japan,CoV2,7,1.002845422,yes
+RAxML_TreeTime_non_recombinant,Yamagata,Japan,CoV2,8,1.003614497,yes
+RAxML_TreeTime_non_recombinant,Yamagata,Japan,CoV2,9,1.004712498,yes
+RAxML_TreeTime_non_recombinant,Yamagata,Japan,CoV2,10,9.984511576,yes
+RAxML_TreeTime_non_recombinant,Yamagata,Japan,CoV2,11,13.98286643,yes
+RAxML_TreeTime_non_recombinant,Yamagata,Japan,CoV2,12,6.996610252,yes
+RAxML_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,1,12.99998679,yes
+RAxML_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,2,28.97419285,yes
+RAxML_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,3,8.035230999,yes
+RAxML_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,4,4.019409963,yes
+RAxML_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,5,6.999149184,yes
+RAxML_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,6,1.002845422,yes
+RAxML_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,7,1.002845422,yes
+RAxML_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,8,1.003614497,yes
+RAxML_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,9,1.004712498,yes
+RAxML_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,10,9.984511576,yes
+RAxML_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,11,13.98286643,yes
+RAxML_TreeTime_non_recombinant,Nakhon Si Thammarat,Thailand,CoV2,12,6.996610252,yes

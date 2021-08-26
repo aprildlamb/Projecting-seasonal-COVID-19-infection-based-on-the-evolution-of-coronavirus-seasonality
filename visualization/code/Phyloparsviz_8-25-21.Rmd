@@ -1,0 +1,383 @@
+---
+title: "Phylopars visualization"
+author: "April Lamb"
+date: "7/19/2021"
+output: html_document
+---
+
+```{r, include = FALSE}
+# Function to reduce line output of markdown file
+# save the built-in output hook
+hook_output <- knitr::knit_hooks$get("output")
+
+# set a new output hook to truncate text output
+knitr::knit_hooks$set(output = function(x, options) {
+  if (!is.null(n <- options$out.lines)) {
+    x <- xfun::split_lines(x)
+    if (length(x) > n) {
+      # truncate the output
+      x <- c(head(x, n), "....\n")
+    }
+    x <- paste(x, collapse = "\n")
+  }
+  hook_output(x, options)
+})
+```
+
+### Load libraries and read in data ###
+```{r setup, include=FALSE, out.lines = 4}
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+library(tidyverse)
+library(hrbrthemes)
+library(viridis)
+library(ggbeeswarm)
+library(data.table)
+
+# Set working directory. File path will need to be updated
+setwd('C:/Users/april/OneDrive/Desktop/Covid/phylopars_updated_7-22-21') 
+data <- read.csv("CoV2_Imputations.csv")
+data$month <- as.factor(data$month)
+data$nonrecombinant <- as.factor(data$nonrecombinant)
+```
+
+### Parse data by site & alignment type ###
+```{r split 1, out.lines = 4}
+# Isolate each location
+(Beijing    <- data[data$site == "Beijing", ])
+(Tampere    <- data[data$site == "Tampere", ])
+(Guangzhou  <- data[data$site == "Guangzhou", ])
+(HongKong   <- data[data$site == "Hong Kong", ])
+(Sarlahi    <- data[data$site == "Sarlahi", ])
+(Amsterdam  <- data[data$site == "Amsterdam", ])
+(Norway     <- data[data$site == "Sor Trondelag", ])
+(NY         <- data[data$site == "New York", ])
+(Japan      <- data[data$site == "Yamagata", ])
+(Colorado   <- data[data$site == "Colorado", ])
+(Gothenburg <- data[data$site == "Gothenburg", ])
+(Stockholm  <- data[data$site == "Stockholm", ])
+(Thailand   <- data[data$site == "Nakhon Si Thammarat", ])
+(SKorea     <- data[data$site == "South Korea", ])
+
+# Group NA + Europe & Asia locales together
+ENA  <- rbind(NY, Colorado, Stockholm, Gothenburg, Amsterdam, Tampere, Norway)
+Asia <- rbind(Beijing, Guangzhou, HongKong, Sarlahi, Japan, Thailand, SKorea)
+
+# split further by alignment type
+(ENAnonrecom   <- ENA[ENA$nonrecombinant == "yes", ])
+(ENArecom      <- ENA[ENA$nonrecombinant == "no", ])
+(Asianonrecom  <- Asia[Asia$nonrecombinant == "yes", ])
+(Asiarecom     <- Asia[Asia$nonrecombinant == "no", ])
+
+# Pull out the monthly average for each site for plotting bar charts
+ENA_nonaverage  <- aggregate(ENAnonrecom$cases, list(ENAnonrecom$month, ENAnonrecom$site), mean)
+ENA_average     <- aggregate(ENArecom$cases, list(ENArecom$month, ENArecom$site), mean)
+Asia_nonaverage <- aggregate(Asianonrecom$cases, list(Asianonrecom$month, Asianonrecom$site), mean)
+Asia_average    <- aggregate(Asiarecom$cases, list(Asiarecom$month, Asiarecom$site), mean)
+
+# Rename columns
+ENA_nonaverage <- setnames(ENA_nonaverage, old = c('Group.1','Group.2', 'x'), new = c('month','site', 'avg.cases'))
+ENA_average <- setnames(ENA_average, old = c('Group.1','Group.2', 'x'), new = c('month','site', 'avg.cases'))
+Asia_nonaverage <- setnames(Asia_nonaverage, old = c('Group.1','Group.2', 'x'), new = c('month','site', 'avg.cases'))
+Asia_average <- setnames(Asia_average, old = c('Group.1','Group.2', 'x'), new = c('month','site', 'avg.cases'))
+
+```
+
+### Plot monthly SARS-CoV-2 proportions by site & facet by tree type ###
+
+Beijing
+```{r Beijing}
+#pdf("Beijing_CoV.pdf")
+ggplot() + geom_col(data = Beijing, aes(x = month, y = cases), position = "dodge") + 
+  labs(title= "Proportion of Sars-Cov-2 cases by tree", x = "Month", y = "Percent") + 
+  facet_wrap(~ tree)
+#dev.off()
+```
+
+Tampere, Finland
+```{r Tampere}
+#pdf("Tampere_CoV.pdf")
+ggplot() + geom_col(data = Tampere, aes(x = month, y = cases), position = "dodge") + 
+  labs(title= "Proportion of Sars-Cov-2 cases by tree", x = "Month", y = "Percent") + 
+  facet_wrap(~ tree)
+#dev.off()
+```
+
+Guangzhou, China
+```{r Guangzhou}
+#pdf("Guangzhou_CoV.pdf")
+ggplot() + geom_col(data = Guangzhou, aes(x = month, y = cases), position = "dodge") + 
+  labs(title= "Proportion of Sars-Cov-2 cases by tree", x = "Month", y = "Percent") + 
+  facet_wrap(~ tree)
+#dev.off()
+```
+
+Hong Kong
+```{r HongKong}
+#pdf("HongKong_CoV.pdf")
+ggplot() + geom_col(data = HongKong, aes(x = month, y = cases), position = "dodge") + 
+  labs(title= "Proportion of Sars-Cov-2 cases by tree", x = "Month", y = "Percent") + 
+  facet_wrap(~ tree)
+#dev.off()
+```
+
+Sarlahi, Nepal
+```{r Sarlahi}
+#pdf("Sarlahi_CoV.pdf")
+ggplot() + geom_col(data = Sarlahi, aes(x = month, y = cases), position = "dodge") + 
+  labs(title= "Proportion of Sars-Cov-2 cases by tree, Sarlahi", x = "Month", y = "Percent") + 
+  facet_wrap(~ tree)
+#dev.off()
+```
+
+Amsterdam
+```{r Amsterdam}
+#pdf("Amsterdam_CoV.pdf")
+ggplot() + geom_col(data = Amsterdam, aes(x = month, y = cases), position = "dodge") + 
+  labs(title= "Proportion of Sars-Cov-2 cases by tree, Amsterdam", x = "Month", y = "Percent") + 
+  facet_wrap(~ tree)
+#dev.off()
+```
+
+Trondelag, Norway
+```{r Norway}
+#pdf("Norway_CoV.pdf")
+ggplot() + geom_col(data = Norway, aes(x = month, y = cases), position = "dodge") + 
+  labs(title= "Proportion of Sars-Cov-2 cases by tree, Norway", x = "Month", y = "Percent") + 
+  facet_wrap(~ tree) 
+#dev.off()
+```
+
+Thailand
+```{r Thailand}
+#pdf("Thailand_CoV.pdf")
+ggplot() + geom_col(data = Thailand, aes(x = month, y = cases), position = "dodge") + 
+  labs(title= "Proportion of Sars-Cov-2 cases by tree, Thailand", x = "Month", y = "Percent") + 
+  facet_wrap(~ tree)
+#dev.off()
+```
+
+Colorado
+```{r Co}
+#pdf("Colorado_CoV.pdf")
+ggplot() + geom_col(data = Colorado, aes(x = month, y = cases), position = "dodge") + 
+  labs(title= "Proportion of Sars-Cov-2 cases by tree, Colorado", x = "Month", y = "Percent") + 
+  facet_wrap(~ tree)
+#dev.off()
+```
+
+New York
+```{r NY}
+#pdf("NY_CoV.pdf")
+ggplot() + geom_col(data = NY, aes(x = month, y = cases), position = "dodge") + 
+  labs(title= "Proportion of Sars-Cov-2 cases by tree, New York", x = "Month", y = "Percent") + 
+  facet_wrap(~ tree)
+#dev.off()
+```
+
+Japan
+```{r Japan}
+#pdf("Japan_CoV.pdf")
+ggplot() + geom_col(data = Japan, aes(x = month, y = cases), position = "dodge") + 
+  labs(title= "Proportion of Sars-Cov-2 cases by tree, Yamagata", x = "Month", y = "Percent") + 
+  facet_wrap(~ tree)
+#dev.off()
+```
+
+Gothenburg, Sweden
+```{r Sweden1}
+#pdf("Gothenburg_CoV.pdf")
+ggplot() + geom_col(data = Gothenburg, aes(x = month, y = cases), position = "dodge") + 
+  labs(title= "Proportion of Sars-Cov-2 cases by tree, Gothenburg", x = "Month", y = "Percent") + 
+  facet_wrap(~ tree)
+#dev.off()
+```
+
+Stockholm, Sweden
+```{r Sweden2}
+#pdf("Stockholm_CoV.pdf")
+ggplot() + geom_col(data = Stockholm, aes(x = month, y = cases), position = "dodge") + 
+  labs(title= "Proportion of Sars-Cov-2 cases by tree, Stockholm", x = "Month", y = "Percent") + 
+  facet_wrap(~ tree)
+#dev.off()
+```
+
+Nationwide, South Korea
+```{r SKorea}
+#pdf("SKorea_CoV.pdf")
+ggplot() + geom_col(data = SKorea, aes(x = month, y = cases), position = "dodge") + 
+  labs(title= "Proportion of Sars-Cov-2 cases by tree, South Korea", x = "Month", y = "Percent") + 
+  facet_wrap(~ tree)
+#dev.off()
+```
+
+### Check sensitivity to method of time tree inference and use of only viral sequences deemed non-recombining ###
+
+Europe+North America, nonrecombinant
+```{r ENA nonrecomb}
+# Plot points
+#pdf("ENA_nonrecomb_beeswarm.pdf")
+ggplot(ENAnonrecom, aes(month, cases, color=tree)) +
+    geom_beeswarm(cex=1, size=.25) +
+    facet_wrap(site~.) +
+    ggtitle("ENA-nonrecom") +
+    xlab("Month") +
+    ylab("Parameter estimate") + 
+    theme(axis.text.x = element_text(angle = 45, hjust = 1))
+#dev.off()
+
+# Plot averages
+#pdf("ENA_nonaverage.pdf")
+ggplot(ENA_nonaverage, aes(month, avg.cases)) + 
+    geom_bar(stat="identity") +
+    facet_wrap(site~.) + 
+    ylim(0,25)
+#dev.off()
+```
+
+Europe+North America, recombinant
+```{r ENA recomb}
+# Plot points 
+#pdf("ENA_recomb_beeswarm.pdf")
+ggplot(ENArecom, aes(month, cases, color=tree)) +
+    geom_beeswarm(cex=1, size=.25) +
+    facet_wrap(site~.) +
+    ggtitle("ENA-recom") +
+    xlab("Month") +
+    ylab("Parameter estimate") + 
+    theme(axis.text.x = element_text(angle = 45, hjust = 1))
+#dev.off()
+
+# Plot averages
+#pdf("ENA_average.pdf")
+ggplot(ENA_average, aes(month, avg.cases)) + 
+    geom_bar(stat="identity") +
+    facet_wrap(site~.) + 
+    ylim(0,25)
+#dev.off()
+```
+
+Asia, nonrecombinant
+```{r Asia nonrecomb}
+# Plot points
+#pdf("Asia_nonrecomb_beeswarm.pdf")
+ggplot(Asianonrecom, aes(month, cases, color=tree)) +
+    geom_beeswarm(cex=1, size=.25) +
+    facet_wrap(site~.) +
+    ggtitle("Asia-nonrecom") +
+    xlab("Month") +
+    ylab("Parameter estimate") + 
+    theme(axis.text.x = element_text(angle = 45, hjust = 1))
+#dev.off()
+
+# Plot averages
+#pdf("Asia_nonaverageTest.pdf")
+ggplot(Asia_nonaverage, aes(month, avg.cases)) + 
+    geom_bar(stat="identity") +
+    facet_wrap(site~.) + 
+    ylim(0,40)
+#dev.off()
+```
+
+Asia, recombinant
+```{r Asia recomb}
+# Plot points
+#pdf("Asia_recomb_beeswarm.pdf")
+ggplot(Asiarecom, aes(month, cases, color=tree)) +
+    geom_beeswarm(cex=1, size=.25) +
+    facet_wrap(site~.) +
+    ggtitle("Asia-recom") +
+    xlab("Month") +
+    ylab("Parameter estimate") + 
+    theme(axis.text.x = element_text(angle = 45, hjust = 1))
+#dev.off()
+
+# Plot averages
+#pdf("Asia_average.pdf")
+ggplot(Asia_average, aes(month, avg.cases)) + 
+    geom_bar(stat="identity") +
+    facet_wrap(site~.) + 
+    ylim(0,30)
+#dev.off()
+```
+
+## Now let's plot the endemic coronaviruses at each site
+```{r data, out.lines = 4}
+setwd('C:/Users/april/OneDrive/Desktop/Covid/phylopars_updated_7-22-21') # File path will need to be updated
+df <- read.csv("CoV2_Imputations_IQTREE_time_tree.csv", stringsAsFactors = TRUE) # read data
+df$month <- as.factor(df$month)
+
+(cov229E  <- df[df$type == "229E", ])
+(covOC43  <- df[df$type == "OC43", ])
+(covNL63  <- df[df$type == "NL63", ])
+(covHKU1  <- df[df$type == "HKU1", ])
+```
+
+229E
+```{r 229E}
+#pdf("229E_all.pdf")
+ggplot() + geom_col(data = cov229E, aes(x = month, y = cases), position = "dodge") + 
+  labs(title= "Relative monthly cases by coronavirus- 229E", x = "Month", y = "Percent") + 
+  facet_wrap(~ site)+
+  ylim(0,40)
+#dev.off()
+```
+
+OC43
+```{r OC43}
+#pdf("OC43_all.pdf")
+ggplot() + geom_col(data = covOC43, aes(x = month, y = cases), position = "dodge") + 
+  labs(title= "Relative monthly cases by coronavirus- OC43", x = "Month", y = "Percent") + 
+  facet_wrap(~ site)+
+  ylim(0,40)
+#dev.off()
+```
+
+NL63
+```{r NL63}
+#pdf("NL63_all.pdf")
+ggplot() + geom_col(data = covNL63, aes(x = month, y = cases), position = "dodge") + 
+  labs(title= "Relative monthly cases by coronavirus- NL63", x = "Month", y = "Percent") + 
+  facet_wrap(~ site)+
+  ylim(0,40)
+#dev.off()
+```
+
+HKU1
+```{r HKU1}
+#pdf("HKu1_all.pdf")
+ggplot() + geom_col(data = covHKU1, aes(x = month, y = cases), position = "dodge") + 
+  labs(title= "Relative monthly cases by coronavirus- HKU1", x = "Month", y = "Percent") + 
+  facet_wrap(~ site)+
+  ylim(0,40)
+#dev.off()
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

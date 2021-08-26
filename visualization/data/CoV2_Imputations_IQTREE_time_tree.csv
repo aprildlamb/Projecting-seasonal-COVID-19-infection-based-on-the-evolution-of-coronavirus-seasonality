@@ -1,0 +1,805 @@
+site,country,type,month,cases
+Amsterdam,Netherlands,229E,1,12.5
+Amsterdam,Netherlands,229E,2,10.5
+Amsterdam,Netherlands,229E,3,10.5
+Amsterdam,Netherlands,229E,4,10.7
+Amsterdam,Netherlands,229E,5,8
+Amsterdam,Netherlands,229E,6,6
+Amsterdam,Netherlands,229E,7,4
+Amsterdam,Netherlands,229E,8,3.9
+Amsterdam,Netherlands,229E,9,3.2
+Amsterdam,Netherlands,229E,10,7.9
+Amsterdam,Netherlands,229E,11,11.6
+Amsterdam,Netherlands,229E,12,11.7
+Amsterdam,Netherlands,HKU1,1,8.6
+Amsterdam,Netherlands,HKU1,2,11.7
+Amsterdam,Netherlands,HKU1,3,11.7
+Amsterdam,Netherlands,HKU1,4,10.3
+Amsterdam,Netherlands,HKU1,5,13.5
+Amsterdam,Netherlands,HKU1,6,10
+Amsterdam,Netherlands,HKU1,7,8.3
+Amsterdam,Netherlands,HKU1,8,6.7
+Amsterdam,Netherlands,HKU1,9,5.1
+Amsterdam,Netherlands,HKU1,10,5.1
+Amsterdam,Netherlands,HKU1,11,1.8
+Amsterdam,Netherlands,HKU1,12,10.3
+Amsterdam,Netherlands,NL63,1,10
+Amsterdam,Netherlands,NL63,2,13.8
+Amsterdam,Netherlands,NL63,3,13.8
+Amsterdam,Netherlands,NL63,4,11.5
+Amsterdam,Netherlands,NL63,5,6.3
+Amsterdam,Netherlands,NL63,6,4.1
+Amsterdam,Netherlands,NL63,7,4.1
+Amsterdam,Netherlands,NL63,8,6.1
+Amsterdam,Netherlands,NL63,9,6
+Amsterdam,Netherlands,NL63,10,7.6
+Amsterdam,Netherlands,NL63,11,8.2
+Amsterdam,Netherlands,NL63,12,8.6
+Amsterdam,Netherlands,OC43,1,10.8
+Amsterdam,Netherlands,OC43,2,11.4
+Amsterdam,Netherlands,OC43,3,10.5
+Amsterdam,Netherlands,OC43,4,10.2
+Amsterdam,Netherlands,OC43,5,10
+Amsterdam,Netherlands,OC43,6,6.9
+Amsterdam,Netherlands,OC43,7,5.3
+Amsterdam,Netherlands,OC43,8,4.9
+Amsterdam,Netherlands,OC43,9,4.7
+Amsterdam,Netherlands,OC43,10,6.1
+Amsterdam,Netherlands,OC43,11,9
+Amsterdam,Netherlands,OC43,12,10.3
+Amsterdam,Netherlands,CoV2,1,10.36490952
+Amsterdam,Netherlands,CoV2,2,11.72902677
+Amsterdam,Netherlands,CoV2,3,11.44955253
+Amsterdam,Netherlands,CoV2,4,10.5698381
+Amsterdam,Netherlands,CoV2,5,9.948042765
+Amsterdam,Netherlands,CoV2,6,7.125235578
+Amsterdam,Netherlands,CoV2,7,7.125235578
+Amsterdam,Netherlands,CoV2,8,5.43725216
+Amsterdam,Netherlands,CoV2,9,4.733234743
+Amsterdam,Netherlands,CoV2,10,6.455945372
+Amsterdam,Netherlands,CoV2,11,7.272229599
+Amsterdam,Netherlands,CoV2,12,10.29230065
+Beijing,China,229E,1,7.407407407
+Beijing,China,229E,2,3.703703704
+Beijing,China,229E,3,3.703703704
+Beijing,China,229E,4,22.22222222
+Beijing,China,229E,5,3.703703704
+Beijing,China,229E,6,3.703703704
+Beijing,China,229E,7,3.703703704
+Beijing,China,229E,8,3.703703704
+Beijing,China,229E,9,11.11111111
+Beijing,China,229E,10,22.22222222
+Beijing,China,229E,11,11.11111111
+Beijing,China,229E,12,3.703703704
+Beijing,China,HKU1,1,3.846153846
+Beijing,China,HKU1,2,11.53846154
+Beijing,China,HKU1,3,11.53846154
+Beijing,China,HKU1,4,7.692307692
+Beijing,China,HKU1,5,11.53846154
+Beijing,China,HKU1,6,7.692307692
+Beijing,China,HKU1,7,15.38461538
+Beijing,China,HKU1,8,3.846153846
+Beijing,China,HKU1,9,11.53846154
+Beijing,China,HKU1,10,3.846153846
+Beijing,China,HKU1,11,3.846153846
+Beijing,China,HKU1,12,7.692307692
+Beijing,China,NL63,1,5
+Beijing,China,NL63,2,5
+Beijing,China,NL63,3,5
+Beijing,China,NL63,4,5
+Beijing,China,NL63,5,5
+Beijing,China,NL63,6,5
+Beijing,China,NL63,7,5
+Beijing,China,NL63,8,10
+Beijing,China,NL63,9,15
+Beijing,China,NL63,10,20
+Beijing,China,NL63,11,10
+Beijing,China,NL63,12,10
+Beijing,China,OC43,1,1.612903226
+Beijing,China,OC43,2,3.225806452
+Beijing,China,OC43,3,11.29032258
+Beijing,China,OC43,4,4.838709677
+Beijing,China,OC43,5,9.677419355
+Beijing,China,OC43,6,35.48387097
+Beijing,China,OC43,7,9.677419355
+Beijing,China,OC43,8,3.225806452
+Beijing,China,OC43,9,8.064516129
+Beijing,China,OC43,10,6.451612903
+Beijing,China,OC43,11,4.838709677
+Beijing,China,OC43,12,1.612903226
+Beijing,China,CoV2,1,4.118066417
+Beijing,China,CoV2,2,6.114086685
+Beijing,China,CoV2,3,8.618336158
+Beijing,China,CoV2,4,9.414492159
+Beijing,China,CoV2,5,8.117486264
+Beijing,China,CoV2,6,14.98937264
+Beijing,China,CoV2,7,9.2591982
+Beijing,China,CoV2,8,4.729660385
+Beijing,China,CoV2,9,10.99113853
+Beijing,China,CoV2,10,11.47062285
+Beijing,China,CoV2,11,6.807017287
+Beijing,China,CoV2,12,5.370522429
+Colorado,USA,CoV2,1,5.129655921
+Colorado,USA,CoV2,2,13.09868885
+Colorado,USA,CoV2,3,19.32915814
+Colorado,USA,CoV2,4,15.75805679
+Colorado,USA,CoV2,5,10.25931184
+Colorado,USA,CoV2,6,10.25931184
+Colorado,USA,CoV2,7,5.01300065
+Colorado,USA,CoV2,8,4.087659581
+Colorado,USA,CoV2,9,4.087659581
+Colorado,USA,CoV2,10,4.454597367
+Colorado,USA,CoV2,11,4.087659581
+Colorado,USA,CoV2,12,5.863531494
+Colorado,USA,229E,1,4.347826087
+Colorado,USA,229E,2,8.695652174
+Colorado,USA,229E,3,21.73913043
+Colorado,USA,229E,4,8.695652174
+Colorado,USA,229E,5,21.73913043
+Colorado,USA,229E,6,8.695652174
+Colorado,USA,229E,7,4.347826087
+Colorado,USA,229E,8,4.347826087
+Colorado,USA,229E,9,4.347826087
+Colorado,USA,229E,10,4.347826087
+Colorado,USA,229E,11,4.347826087
+Colorado,USA,229E,12,4.347826087
+Colorado,USA,HKU1,1,7.142857143
+Colorado,USA,HKU1,2,14.28571429
+Colorado,USA,HKU1,3,7.142857143
+Colorado,USA,HKU1,4,14.28571429
+Colorado,USA,HKU1,5,7.142857143
+Colorado,USA,HKU1,6,7.142857143
+Colorado,USA,HKU1,7,7.142857143
+Colorado,USA,HKU1,8,7.142857143
+Colorado,USA,HKU1,9,7.142857143
+Colorado,USA,HKU1,10,7.142857143
+Colorado,USA,HKU1,11,7.142857143
+Colorado,USA,HKU1,12,7.142857143
+Colorado,USA,NL63,1,18.36734694
+Colorado,USA,NL63,2,28.57142857
+Colorado,USA,NL63,3,16.32653061
+Colorado,USA,NL63,4,8.163265306
+Colorado,USA,NL63,5,4.081632653
+Colorado,USA,NL63,6,2.040816327
+Colorado,USA,NL63,7,2.040816327
+Colorado,USA,NL63,8,2.040816327
+Colorado,USA,NL63,9,4.081632653
+Colorado,USA,NL63,10,2.040816327
+Colorado,USA,NL63,11,8.163265306
+Colorado,USA,NL63,12,4.081632653
+Colorado,USA,OC43,1,21.73913043
+Colorado,USA,OC43,2,26.08695652
+Colorado,USA,OC43,3,19.56521739
+Colorado,USA,OC43,4,8.695652174
+Colorado,USA,OC43,5,4.347826087
+Colorado,USA,OC43,6,2.173913043
+Colorado,USA,OC43,7,2.173913043
+Colorado,USA,OC43,8,2.173913043
+Colorado,USA,OC43,9,2.173913043
+Colorado,USA,OC43,10,2.173913043
+Colorado,USA,OC43,11,4.347826087
+Colorado,USA,OC43,12,4.347826087
+Gothenburg,Sweden,CoV2,1,18.63057349
+Gothenburg,Sweden,CoV2,2,19.44639963
+Gothenburg,Sweden,CoV2,3,11.32091999
+Gothenburg,Sweden,CoV2,4,5.428934732
+Gothenburg,Sweden,CoV2,5,6.016387211
+Gothenburg,Sweden,CoV2,6,6.771876317
+Gothenburg,Sweden,CoV2,7,6.771876317
+Gothenburg,Sweden,CoV2,8,2.629409141
+Gothenburg,Sweden,CoV2,9,2.098926197
+Gothenburg,Sweden,CoV2,10,6.160626102
+Gothenburg,Sweden,CoV2,11,3.452826165
+Gothenburg,Sweden,CoV2,12,15.22138201
+Gothenburg,Sweden,229E,1,13.33333333
+Gothenburg,Sweden,229E,2,11.11111111
+Gothenburg,Sweden,229E,3,13.33333333
+Gothenburg,Sweden,229E,4,8.888888889
+Gothenburg,Sweden,229E,5,13.33333333
+Gothenburg,Sweden,229E,6,20
+Gothenburg,Sweden,229E,7,4.444444444
+Gothenburg,Sweden,229E,8,4.444444444
+Gothenburg,Sweden,229E,9,2.222222222
+Gothenburg,Sweden,229E,10,2.222222222
+Gothenburg,Sweden,229E,11,2.222222222
+Gothenburg,Sweden,229E,12,4.444444444
+Gothenburg,Sweden,NL63,1,11.70212766
+Gothenburg,Sweden,NL63,2,34.04255319
+Gothenburg,Sweden,NL63,3,20.21276596
+Gothenburg,Sweden,NL63,4,7.446808511
+Gothenburg,Sweden,NL63,5,9.574468085
+Gothenburg,Sweden,NL63,6,3.191489362
+Gothenburg,Sweden,NL63,7,4.255319149
+Gothenburg,Sweden,NL63,8,1.063829787
+Gothenburg,Sweden,NL63,9,1.063829787
+Gothenburg,Sweden,NL63,10,1.063829787
+Gothenburg,Sweden,NL63,11,1.063829787
+Gothenburg,Sweden,NL63,12,5.319148936
+Gothenburg,Sweden,OC43,1,23.38709677
+Gothenburg,Sweden,OC43,2,17.74193548
+Gothenburg,Sweden,OC43,3,7.258064516
+Gothenburg,Sweden,OC43,4,3.225806452
+Gothenburg,Sweden,OC43,5,1.612903226
+Gothenburg,Sweden,OC43,6,2.419354839
+Gothenburg,Sweden,OC43,7,1.612903226
+Gothenburg,Sweden,OC43,8,2.419354839
+Gothenburg,Sweden,OC43,9,2.419354839
+Gothenburg,Sweden,OC43,10,9.677419355
+Gothenburg,Sweden,OC43,11,4.838709677
+Gothenburg,Sweden,OC43,12,23.38709677
+Guangzhou,China,229E,1,3.571428571
+Guangzhou,China,229E,2,14.28571429
+Guangzhou,China,229E,3,21.42857143
+Guangzhou,China,229E,4,21.42857143
+Guangzhou,China,229E,5,7.142857143
+Guangzhou,China,229E,6,7.142857143
+Guangzhou,China,229E,7,3.571428571
+Guangzhou,China,229E,8,3.571428571
+Guangzhou,China,229E,9,3.571428571
+Guangzhou,China,229E,10,3.571428571
+Guangzhou,China,229E,11,7.142857143
+Guangzhou,China,229E,12,3.571428571
+Guangzhou,China,HKU1,1,11.29032258
+Guangzhou,China,HKU1,2,25.80645161
+Guangzhou,China,HKU1,3,4.838709677
+Guangzhou,China,HKU1,4,3.225806452
+Guangzhou,China,HKU1,5,1.612903226
+Guangzhou,China,HKU1,6,1.612903226
+Guangzhou,China,HKU1,7,1.612903226
+Guangzhou,China,HKU1,8,1.612903226
+Guangzhou,China,HKU1,9,3.225806452
+Guangzhou,China,HKU1,10,4.838709677
+Guangzhou,China,HKU1,11,19.35483871
+Guangzhou,China,HKU1,12,20.96774194
+Guangzhou,China,NL63,1,21.875
+Guangzhou,China,NL63,2,22.91666667
+Guangzhou,China,NL63,3,14.58333333
+Guangzhou,China,NL63,4,6.25
+Guangzhou,China,NL63,5,2.083333333
+Guangzhou,China,NL63,6,4.166666667
+Guangzhou,China,NL63,7,3.125
+Guangzhou,China,NL63,8,1.041666667
+Guangzhou,China,NL63,9,1.041666667
+Guangzhou,China,NL63,10,1.041666667
+Guangzhou,China,NL63,11,6.25
+Guangzhou,China,NL63,12,15.625
+Guangzhou,China,OC43,1,22.12389381
+Guangzhou,China,OC43,2,6.194690265
+Guangzhou,China,OC43,3,6.194690265
+Guangzhou,China,OC43,4,6.194690265
+Guangzhou,China,OC43,5,6.194690265
+Guangzhou,China,OC43,6,1.769911504
+Guangzhou,China,OC43,7,2.654867257
+Guangzhou,China,OC43,8,0.884955752
+Guangzhou,China,OC43,9,1.769911504
+Guangzhou,China,OC43,10,5.309734513
+Guangzhou,China,OC43,11,15.04424779
+Guangzhou,China,OC43,12,25.66371681
+Guangzhou,China,CoV2,1,14.9147579
+Guangzhou,China,CoV2,2,16.74494892
+Guangzhou,China,CoV2,3,10.54265128
+Guangzhou,China,CoV2,4,8.565539559
+Guangzhou,China,CoV2,5,4.297186114
+Guangzhou,China,CoV2,6,3.297755453
+Guangzhou,China,CoV2,7,2.625165295
+Guangzhou,China,CoV2,8,1.700977777
+Guangzhou,China,CoV2,9,2.4545628
+Guangzhou,China,CoV2,10,4.032555614
+Guangzhou,China,CoV2,11,13.06098342
+Guangzhou,China,CoV2,12,17.76291587
+Hong Kong,China,229E,1,6.25
+Hong Kong,China,229E,2,12.5
+Hong Kong,China,229E,3,12.5
+Hong Kong,China,229E,4,12.5
+Hong Kong,China,229E,5,6.25
+Hong Kong,China,229E,6,12.5
+Hong Kong,China,229E,7,6.25
+Hong Kong,China,229E,8,6.25
+Hong Kong,China,229E,9,6.25
+Hong Kong,China,229E,10,6.25
+Hong Kong,China,229E,11,6.25
+Hong Kong,China,229E,12,6.25
+Hong Kong,China,HKU1,1,12
+Hong Kong,China,HKU1,2,8
+Hong Kong,China,HKU1,3,4
+Hong Kong,China,HKU1,4,8
+Hong Kong,China,HKU1,5,8
+Hong Kong,China,HKU1,6,4
+Hong Kong,China,HKU1,7,8
+Hong Kong,China,HKU1,8,4
+Hong Kong,China,HKU1,9,4
+Hong Kong,China,HKU1,10,4
+Hong Kong,China,HKU1,11,20
+Hong Kong,China,HKU1,12,16
+Hong Kong,China,NL63,1,3.448275862
+Hong Kong,China,NL63,2,3.448275862
+Hong Kong,China,NL63,3,3.448275862
+Hong Kong,China,NL63,4,3.448275862
+Hong Kong,China,NL63,5,3.448275862
+Hong Kong,China,NL63,6,6.896551724
+Hong Kong,China,NL63,7,10.34482759
+Hong Kong,China,NL63,8,13.79310345
+Hong Kong,China,NL63,9,27.5862069
+Hong Kong,China,NL63,10,17.24137931
+Hong Kong,China,NL63,11,3.448275862
+Hong Kong,China,NL63,12,3.448275862
+Hong Kong,China,OC43,1,13.84615385
+Hong Kong,China,OC43,2,1.538461538
+Hong Kong,China,OC43,3,4.615384615
+Hong Kong,China,OC43,4,1.538461538
+Hong Kong,China,OC43,5,1.538461538
+Hong Kong,China,OC43,6,1.538461538
+Hong Kong,China,OC43,7,1.538461538
+Hong Kong,China,OC43,8,1.538461538
+Hong Kong,China,OC43,9,3.076923077
+Hong Kong,China,OC43,10,7.692307692
+Hong Kong,China,OC43,11,23.07692308
+Hong Kong,China,OC43,12,38.46153846
+Hong Kong,China,CoV2,1,9.811921076
+Hong Kong,China,CoV2,2,6.132848481
+Hong Kong,China,CoV2,3,5.900935556
+Hong Kong,China,CoV2,4,6.132848481
+Hong Kong,China,CoV2,5,4.802670693
+Hong Kong,China,CoV2,6,5.565466394
+Hong Kong,China,CoV2,7,6.042667352
+Hong Kong,China,CoV2,8,5.475285265
+Hong Kong,China,CoV2,9,8.433012326
+Hong Kong,China,CoV2,10,8.006218576
+Hong Kong,China,CoV2,11,15.05308438
+Hong Kong,China,CoV2,12,18.64304142
+Nakhon Si Thammarat,Thailand,CoV2,1,10.39306951
+Nakhon Si Thammarat,Thailand,CoV2,2,11.30638402
+Nakhon Si Thammarat,Thailand,CoV2,3,9.365502307
+Nakhon Si Thammarat,Thailand,CoV2,4,6.739811456
+Nakhon Si Thammarat,Thailand,CoV2,5,7.53887328
+Nakhon Si Thammarat,Thailand,CoV2,6,11.53467349
+Nakhon Si Thammarat,Thailand,CoV2,7,11.53467349
+Nakhon Si Thammarat,Thailand,CoV2,8,6.739811456
+Nakhon Si Thammarat,Thailand,CoV2,9,6.739811456
+Nakhon Si Thammarat,Thailand,CoV2,10,6.739811456
+Nakhon Si Thammarat,Thailand,CoV2,11,8.566440482
+Nakhon Si Thammarat,Thailand,CoV2,12,8.566440482
+Nakhon Si Thammarat,Thailand,229E,1,8.333333333
+Nakhon Si Thammarat,Thailand,229E,2,8.333333333
+Nakhon Si Thammarat,Thailand,229E,3,8.333333333
+Nakhon Si Thammarat,Thailand,229E,4,8.333333333
+Nakhon Si Thammarat,Thailand,229E,5,8.333333333
+Nakhon Si Thammarat,Thailand,229E,6,8.333333333
+Nakhon Si Thammarat,Thailand,229E,7,8.333333333
+Nakhon Si Thammarat,Thailand,229E,8,8.333333333
+Nakhon Si Thammarat,Thailand,229E,9,8.333333333
+Nakhon Si Thammarat,Thailand,229E,10,8.333333333
+Nakhon Si Thammarat,Thailand,229E,11,8.333333333
+Nakhon Si Thammarat,Thailand,229E,12,8.333333333
+Nakhon Si Thammarat,Thailand,HKU1,1,7.692307692
+Nakhon Si Thammarat,Thailand,HKU1,2,7.692307692
+Nakhon Si Thammarat,Thailand,HKU1,3,7.692307692
+Nakhon Si Thammarat,Thailand,HKU1,4,7.692307692
+Nakhon Si Thammarat,Thailand,HKU1,5,7.692307692
+Nakhon Si Thammarat,Thailand,HKU1,6,15.38461538
+Nakhon Si Thammarat,Thailand,HKU1,7,7.692307692
+Nakhon Si Thammarat,Thailand,HKU1,8,7.692307692
+Nakhon Si Thammarat,Thailand,HKU1,9,7.692307692
+Nakhon Si Thammarat,Thailand,HKU1,10,7.692307692
+Nakhon Si Thammarat,Thailand,HKU1,11,7.692307692
+Nakhon Si Thammarat,Thailand,HKU1,12,7.692307692
+Nakhon Si Thammarat,Thailand,NL63,1,4.761904762
+Nakhon Si Thammarat,Thailand,NL63,2,4.761904762
+Nakhon Si Thammarat,Thailand,NL63,3,14.28571429
+Nakhon Si Thammarat,Thailand,NL63,4,4.761904762
+Nakhon Si Thammarat,Thailand,NL63,5,14.28571429
+Nakhon Si Thammarat,Thailand,NL63,6,23.80952381
+Nakhon Si Thammarat,Thailand,NL63,7,4.761904762
+Nakhon Si Thammarat,Thailand,NL63,8,4.761904762
+Nakhon Si Thammarat,Thailand,NL63,9,4.761904762
+Nakhon Si Thammarat,Thailand,NL63,10,4.761904762
+Nakhon Si Thammarat,Thailand,NL63,11,4.761904762
+Nakhon Si Thammarat,Thailand,NL63,12,9.523809524
+Nakhon Si Thammarat,Thailand,OC43,1,17.64705882
+Nakhon Si Thammarat,Thailand,OC43,2,20.58823529
+Nakhon Si Thammarat,Thailand,OC43,3,8.823529412
+Nakhon Si Thammarat,Thailand,OC43,4,5.882352941
+Nakhon Si Thammarat,Thailand,OC43,5,2.941176471
+Nakhon Si Thammarat,Thailand,OC43,6,2.941176471
+Nakhon Si Thammarat,Thailand,OC43,7,2.941176471
+Nakhon Si Thammarat,Thailand,OC43,8,5.882352941
+Nakhon Si Thammarat,Thailand,OC43,9,5.882352941
+Nakhon Si Thammarat,Thailand,OC43,10,5.882352941
+Nakhon Si Thammarat,Thailand,OC43,11,11.76470588
+Nakhon Si Thammarat,Thailand,OC43,12,8.823529412
+New York,USA1,CoV2,1,18.26075431
+New York,USA1,CoV2,2,8.742663136
+New York,USA1,CoV2,3,6.618265855
+New York,USA1,CoV2,4,4.422302067
+New York,USA1,CoV2,5,2.420531657
+New York,USA1,CoV2,6,2.938076547
+New York,USA1,CoV2,7,2.938076547
+New York,USA1,CoV2,8,3.162644416
+New York,USA1,CoV2,9,2.938076547
+New York,USA1,CoV2,10,14.42124894
+New York,USA1,CoV2,11,18.93792909
+New York,USA1,CoV2,12,14.19943088
+New York,USA1,229E,1,18.60465116
+New York,USA1,229E,2,13.95348837
+New York,USA1,229E,3,4.651162791
+New York,USA1,229E,4,2.325581395
+New York,USA1,229E,5,2.325581395
+New York,USA1,229E,6,2.325581395
+New York,USA1,229E,7,2.325581395
+New York,USA1,229E,8,2.325581395
+New York,USA1,229E,9,2.325581395
+New York,USA1,229E,10,23.25581395
+New York,USA1,229E,11,16.27906977
+New York,USA1,229E,12,9.302325581
+New York,USA1,HKU1,1,25
+New York,USA1,HKU1,2,5
+New York,USA1,HKU1,3,7.5
+New York,USA1,HKU1,4,7.5
+New York,USA1,HKU1,5,2.5
+New York,USA1,HKU1,6,2.5
+New York,USA1,HKU1,7,2.5
+New York,USA1,HKU1,8,5
+New York,USA1,HKU1,9,2.5
+New York,USA1,HKU1,10,5
+New York,USA1,HKU1,11,17.5
+New York,USA1,HKU1,12,17.5
+New York,USA1,NL63,1,29.62962963
+New York,USA1,NL63,2,3.703703704
+New York,USA1,NL63,3,7.407407407
+New York,USA1,NL63,4,3.703703704
+New York,USA1,NL63,5,3.703703704
+New York,USA1,NL63,6,3.703703704
+New York,USA1,NL63,7,3.703703704
+New York,USA1,NL63,8,3.703703704
+New York,USA1,NL63,9,3.703703704
+New York,USA1,NL63,10,18.51851852
+New York,USA1,NL63,11,11.11111111
+New York,USA1,NL63,12,7.407407407
+New York,USA1,OC43,1,5
+New York,USA1,OC43,2,11.66666667
+New York,USA1,OC43,3,6.666666667
+New York,USA1,OC43,4,3.333333333
+New York,USA1,OC43,5,1.666666667
+New York,USA1,OC43,6,3.333333333
+New York,USA1,OC43,7,3.333333333
+New York,USA1,OC43,8,1.666666667
+New York,USA1,OC43,9,3.333333333
+New York,USA1,OC43,10,15
+New York,USA1,OC43,11,26.66666667
+New York,USA1,OC43,12,18.33333333
+Sarlahi,Nepal,229E,1,9.677419355
+Sarlahi,Nepal,229E,2,12.90322581
+Sarlahi,Nepal,229E,3,9.677419355
+Sarlahi,Nepal,229E,4,9.677419355
+Sarlahi,Nepal,229E,5,6.451612903
+Sarlahi,Nepal,229E,6,3.225806452
+Sarlahi,Nepal,229E,7,3.225806452
+Sarlahi,Nepal,229E,8,3.225806452
+Sarlahi,Nepal,229E,9,3.225806452
+Sarlahi,Nepal,229E,10,6.451612903
+Sarlahi,Nepal,229E,11,16.12903226
+Sarlahi,Nepal,229E,12,16.12903226
+Sarlahi,Nepal,HKU1,1,28.88888889
+Sarlahi,Nepal,HKU1,2,31.11111111
+Sarlahi,Nepal,HKU1,3,7.777777778
+Sarlahi,Nepal,HKU1,4,3.333333333
+Sarlahi,Nepal,HKU1,5,4.444444444
+Sarlahi,Nepal,HKU1,6,4.444444444
+Sarlahi,Nepal,HKU1,7,1.111111111
+Sarlahi,Nepal,HKU1,8,2.222222222
+Sarlahi,Nepal,HKU1,9,2.222222222
+Sarlahi,Nepal,HKU1,10,2.222222222
+Sarlahi,Nepal,HKU1,11,5.555555556
+Sarlahi,Nepal,HKU1,12,6.666666667
+Sarlahi,Nepal,NL63,1,2.43902439
+Sarlahi,Nepal,NL63,2,2.43902439
+Sarlahi,Nepal,NL63,3,1.219512195
+Sarlahi,Nepal,NL63,4,2.43902439
+Sarlahi,Nepal,NL63,5,2.43902439
+Sarlahi,Nepal,NL63,6,1.219512195
+Sarlahi,Nepal,NL63,7,1.219512195
+Sarlahi,Nepal,NL63,8,17.07317073
+Sarlahi,Nepal,NL63,9,26.82926829
+Sarlahi,Nepal,NL63,10,28.04878049
+Sarlahi,Nepal,NL63,11,12.19512195
+Sarlahi,Nepal,NL63,12,2.43902439
+Sarlahi,Nepal,OC43,1,12.62135922
+Sarlahi,Nepal,OC43,2,23.30097087
+Sarlahi,Nepal,OC43,3,13.59223301
+Sarlahi,Nepal,OC43,4,6.796116505
+Sarlahi,Nepal,OC43,5,17.47572816
+Sarlahi,Nepal,OC43,6,12.62135922
+Sarlahi,Nepal,OC43,7,2.912621359
+Sarlahi,Nepal,OC43,8,0.970873786
+Sarlahi,Nepal,OC43,9,0.970873786
+Sarlahi,Nepal,OC43,10,0.970873786
+Sarlahi,Nepal,OC43,11,2.912621359
+Sarlahi,Nepal,OC43,12,4.854368932
+Sarlahi,Nepal,CoV2,1,14.99296274
+Sarlahi,Nepal,CoV2,2,19.65546897
+Sarlahi,Nepal,CoV2,3,8.808447529
+Sarlahi,Nepal,CoV2,4,5.598026432
+Sarlahi,Nepal,CoV2,5,8.557618021
+Sarlahi,Nepal,CoV2,6,6.144394639
+Sarlahi,Nepal,CoV2,7,2.140086352
+Sarlahi,Nepal,CoV2,8,4.717429445
+Sarlahi,Nepal,CoV2,9,6.471571058
+Sarlahi,Nepal,CoV2,10,7.377382134
+Sarlahi,Nepal,CoV2,11,8.178980737
+Sarlahi,Nepal,CoV2,12,7.357631939
+Stockholm,Sweden1,CoV2,1,17.3127709
+Stockholm,Sweden1,CoV2,2,17.54830359
+Stockholm,Sweden1,CoV2,3,15.65887091
+Stockholm,Sweden1,CoV2,4,9.739945166
+Stockholm,Sweden1,CoV2,5,6.281451823
+Stockholm,Sweden1,CoV2,6,4.239179379
+Stockholm,Sweden1,CoV2,7,4.239179379
+Stockholm,Sweden1,CoV2,8,0.972494935
+Stockholm,Sweden1,CoV2,9,1.158132932
+Stockholm,Sweden1,CoV2,10,2.162692803
+Stockholm,Sweden1,CoV2,11,5.972964798
+Stockholm,Sweden1,CoV2,12,17.58785119
+Stockholm,Sweden1,229E,1,7.8125
+Stockholm,Sweden1,229E,2,19.0625
+Stockholm,Sweden1,229E,3,28.75
+Stockholm,Sweden1,229E,4,19.375
+Stockholm,Sweden1,229E,5,10.625
+Stockholm,Sweden1,229E,6,5.3125
+Stockholm,Sweden1,229E,7,0.9375
+Stockholm,Sweden1,229E,8,1.5625
+Stockholm,Sweden1,229E,9,0.625
+Stockholm,Sweden1,229E,10,2.8125
+Stockholm,Sweden1,229E,11,1.5625
+Stockholm,Sweden1,229E,12,1.5625
+Stockholm,Sweden1,NL63,1,17.2
+Stockholm,Sweden1,NL63,2,29.6
+Stockholm,Sweden1,NL63,3,20.6
+Stockholm,Sweden1,NL63,4,9.8
+Stockholm,Sweden1,NL63,5,5.2
+Stockholm,Sweden1,NL63,6,1.8
+Stockholm,Sweden1,NL63,7,0.4
+Stockholm,Sweden1,NL63,8,1
+Stockholm,Sweden1,NL63,9,0.4
+Stockholm,Sweden1,NL63,10,0.6
+Stockholm,Sweden1,NL63,11,3
+Stockholm,Sweden1,NL63,12,10.4
+Stockholm,Sweden1,OC43,1,21.40600316
+Stockholm,Sweden1,OC43,2,12.55924171
+Stockholm,Sweden1,OC43,3,8.293838863
+Stockholm,Sweden1,OC43,4,5.60821485
+Stockholm,Sweden1,OC43,5,4.818325434
+Stockholm,Sweden1,OC43,6,4.660347551
+Stockholm,Sweden1,OC43,7,1.895734597
+Stockholm,Sweden1,OC43,8,0.710900474
+Stockholm,Sweden1,OC43,9,1.658767773
+Stockholm,Sweden1,OC43,10,2.448657188
+Stockholm,Sweden1,OC43,11,8.925750395
+Stockholm,Sweden1,OC43,12,27.01421801
+Sor Trondelag,Norway,CoV2,1,14.9147579
+Sor Trondelag,Norway,CoV2,2,16.74494892
+Sor Trondelag,Norway,CoV2,3,10.54265128
+Sor Trondelag,Norway,CoV2,4,8.565539559
+Sor Trondelag,Norway,CoV2,5,4.297186114
+Sor Trondelag,Norway,CoV2,6,3.297755453
+Sor Trondelag,Norway,CoV2,7,2.625165295
+Sor Trondelag,Norway,CoV2,8,1.700977777
+Sor Trondelag,Norway,CoV2,9,2.4545628
+Sor Trondelag,Norway,CoV2,10,4.032555614
+Sor Trondelag,Norway,CoV2,11,13.06098342
+Sor Trondelag,Norway,CoV2,12,17.76291587
+Sør-Trøndelag,Norway,229E,1,3.571428571
+Sør-Trøndelag,Norway,229E,2,14.28571429
+Sør-Trøndelag,Norway,229E,3,21.42857143
+Sør-Trøndelag,Norway,229E,4,21.42857143
+Sør-Trøndelag,Norway,229E,5,7.142857143
+Sør-Trøndelag,Norway,229E,6,7.142857143
+Sør-Trøndelag,Norway,229E,7,3.571428571
+Sør-Trøndelag,Norway,229E,8,3.571428571
+Sør-Trøndelag,Norway,229E,9,3.571428571
+Sør-Trøndelag,Norway,229E,10,3.571428571
+Sør-Trøndelag,Norway,229E,11,7.142857143
+Sør-Trøndelag,Norway,229E,12,3.571428571
+Sør-Trøndelag,Norway,HKU1,1,11.29032258
+Sør-Trøndelag,Norway,HKU1,2,25.80645161
+Sør-Trøndelag,Norway,HKU1,3,4.838709677
+Sør-Trøndelag,Norway,HKU1,4,3.225806452
+Sør-Trøndelag,Norway,HKU1,5,1.612903226
+Sør-Trøndelag,Norway,HKU1,6,1.612903226
+Sør-Trøndelag,Norway,HKU1,7,1.612903226
+Sør-Trøndelag,Norway,HKU1,8,1.612903226
+Sør-Trøndelag,Norway,HKU1,9,3.225806452
+Sør-Trøndelag,Norway,HKU1,10,4.838709677
+Sør-Trøndelag,Norway,HKU1,11,19.35483871
+Sør-Trøndelag,Norway,HKU1,12,20.96774194
+Sør-Trøndelag,Norway,NL63,1,21.875
+Sør-Trøndelag,Norway,NL63,2,22.91666667
+Sør-Trøndelag,Norway,NL63,3,14.58333333
+Sør-Trøndelag,Norway,NL63,4,6.25
+Sør-Trøndelag,Norway,NL63,5,2.083333333
+Sør-Trøndelag,Norway,NL63,6,4.166666667
+Sør-Trøndelag,Norway,NL63,7,3.125
+Sør-Trøndelag,Norway,NL63,8,1.041666667
+Sør-Trøndelag,Norway,NL63,9,1.041666667
+Sør-Trøndelag,Norway,NL63,10,1.041666667
+Sør-Trøndelag,Norway,NL63,11,6.25
+Sør-Trøndelag,Norway,NL63,12,15.625
+Sør-Trøndelag,Norway,OC43,1,22.12389381
+Sør-Trøndelag,Norway,OC43,2,6.194690265
+Sør-Trøndelag,Norway,OC43,3,6.194690265
+Sør-Trøndelag,Norway,OC43,4,6.194690265
+Sør-Trøndelag,Norway,OC43,5,6.194690265
+Sør-Trøndelag,Norway,OC43,6,1.769911504
+Sør-Trøndelag,Norway,OC43,7,2.654867257
+Sør-Trøndelag,Norway,OC43,8,0.884955752
+Sør-Trøndelag,Norway,OC43,9,1.769911504
+Sør-Trøndelag,Norway,OC43,10,5.309734513
+Sør-Trøndelag,Norway,OC43,11,15.04424779
+Sør-Trøndelag,Norway,OC43,12,25.66371681
+South Korea,South Korea,CoV2,1,13.65296114
+South Korea,South Korea,CoV2,2,9.552384203
+South Korea,South Korea,CoV2,3,5.407112004
+South Korea,South Korea,CoV2,4,5.595255288
+South Korea,South Korea,CoV2,5,3.62474351
+South Korea,South Korea,CoV2,6,2.957381444
+South Korea,South Korea,CoV2,7,2.957381444
+South Korea,South Korea,CoV2,8,1.919480032
+South Korea,South Korea,CoV2,9,1.982133678
+South Korea,South Korea,CoV2,10,6.750921673
+South Korea,South Korea,CoV2,11,18.69606932
+South Korea,South Korea,CoV2,12,27.91962217
+South Korea,South Korea,229E,1,14.9068323
+South Korea,South Korea,229E,2,18.63354037
+South Korea,South Korea,229E,3,9.937888199
+South Korea,South Korea,229E,4,10.55900621
+South Korea,South Korea,229E,5,4.968944099
+South Korea,South Korea,229E,6,5.590062112
+South Korea,South Korea,229E,7,3.105590062
+South Korea,South Korea,229E,8,1.242236025
+South Korea,South Korea,229E,9,1.863354037
+South Korea,South Korea,229E,10,6.832298137
+South Korea,South Korea,229E,11,6.832298137
+South Korea,South Korea,229E,12,15.52795031
+South Korea,South Korea,NL63,1,17.81076067
+South Korea,South Korea,NL63,2,15.21335807
+South Korea,South Korea,NL63,3,8.53432282
+South Korea,South Korea,NL63,4,4.823747681
+South Korea,South Korea,NL63,5,1.669758813
+South Korea,South Korea,NL63,6,0.556586271
+South Korea,South Korea,NL63,7,0.742115028
+South Korea,South Korea,NL63,8,0.556586271
+South Korea,South Korea,NL63,9,2.41187384
+South Korea,South Korea,NL63,10,5.194805195
+South Korea,South Korea,NL63,11,19.48051948
+South Korea,South Korea,NL63,12,23.00556586
+South Korea,South Korea,OC43,1,11.61971831
+South Korea,South Korea,OC43,2,3.638497653
+South Korea,South Korea,OC43,3,2.34741784
+South Korea,South Korea,OC43,4,3.755868545
+South Korea,South Korea,OC43,5,3.755868545
+South Korea,South Korea,OC43,6,2.699530516
+South Korea,South Korea,OC43,7,1.877934272
+South Korea,South Korea,OC43,8,2.699530516
+South Korea,South Korea,OC43,9,1.877934272
+South Korea,South Korea,OC43,10,7.276995305
+South Korea,South Korea,OC43,11,23.4741784
+South Korea,South Korea,OC43,12,34.97652582
+Tampere,Finland,229E,1,16
+Tampere,Finland,229E,2,36
+Tampere,Finland,229E,3,8
+Tampere,Finland,229E,4,8
+Tampere,Finland,229E,5,4
+Tampere,Finland,229E,6,4
+Tampere,Finland,229E,7,4
+Tampere,Finland,229E,8,4
+Tampere,Finland,229E,9,4
+Tampere,Finland,229E,10,4
+Tampere,Finland,229E,11,4
+Tampere,Finland,229E,12,4
+Tampere,Finland,HKU1,1,4.347826087
+Tampere,Finland,HKU1,2,30.43478261
+Tampere,Finland,HKU1,3,26.08695652
+Tampere,Finland,HKU1,4,4.347826087
+Tampere,Finland,HKU1,5,4.347826087
+Tampere,Finland,HKU1,6,4.347826087
+Tampere,Finland,HKU1,7,4.347826087
+Tampere,Finland,HKU1,8,4.347826087
+Tampere,Finland,HKU1,9,4.347826087
+Tampere,Finland,HKU1,10,4.347826087
+Tampere,Finland,HKU1,11,4.347826087
+Tampere,Finland,HKU1,12,4.347826087
+Tampere,Finland,NL63,1,18.51851852
+Tampere,Finland,NL63,2,33.33333333
+Tampere,Finland,NL63,3,11.11111111
+Tampere,Finland,NL63,4,3.703703704
+Tampere,Finland,NL63,5,3.703703704
+Tampere,Finland,NL63,6,3.703703704
+Tampere,Finland,NL63,7,3.703703704
+Tampere,Finland,NL63,8,3.703703704
+Tampere,Finland,NL63,9,3.703703704
+Tampere,Finland,NL63,10,3.703703704
+Tampere,Finland,NL63,11,3.703703704
+Tampere,Finland,NL63,12,7.407407407
+Tampere,Finland,OC43,1,12
+Tampere,Finland,OC43,2,4
+Tampere,Finland,OC43,3,4
+Tampere,Finland,OC43,4,16
+Tampere,Finland,OC43,5,8
+Tampere,Finland,OC43,6,8
+Tampere,Finland,OC43,7,4
+Tampere,Finland,OC43,8,4
+Tampere,Finland,OC43,9,8
+Tampere,Finland,OC43,10,4
+Tampere,Finland,OC43,11,8
+Tampere,Finland,OC43,12,20
+Tampere,Finland,CoV2,1,11.75182989
+Tampere,Finland,CoV2,2,23.93166518
+Tampere,Finland,CoV2,3,12.68629302
+Tampere,Finland,CoV2,4,8.627613541
+Tampere,Finland,CoV2,5,5.292084279
+Tampere,Finland,CoV2,6,5.292084279
+Tampere,Finland,CoV2,7,4.049976541
+Tampere,Finland,CoV2,8,4.049976541
+Tampere,Finland,CoV2,9,5.292084279
+Tampere,Finland,CoV2,10,4.049976541
+Tampere,Finland,CoV2,11,5.292084279
+Tampere,Finland,CoV2,12,9.684331626
+Yamagata,Japan,CoV2,1,16.6013252
+Yamagata,Japan,CoV2,2,23.19663264
+Yamagata,Japan,CoV2,3,17.76622745
+Yamagata,Japan,CoV2,4,8.145653382
+Yamagata,Japan,CoV2,5,5.538391737
+Yamagata,Japan,CoV2,6,1.974671608
+Yamagata,Japan,CoV2,7,1.974671608
+Yamagata,Japan,CoV2,8,2.598173339
+Yamagata,Japan,CoV2,9,1.926738866
+Yamagata,Japan,CoV2,10,4.336162176
+Yamagata,Japan,CoV2,11,7.561907397
+Yamagata,Japan,CoV2,12,5.718603812
+Yamagata,Japan,229E,1,1.923076923
+Yamagata,Japan,229E,2,7.692307692
+Yamagata,Japan,229E,3,36.53846154
+Yamagata,Japan,229E,4,21.15384615
+Yamagata,Japan,229E,5,9.615384615
+Yamagata,Japan,229E,6,1.923076923
+Yamagata,Japan,229E,7,1.923076923
+Yamagata,Japan,229E,8,1.923076923
+Yamagata,Japan,229E,9,5.769230769
+Yamagata,Japan,229E,10,1.923076923
+Yamagata,Japan,229E,11,5.769230769
+Yamagata,Japan,229E,12,3.846153846
+Yamagata,Japan,HKU1,1,24.52830189
+Yamagata,Japan,HKU1,2,32.0754717
+Yamagata,Japan,HKU1,3,19.81132075
+Yamagata,Japan,HKU1,4,1.886792453
+Yamagata,Japan,HKU1,5,1.886792453
+Yamagata,Japan,HKU1,6,0.943396226
+Yamagata,Japan,HKU1,7,7.547169811
+Yamagata,Japan,HKU1,8,3.773584906
+Yamagata,Japan,HKU1,9,0.943396226
+Yamagata,Japan,HKU1,10,0.943396226
+Yamagata,Japan,HKU1,11,3.773584906
+Yamagata,Japan,HKU1,12,1.886792453
+Yamagata,Japan,NL63,1,27.10843373
+Yamagata,Japan,NL63,2,16.86746988
+Yamagata,Japan,NL63,3,9.036144578
+Yamagata,Japan,NL63,4,10.24096386
+Yamagata,Japan,NL63,5,4.21686747
+Yamagata,Japan,NL63,6,5.421686747
+Yamagata,Japan,NL63,7,2.409638554
+Yamagata,Japan,NL63,8,4.21686747
+Yamagata,Japan,NL63,9,0.602409639
+Yamagata,Japan,NL63,10,3.012048193
+Yamagata,Japan,NL63,11,4.819277108
+Yamagata,Japan,NL63,12,12.04819277
+Yamagata,Japan,OC43,1,13
+Yamagata,Japan,OC43,2,29
+Yamagata,Japan,OC43,3,8
+Yamagata,Japan,OC43,4,4
+Yamagata,Japan,OC43,5,7
+Yamagata,Japan,OC43,6,1
+Yamagata,Japan,OC43,7,5
+Yamagata,Japan,OC43,8,1
+Yamagata,Japan,OC43,9,1
+Yamagata,Japan,OC43,10,10
+Yamagata,Japan,OC43,11,14
+Yamagata,Japan,OC43,12,7

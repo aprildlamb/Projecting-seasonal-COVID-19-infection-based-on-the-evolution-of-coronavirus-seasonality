@@ -1,0 +1,637 @@
+study,site,country,virus.type,month,cases
+Brittain-Long,Gothenburg,Sweden,229E,1,5
+Brittain-Long,Gothenburg,Sweden,229E,2,4
+Brittain-Long,Gothenburg,Sweden,229E,3,5
+Brittain-Long,Gothenburg,Sweden,229E,4,3
+Brittain-Long,Gothenburg,Sweden,229E,5,5
+Brittain-Long,Gothenburg,Sweden,229E,6,8
+Brittain-Long,Gothenburg,Sweden,229E,7,1
+Brittain-Long,Gothenburg,Sweden,229E,8,1
+Brittain-Long,Gothenburg,Sweden,229E,9,0
+Brittain-Long,Gothenburg,Sweden,229E,10,0
+Brittain-Long,Gothenburg,Sweden,229E,11,0
+Brittain-Long,Gothenburg,Sweden,229E,12,1
+Brittain-Long,Gothenburg,Sweden,NL63,1,10
+Brittain-Long,Gothenburg,Sweden,NL63,2,31
+Brittain-Long,Gothenburg,Sweden,NL63,3,18
+Brittain-Long,Gothenburg,Sweden,NL63,4,6
+Brittain-Long,Gothenburg,Sweden,NL63,5,8
+Brittain-Long,Gothenburg,Sweden,NL63,6,2
+Brittain-Long,Gothenburg,Sweden,NL63,7,3
+Brittain-Long,Gothenburg,Sweden,NL63,8,0
+Brittain-Long,Gothenburg,Sweden,NL63,9,0
+Brittain-Long,Gothenburg,Sweden,NL63,10,0
+Brittain-Long,Gothenburg,Sweden,NL63,11,0
+Brittain-Long,Gothenburg,Sweden,NL63,12,4
+Brittain-Long,Gothenburg,Sweden,OC43,1,29
+Brittain-Long,Gothenburg,Sweden,OC43,2,22
+Brittain-Long,Gothenburg,Sweden,OC43,3,9
+Brittain-Long,Gothenburg,Sweden,OC43,4,4
+Brittain-Long,Gothenburg,Sweden,OC43,5,2
+Brittain-Long,Gothenburg,Sweden,OC43,6,3
+Brittain-Long,Gothenburg,Sweden,OC43,7,2
+Brittain-Long,Gothenburg,Sweden,OC43,8,3
+Brittain-Long,Gothenburg,Sweden,OC43,9,3
+Brittain-Long,Gothenburg,Sweden,OC43,10,12
+Brittain-Long,Gothenburg,Sweden,OC43,11,6
+Brittain-Long,Gothenburg,Sweden,OC43,12,29
+Chiu,Hong Kong,China,229E,1,0
+Chiu,Hong Kong,China,229E,2,2
+Chiu,Hong Kong,China,229E,3,0
+Chiu,Hong Kong,China,229E,4,0
+Chiu,Hong Kong,China,229E,5,0
+Chiu,Hong Kong,China,229E,6,0
+Chiu,Hong Kong,China,229E,7,0
+Chiu,Hong Kong,China,229E,8,0
+Chiu,Hong Kong,China,229E,9,0
+Chiu,Hong Kong,China,229E,10,0
+Chiu,Hong Kong,China,229E,11,0
+Chiu,Hong Kong,China,229E,12,0
+Chiu,Hong Kong,China,NL63,1,0
+Chiu,Hong Kong,China,NL63,2,1
+Chiu,Hong Kong,China,NL63,3,2
+Chiu,Hong Kong,China,NL63,4,2
+Chiu,Hong Kong,China,NL63,5,2
+Chiu,Hong Kong,China,NL63,6,0
+Chiu,Hong Kong,China,NL63,7,5
+Chiu,Hong Kong,China,NL63,8,2
+Chiu,Hong Kong,China,NL63,9,0
+Chiu,Hong Kong,China,NL63,10,1
+Chiu,Hong Kong,China,NL63,11,0
+Chiu,Hong Kong,China,NL63,12,0
+Chiu,Hong Kong,China,OC43,1,0
+Chiu,Hong Kong,China,OC43,2,1
+Chiu,Hong Kong,China,OC43,3,0
+Chiu,Hong Kong,China,OC43,4,0
+Chiu,Hong Kong,China,OC43,5,0
+Chiu,Hong Kong,China,OC43,6,1
+Chiu,Hong Kong,China,OC43,7,0
+Chiu,Hong Kong,China,OC43,8,0
+Chiu,Hong Kong,China,OC43,9,0
+Chiu,Hong Kong,China,OC43,10,1
+Chiu,Hong Kong,China,OC43,11,3
+Chiu,Hong Kong,China,OC43,12,3
+Galanti,New York City,USA,229E,1,7
+Galanti,New York City,USA,229E,2,5
+Galanti,New York City,USA,229E,3,1
+Galanti,New York City,USA,229E,4,0
+Galanti,New York City,USA,229E,5,0
+Galanti,New York City,USA,229E,6,0
+Galanti,New York City,USA,229E,7,0
+Galanti,New York City,USA,229E,8,0
+Galanti,New York City,USA,229E,9,0
+Galanti,New York City,USA,229E,10,9
+Galanti,New York City,USA,229E,11,6
+Galanti,New York City,USA,229E,12,3
+Galanti,New York City,USA,HKU1,1,9
+Galanti,New York City,USA,HKU1,2,1
+Galanti,New York City,USA,HKU1,3,2
+Galanti,New York City,USA,HKU1,4,2
+Galanti,New York City,USA,HKU1,5,0
+Galanti,New York City,USA,HKU1,6,0
+Galanti,New York City,USA,HKU1,7,0
+Galanti,New York City,USA,HKU1,8,1
+Galanti,New York City,USA,HKU1,9,0
+Galanti,New York City,USA,HKU1,10,1
+Galanti,New York City,USA,HKU1,11,6
+Galanti,New York City,USA,HKU1,12,6
+Galanti,New York City,USA,NL63,1,7
+Galanti,New York City,USA,NL63,2,0
+Galanti,New York City,USA,NL63,3,1
+Galanti,New York City,USA,NL63,4,0
+Galanti,New York City,USA,NL63,5,0
+Galanti,New York City,USA,NL63,6,0
+Galanti,New York City,USA,NL63,7,0
+Galanti,New York City,USA,NL63,8,0
+Galanti,New York City,USA,NL63,9,0
+Galanti,New York City,USA,NL63,10,4
+Galanti,New York City,USA,NL63,11,2
+Galanti,New York City,USA,NL63,12,1
+Galanti,New York City,USA,OC43,1,2
+Galanti,New York City,USA,OC43,2,6
+Galanti,New York City,USA,OC43,3,3
+Galanti,New York City,USA,OC43,4,1
+Galanti,New York City,USA,OC43,5,0
+Galanti,New York City,USA,OC43,6,1
+Galanti,New York City,USA,OC43,7,1
+Galanti,New York City,USA,OC43,8,0
+Galanti,New York City,USA,OC43,9,1
+Galanti,New York City,USA,OC43,10,8
+Galanti,New York City,USA,OC43,11,15
+Galanti,New York City,USA,OC43,12,10
+Heimdal,Sør-Trøndelag,Norway,229E,1,0
+Heimdal,Sør-Trøndelag,Norway,229E,2,3
+Heimdal,Sør-Trøndelag,Norway,229E,3,5
+Heimdal,Sør-Trøndelag,Norway,229E,4,5
+Heimdal,Sør-Trøndelag,Norway,229E,5,1
+Heimdal,Sør-Trøndelag,Norway,229E,6,1
+Heimdal,Sør-Trøndelag,Norway,229E,7,0
+Heimdal,Sør-Trøndelag,Norway,229E,8,0
+Heimdal,Sør-Trøndelag,Norway,229E,9,0
+Heimdal,Sør-Trøndelag,Norway,229E,10,0
+Heimdal,Sør-Trøndelag,Norway,229E,11,1
+Heimdal,Sør-Trøndelag,Norway,229E,12,0
+Heimdal,Sør-Trøndelag,Norway,HKU1,1,6
+Heimdal,Sør-Trøndelag,Norway,HKU1,2,15
+Heimdal,Sør-Trøndelag,Norway,HKU1,3,2
+Heimdal,Sør-Trøndelag,Norway,HKU1,4,1
+Heimdal,Sør-Trøndelag,Norway,HKU1,5,0
+Heimdal,Sør-Trøndelag,Norway,HKU1,6,0
+Heimdal,Sør-Trøndelag,Norway,HKU1,7,0
+Heimdal,Sør-Trøndelag,Norway,HKU1,8,0
+Heimdal,Sør-Trøndelag,Norway,HKU1,9,1
+Heimdal,Sør-Trøndelag,Norway,HKU1,10,2
+Heimdal,Sør-Trøndelag,Norway,HKU1,11,11
+Heimdal,Sør-Trøndelag,Norway,HKU1,12,12
+Heimdal,Sør-Trøndelag,Norway,NL63,1,20
+Heimdal,Sør-Trøndelag,Norway,NL63,2,21
+Heimdal,Sør-Trøndelag,Norway,NL63,3,13
+Heimdal,Sør-Trøndelag,Norway,NL63,4,5
+Heimdal,Sør-Trøndelag,Norway,NL63,5,1
+Heimdal,Sør-Trøndelag,Norway,NL63,6,3
+Heimdal,Sør-Trøndelag,Norway,NL63,7,2
+Heimdal,Sør-Trøndelag,Norway,NL63,8,0
+Heimdal,Sør-Trøndelag,Norway,NL63,9,0
+Heimdal,Sør-Trøndelag,Norway,NL63,10,0
+Heimdal,Sør-Trøndelag,Norway,NL63,11,5
+Heimdal,Sør-Trøndelag,Norway,NL63,12,14
+Heimdal,Sør-Trøndelag,Norway,OC43,1,25
+Heimdal,Sør-Trøndelag,Norway,OC43,2,7
+Heimdal,Sør-Trøndelag,Norway,OC43,3,7
+Heimdal,Sør-Trøndelag,Norway,OC43,4,7
+Heimdal,Sør-Trøndelag,Norway,OC43,5,7
+Heimdal,Sør-Trøndelag,Norway,OC43,6,2
+Heimdal,Sør-Trøndelag,Norway,OC43,7,3
+Heimdal,Sør-Trøndelag,Norway,OC43,8,1
+Heimdal,Sør-Trøndelag,Norway,OC43,9,2
+Heimdal,Sør-Trøndelag,Norway,OC43,10,6
+Heimdal,Sør-Trøndelag,Norway,OC43,11,17
+Heimdal,Sør-Trøndelag,Norway,OC43,12,29
+Kim,Nationwide,South Korea,229E,1,24
+Kim,Nationwide,South Korea,229E,2,30
+Kim,Nationwide,South Korea,229E,3,16
+Kim,Nationwide,South Korea,229E,4,17
+Kim,Nationwide,South Korea,229E,5,8
+Kim,Nationwide,South Korea,229E,6,9
+Kim,Nationwide,South Korea,229E,7,5
+Kim,Nationwide,South Korea,229E,8,2
+Kim,Nationwide,South Korea,229E,9,3
+Kim,Nationwide,South Korea,229E,10,11
+Kim,Nationwide,South Korea,229E,11,11
+Kim,Nationwide,South Korea,229E,12,25
+Kim,Nationwide,South Korea,NL63,1,96
+Kim,Nationwide,South Korea,NL63,2,82
+Kim,Nationwide,South Korea,NL63,3,46
+Kim,Nationwide,South Korea,NL63,4,26
+Kim,Nationwide,South Korea,NL63,5,9
+Kim,Nationwide,South Korea,NL63,6,3
+Kim,Nationwide,South Korea,NL63,7,4
+Kim,Nationwide,South Korea,NL63,8,3
+Kim,Nationwide,South Korea,NL63,9,13
+Kim,Nationwide,South Korea,NL63,10,28
+Kim,Nationwide,South Korea,NL63,11,105
+Kim,Nationwide,South Korea,NL63,12,124
+Kim,Nationwide,South Korea,OC43,1,99
+Kim,Nationwide,South Korea,OC43,2,31
+Kim,Nationwide,South Korea,OC43,3,20
+Kim,Nationwide,South Korea,OC43,4,32
+Kim,Nationwide,South Korea,OC43,5,32
+Kim,Nationwide,South Korea,OC43,6,23
+Kim,Nationwide,South Korea,OC43,7,16
+Kim,Nationwide,South Korea,OC43,8,23
+Kim,Nationwide,South Korea,OC43,9,16
+Kim,Nationwide,South Korea,OC43,10,62
+Kim,Nationwide,South Korea,OC43,11,200
+Kim,Nationwide,South Korea,OC43,12,298
+Lau,Hong Kong,China,229E,1,0
+Lau,Hong Kong,China,229E,2,1
+Lau,Hong Kong,China,229E,3,1
+Lau,Hong Kong,China,229E,4,1
+Lau,Hong Kong,China,229E,5,0
+Lau,Hong Kong,China,229E,6,1
+Lau,Hong Kong,China,229E,7,0
+Lau,Hong Kong,China,229E,8,0
+Lau,Hong Kong,China,229E,9,0
+Lau,Hong Kong,China,229E,10,0
+Lau,Hong Kong,China,229E,11,0
+Lau,Hong Kong,China,229E,12,0
+Lau,Hong Kong,China,HKU1,1,2
+Lau,Hong Kong,China,HKU1,2,1
+Lau,Hong Kong,China,HKU1,3,0
+Lau,Hong Kong,China,HKU1,4,1
+Lau,Hong Kong,China,HKU1,5,1
+Lau,Hong Kong,China,HKU1,6,0
+Lau,Hong Kong,China,HKU1,7,1
+Lau,Hong Kong,China,HKU1,8,0
+Lau,Hong Kong,China,HKU1,9,0
+Lau,Hong Kong,China,HKU1,10,0
+Lau,Hong Kong,China,HKU1,11,4
+Lau,Hong Kong,China,HKU1,12,3
+Lau,Hong Kong,China,NL63,1,0
+Lau,Hong Kong,China,NL63,2,0
+Lau,Hong Kong,China,NL63,3,0
+Lau,Hong Kong,China,NL63,4,0
+Lau,Hong Kong,China,NL63,5,0
+Lau,Hong Kong,China,NL63,6,1
+Lau,Hong Kong,China,NL63,7,2
+Lau,Hong Kong,China,NL63,8,3
+Lau,Hong Kong,China,NL63,9,7
+Lau,Hong Kong,China,NL63,10,4
+Lau,Hong Kong,China,NL63,11,0
+Lau,Hong Kong,China,NL63,12,0
+Lau,Hong Kong,China,OC43,1,8
+Lau,Hong Kong,China,OC43,2,0
+Lau,Hong Kong,China,OC43,3,2
+Lau,Hong Kong,China,OC43,4,0
+Lau,Hong Kong,China,OC43,5,0
+Lau,Hong Kong,China,OC43,6,0
+Lau,Hong Kong,China,OC43,7,0
+Lau,Hong Kong,China,OC43,8,0
+Lau,Hong Kong,China,OC43,9,1
+Lau,Hong Kong,China,OC43,10,4
+Lau,Hong Kong,China,OC43,11,14
+Lau,Hong Kong,China,OC43,12,24
+Matoba,Yamagata,Japan,229E,1,0
+Matoba,Yamagata,Japan,229E,2,3
+Matoba,Yamagata,Japan,229E,3,18
+Matoba,Yamagata,Japan,229E,4,10
+Matoba,Yamagata,Japan,229E,5,4
+Matoba,Yamagata,Japan,229E,6,0
+Matoba,Yamagata,Japan,229E,7,0
+Matoba,Yamagata,Japan,229E,8,0
+Matoba,Yamagata,Japan,229E,9,2
+Matoba,Yamagata,Japan,229E,10,0
+Matoba,Yamagata,Japan,229E,11,2
+Matoba,Yamagata,Japan,229E,12,1
+Matoba,Yamagata,Japan,HKU1,1,25
+Matoba,Yamagata,Japan,HKU1,2,33
+Matoba,Yamagata,Japan,HKU1,3,20
+Matoba,Yamagata,Japan,HKU1,4,1
+Matoba,Yamagata,Japan,HKU1,5,1
+Matoba,Yamagata,Japan,HKU1,6,0
+Matoba,Yamagata,Japan,HKU1,7,7
+Matoba,Yamagata,Japan,HKU1,8,3
+Matoba,Yamagata,Japan,HKU1,9,0
+Matoba,Yamagata,Japan,HKU1,10,0
+Matoba,Yamagata,Japan,HKU1,11,3
+Matoba,Yamagata,Japan,HKU1,12,1
+Matoba,Yamagata,Japan,NL63,1,44
+Matoba,Yamagata,Japan,NL63,2,27
+Matoba,Yamagata,Japan,NL63,3,14
+Matoba,Yamagata,Japan,NL63,4,16
+Matoba,Yamagata,Japan,NL63,5,6
+Matoba,Yamagata,Japan,NL63,6,8
+Matoba,Yamagata,Japan,NL63,7,3
+Matoba,Yamagata,Japan,NL63,8,6
+Matoba,Yamagata,Japan,NL63,9,0
+Matoba,Yamagata,Japan,NL63,10,4
+Matoba,Yamagata,Japan,NL63,11,7
+Matoba,Yamagata,Japan,NL63,12,19
+Matoba,Yamagata,Japan,OC43,1,13
+Matoba,Yamagata,Japan,OC43,2,29
+Matoba,Yamagata,Japan,OC43,3,8
+Matoba,Yamagata,Japan,OC43,4,4
+Matoba,Yamagata,Japan,OC43,5,7
+Matoba,Yamagata,Japan,OC43,6,1
+Matoba,Yamagata,Japan,OC43,7,5
+Matoba,Yamagata,Japan,OC43,8,1
+Matoba,Yamagata,Japan,OC43,9,1
+Matoba,Yamagata,Japan,OC43,10,10
+Matoba,Yamagata,Japan,OC43,11,14
+Matoba,Yamagata,Japan,OC43,12,7
+Paloniemi,Tampere,Finland,229E,1,3
+Paloniemi,Tampere,Finland,229E,2,8
+Paloniemi,Tampere,Finland,229E,3,1
+Paloniemi,Tampere,Finland,229E,4,1
+Paloniemi,Tampere,Finland,229E,5,0
+Paloniemi,Tampere,Finland,229E,6,0
+Paloniemi,Tampere,Finland,229E,7,0
+Paloniemi,Tampere,Finland,229E,8,0
+Paloniemi,Tampere,Finland,229E,9,0
+Paloniemi,Tampere,Finland,229E,10,0
+Paloniemi,Tampere,Finland,229E,11,0
+Paloniemi,Tampere,Finland,229E,12,0
+Paloniemi,Tampere,Finland,HKU1,1,0
+Paloniemi,Tampere,Finland,HKU1,2,6
+Paloniemi,Tampere,Finland,HKU1,3,5
+Paloniemi,Tampere,Finland,HKU1,4,0
+Paloniemi,Tampere,Finland,HKU1,5,0
+Paloniemi,Tampere,Finland,HKU1,6,0
+Paloniemi,Tampere,Finland,HKU1,7,0
+Paloniemi,Tampere,Finland,HKU1,8,0
+Paloniemi,Tampere,Finland,HKU1,9,0
+Paloniemi,Tampere,Finland,HKU1,10,0
+Paloniemi,Tampere,Finland,HKU1,11,0
+Paloniemi,Tampere,Finland,HKU1,12,0
+Paloniemi,Tampere,Finland,NL63,1,4
+Paloniemi,Tampere,Finland,NL63,2,8
+Paloniemi,Tampere,Finland,NL63,3,2
+Paloniemi,Tampere,Finland,NL63,4,0
+Paloniemi,Tampere,Finland,NL63,5,0
+Paloniemi,Tampere,Finland,NL63,6,0
+Paloniemi,Tampere,Finland,NL63,7,0
+Paloniemi,Tampere,Finland,NL63,8,0
+Paloniemi,Tampere,Finland,NL63,9,0
+Paloniemi,Tampere,Finland,NL63,10,0
+Paloniemi,Tampere,Finland,NL63,11,0
+Paloniemi,Tampere,Finland,NL63,12,1
+Paloniemi,Tampere,Finland,OC43,1,2
+Paloniemi,Tampere,Finland,OC43,2,0
+Paloniemi,Tampere,Finland,OC43,3,0
+Paloniemi,Tampere,Finland,OC43,4,3
+Paloniemi,Tampere,Finland,OC43,5,1
+Paloniemi,Tampere,Finland,OC43,6,1
+Paloniemi,Tampere,Finland,OC43,7,0
+Paloniemi,Tampere,Finland,OC43,8,0
+Paloniemi,Tampere,Finland,OC43,9,1
+Paloniemi,Tampere,Finland,OC43,10,0
+Paloniemi,Tampere,Finland,OC43,11,1
+Paloniemi,Tampere,Finland,OC43,12,4
+Ren,Beijing,China,229E,1,1
+Ren,Beijing,China,229E,2,0
+Ren,Beijing,China,229E,3,0
+Ren,Beijing,China,229E,4,5
+Ren,Beijing,China,229E,5,0
+Ren,Beijing,China,229E,6,0
+Ren,Beijing,China,229E,7,0
+Ren,Beijing,China,229E,8,0
+Ren,Beijing,China,229E,9,2
+Ren,Beijing,China,229E,10,5
+Ren,Beijing,China,229E,11,2
+Ren,Beijing,China,229E,12,0
+Ren,Beijing,China,HKU1,1,0
+Ren,Beijing,China,HKU1,2,2
+Ren,Beijing,China,HKU1,3,2
+Ren,Beijing,China,HKU1,4,1
+Ren,Beijing,China,HKU1,5,2
+Ren,Beijing,China,HKU1,6,1
+Ren,Beijing,China,HKU1,7,3
+Ren,Beijing,China,HKU1,8,0
+Ren,Beijing,China,HKU1,9,2
+Ren,Beijing,China,HKU1,10,0
+Ren,Beijing,China,HKU1,11,0
+Ren,Beijing,China,HKU1,12,1
+Ren,Beijing,China,NL63,1,0
+Ren,Beijing,China,NL63,2,0
+Ren,Beijing,China,NL63,3,0
+Ren,Beijing,China,NL63,4,0
+Ren,Beijing,China,NL63,5,0
+Ren,Beijing,China,NL63,6,0
+Ren,Beijing,China,NL63,7,0
+Ren,Beijing,China,NL63,8,1
+Ren,Beijing,China,NL63,9,2
+Ren,Beijing,China,NL63,10,3
+Ren,Beijing,China,NL63,11,1
+Ren,Beijing,China,NL63,12,1
+Ren,Beijing,China,OC43,1,0
+Ren,Beijing,China,OC43,2,1
+Ren,Beijing,China,OC43,3,6
+Ren,Beijing,China,OC43,4,2
+Ren,Beijing,China,OC43,5,5
+Ren,Beijing,China,OC43,6,21
+Ren,Beijing,China,OC43,7,5
+Ren,Beijing,China,OC43,8,1
+Ren,Beijing,China,OC43,9,4
+Ren,Beijing,China,OC43,10,3
+Ren,Beijing,China,OC43,11,2
+Ren,Beijing,China,OC43,12,0
+Richard,Stockholm,Sweden,229E,1,25
+Richard,Stockholm,Sweden,229E,2,61
+Richard,Stockholm,Sweden,229E,3,92
+Richard,Stockholm,Sweden,229E,4,62
+Richard,Stockholm,Sweden,229E,5,34
+Richard,Stockholm,Sweden,229E,6,17
+Richard,Stockholm,Sweden,229E,7,3
+Richard,Stockholm,Sweden,229E,8,5
+Richard,Stockholm,Sweden,229E,9,2
+Richard,Stockholm,Sweden,229E,10,9
+Richard,Stockholm,Sweden,229E,11,5
+Richard,Stockholm,Sweden,229E,12,5
+Richard,Stockholm,Sweden,NL63,1,86
+Richard,Stockholm,Sweden,NL63,2,148
+Richard,Stockholm,Sweden,NL63,3,103
+Richard,Stockholm,Sweden,NL63,4,49
+Richard,Stockholm,Sweden,NL63,5,26
+Richard,Stockholm,Sweden,NL63,6,9
+Richard,Stockholm,Sweden,NL63,7,2
+Richard,Stockholm,Sweden,NL63,8,5
+Richard,Stockholm,Sweden,NL63,9,2
+Richard,Stockholm,Sweden,NL63,10,3
+Richard,Stockholm,Sweden,NL63,11,15
+Richard,Stockholm,Sweden,NL63,12,52
+Richard,Stockholm,Sweden,OC43,1,271
+Richard,Stockholm,Sweden,OC43,2,159
+Richard,Stockholm,Sweden,OC43,3,105
+Richard,Stockholm,Sweden,OC43,4,71
+Richard,Stockholm,Sweden,OC43,5,61
+Richard,Stockholm,Sweden,OC43,6,59
+Richard,Stockholm,Sweden,OC43,7,24
+Richard,Stockholm,Sweden,OC43,8,9
+Richard,Stockholm,Sweden,OC43,9,21
+Richard,Stockholm,Sweden,OC43,10,31
+Richard,Stockholm,Sweden,OC43,11,113
+Richard,Stockholm,Sweden,OC43,12,342
+Sung,Seongnam,South Korea,NL63,1,4
+Sung,Seongnam,South Korea,NL63,2,4
+Sung,Seongnam,South Korea,NL63,3,5
+Sung,Seongnam,South Korea,NL63,4,1
+Sung,Seongnam,South Korea,NL63,5,1
+Sung,Seongnam,South Korea,NL63,6,0
+Sung,Seongnam,South Korea,NL63,7,1
+Sung,Seongnam,South Korea,NL63,8,0
+Sung,Seongnam,South Korea,NL63,9,1
+Sung,Seongnam,South Korea,NL63,10,2
+Sung,Seongnam,South Korea,NL63,11,2
+Sung,Seongnam,South Korea,NL63,12,6
+Suwannakarn,Nakhon Si Thammarat,Thailand,229E,1,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,229E,2,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,229E,3,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,229E,4,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,229E,5,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,229E,6,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,229E,7,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,229E,8,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,229E,9,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,229E,10,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,229E,11,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,229E,12,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,HKU1,1,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,HKU1,2,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,HKU1,3,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,HKU1,4,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,HKU1,5,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,HKU1,6,1
+Suwannakarn,Nakhon Si Thammarat,Thailand,HKU1,7,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,HKU1,8,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,HKU1,9,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,HKU1,10,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,HKU1,11,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,HKU1,12,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,NL63,1,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,NL63,2,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,NL63,3,2
+Suwannakarn,Nakhon Si Thammarat,Thailand,NL63,4,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,NL63,5,2
+Suwannakarn,Nakhon Si Thammarat,Thailand,NL63,6,4
+Suwannakarn,Nakhon Si Thammarat,Thailand,NL63,7,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,NL63,8,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,NL63,9,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,NL63,10,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,NL63,11,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,NL63,12,1
+Suwannakarn,Nakhon Si Thammarat,Thailand,OC43,1,5
+Suwannakarn,Nakhon Si Thammarat,Thailand,OC43,2,6
+Suwannakarn,Nakhon Si Thammarat,Thailand,OC43,3,2
+Suwannakarn,Nakhon Si Thammarat,Thailand,OC43,4,1
+Suwannakarn,Nakhon Si Thammarat,Thailand,OC43,5,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,OC43,6,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,OC43,7,0
+Suwannakarn,Nakhon Si Thammarat,Thailand,OC43,8,1
+Suwannakarn,Nakhon Si Thammarat,Thailand,OC43,9,1
+Suwannakarn,Nakhon Si Thammarat,Thailand,OC43,10,1
+Suwannakarn,Nakhon Si Thammarat,Thailand,OC43,11,3
+Suwannakarn,Nakhon Si Thammarat,Thailand,OC43,12,2
+Uddin,Sarlahi,Nepal,229E,1,2
+Uddin,Sarlahi,Nepal,229E,2,3
+Uddin,Sarlahi,Nepal,229E,3,2
+Uddin,Sarlahi,Nepal,229E,4,2
+Uddin,Sarlahi,Nepal,229E,5,1
+Uddin,Sarlahi,Nepal,229E,6,0
+Uddin,Sarlahi,Nepal,229E,7,0
+Uddin,Sarlahi,Nepal,229E,8,0
+Uddin,Sarlahi,Nepal,229E,9,0
+Uddin,Sarlahi,Nepal,229E,10,1
+Uddin,Sarlahi,Nepal,229E,11,4
+Uddin,Sarlahi,Nepal,229E,12,4
+Uddin,Sarlahi,Nepal,HKU1,1,25
+Uddin,Sarlahi,Nepal,HKU1,2,27
+Uddin,Sarlahi,Nepal,HKU1,3,6
+Uddin,Sarlahi,Nepal,HKU1,4,2
+Uddin,Sarlahi,Nepal,HKU1,5,3
+Uddin,Sarlahi,Nepal,HKU1,6,3
+Uddin,Sarlahi,Nepal,HKU1,7,0
+Uddin,Sarlahi,Nepal,HKU1,8,1
+Uddin,Sarlahi,Nepal,HKU1,9,1
+Uddin,Sarlahi,Nepal,HKU1,10,1
+Uddin,Sarlahi,Nepal,HKU1,11,4
+Uddin,Sarlahi,Nepal,HKU1,12,5
+Uddin,Sarlahi,Nepal,NL63,1,1
+Uddin,Sarlahi,Nepal,NL63,2,1
+Uddin,Sarlahi,Nepal,NL63,3,0
+Uddin,Sarlahi,Nepal,NL63,4,1
+Uddin,Sarlahi,Nepal,NL63,5,1
+Uddin,Sarlahi,Nepal,NL63,6,0
+Uddin,Sarlahi,Nepal,NL63,7,0
+Uddin,Sarlahi,Nepal,NL63,8,13
+Uddin,Sarlahi,Nepal,NL63,9,21
+Uddin,Sarlahi,Nepal,NL63,10,22
+Uddin,Sarlahi,Nepal,NL63,11,9
+Uddin,Sarlahi,Nepal,NL63,12,1
+Uddin,Sarlahi,Nepal,OC43,1,13
+Uddin,Sarlahi,Nepal,OC43,2,24
+Uddin,Sarlahi,Nepal,OC43,3,14
+Uddin,Sarlahi,Nepal,OC43,4,7
+Uddin,Sarlahi,Nepal,OC43,5,18
+Uddin,Sarlahi,Nepal,OC43,6,13
+Uddin,Sarlahi,Nepal,OC43,7,3
+Uddin,Sarlahi,Nepal,OC43,8,1
+Uddin,Sarlahi,Nepal,OC43,9,1
+Uddin,Sarlahi,Nepal,OC43,10,1
+Uddin,Sarlahi,Nepal,OC43,11,3
+Uddin,Sarlahi,Nepal,OC43,12,5
+Zhang,Guangzhou,China,229E,1,6
+Zhang,Guangzhou,China,229E,2,12
+Zhang,Guangzhou,China,229E,3,4
+Zhang,Guangzhou,China,229E,4,5
+Zhang,Guangzhou,China,229E,5,5
+Zhang,Guangzhou,China,229E,6,3
+Zhang,Guangzhou,China,229E,7,1
+Zhang,Guangzhou,China,229E,8,2
+Zhang,Guangzhou,China,229E,9,1
+Zhang,Guangzhou,China,229E,10,2
+Zhang,Guangzhou,China,229E,11,4
+Zhang,Guangzhou,China,229E,12,4
+Zhang,Guangzhou,China,HKU1,1,7
+Zhang,Guangzhou,China,HKU1,2,5
+Zhang,Guangzhou,China,HKU1,3,3
+Zhang,Guangzhou,China,HKU1,4,1
+Zhang,Guangzhou,China,HKU1,5,2
+Zhang,Guangzhou,China,HKU1,6,3
+Zhang,Guangzhou,China,HKU1,7,1
+Zhang,Guangzhou,China,HKU1,8,1
+Zhang,Guangzhou,China,HKU1,9,0
+Zhang,Guangzhou,China,HKU1,10,0
+Zhang,Guangzhou,China,HKU1,11,0
+Zhang,Guangzhou,China,HKU1,12,0
+Zhang,Guangzhou,China,NL63,1,3
+Zhang,Guangzhou,China,NL63,2,1
+Zhang,Guangzhou,China,NL63,3,2
+Zhang,Guangzhou,China,NL63,4,2
+Zhang,Guangzhou,China,NL63,5,2
+Zhang,Guangzhou,China,NL63,6,3
+Zhang,Guangzhou,China,NL63,7,10
+Zhang,Guangzhou,China,NL63,8,7
+Zhang,Guangzhou,China,NL63,9,2
+Zhang,Guangzhou,China,NL63,10,3
+Zhang,Guangzhou,China,NL63,11,1
+Zhang,Guangzhou,China,NL63,12,8
+Zhang,Guangzhou,China,OC43,1,13
+Zhang,Guangzhou,China,OC43,2,16
+Zhang,Guangzhou,China,OC43,3,17
+Zhang,Guangzhou,China,OC43,4,22
+Zhang,Guangzhou,China,OC43,5,22
+Zhang,Guangzhou,China,OC43,6,8
+Zhang,Guangzhou,China,OC43,7,14
+Zhang,Guangzhou,China,OC43,8,23
+Zhang,Guangzhou,China,OC43,9,10
+Zhang,Guangzhou,China,OC43,10,14
+Zhang,Guangzhou,China,OC43,11,7
+Zhang,Guangzhou,China,OC43,12,11
+Dominguez 2009,Colorado,USA,229E,12,0
+Dominguez 2009,Colorado,USA,229E,1,0
+Dominguez 2009,Colorado,USA,229E,2,1
+Dominguez 2009,Colorado,USA,229E,3,4
+Dominguez 2009,Colorado,USA,229E,4,1
+Dominguez 2009,Colorado,USA,229E,5,4
+Dominguez 2009,Colorado,USA,229E,6,1
+Dominguez 2009,Colorado,USA,229E,7,0
+Dominguez 2009,Colorado,USA,229E,8,0
+Dominguez 2009,Colorado,USA,229E,9,0
+Dominguez 2009,Colorado,USA,229E,10,0
+Dominguez 2009,Colorado,USA,229E,11,0
+Dominguez 2009,Colorado,USA,OC43,12,1
+Dominguez 2009,Colorado,USA,OC43,1,9
+Dominguez 2009,Colorado,USA,OC43,2,11
+Dominguez 2009,Colorado,USA,OC43,3,8
+Dominguez 2009,Colorado,USA,OC43,4,3
+Dominguez 2009,Colorado,USA,OC43,5,1
+Dominguez 2009,Colorado,USA,OC43,6,0
+Dominguez 2009,Colorado,USA,OC43,7,0
+Dominguez 2009,Colorado,USA,OC43,8,0
+Dominguez 2009,Colorado,USA,OC43,9,0
+Dominguez 2009,Colorado,USA,OC43,10,0
+Dominguez 2009,Colorado,USA,OC43,11,1
+Dominguez 2009,Colorado,USA,NL63,12,1
+Dominguez 2009,Colorado,USA,NL63,1,8
+Dominguez 2009,Colorado,USA,NL63,2,13
+Dominguez 2009,Colorado,USA,NL63,3,7
+Dominguez 2009,Colorado,USA,NL63,4,3
+Dominguez 2009,Colorado,USA,NL63,5,1
+Dominguez 2009,Colorado,USA,NL63,6,0
+Dominguez 2009,Colorado,USA,NL63,7,0
+Dominguez 2009,Colorado,USA,NL63,8,0
+Dominguez 2009,Colorado,USA,NL63,9,1
+Dominguez 2009,Colorado,USA,NL63,10,0
+Dominguez 2009,Colorado,USA,NL63,11,3
+Dominguez 2009,Colorado,USA,HKU1,12,0
+Dominguez 2009,Colorado,USA,HKU1,1,0
+Dominguez 2009,Colorado,USA,HKU1,2,1
+Dominguez 2009,Colorado,USA,HKU1,3,0
+Dominguez 2009,Colorado,USA,HKU1,4,1
+Dominguez 2009,Colorado,USA,HKU1,5,0
+Dominguez 2009,Colorado,USA,HKU1,6,0
+Dominguez 2009,Colorado,USA,HKU1,7,0
+Dominguez 2009,Colorado,USA,HKU1,8,0
+Dominguez 2009,Colorado,USA,HKU1,9,0
+Dominguez 2009,Colorado,USA,HKU1,10,0
+Dominguez 2009,Colorado,USA,HKU1,11,0

@@ -3,7 +3,7 @@ Supplemental Electronic Data files for:
 
 Projecting seasonal COVID-19 infection based on the evolution of coronavirus seasonality
 
-Jeffrey P. Townsend PhD 1,2,3,4*, April D. Lamb MS 5, Hayley B. Hassler MS 1, Pratha Sah PhD 6, Aia Alvarex Nishio 6, Cameron Nguyen 5, Alex Dornburg PhD 5
+Jeffrey P. Townsend PhD 1,2,3,4*, April D. Lamb MS 5, Hayley B. Hassler MS 1, Pratha Sah PhD 6, Aia Alvarex Nishio 6, Cameron Nguyen 5, Alison P. Galvani, Alex Dornburg PhD 5
 
 1 Department of Biostatistics, Yale School of Public Health, New Haven, Connecticut 06510, USA
 2 Department of Ecology and Evolutionary Biology, Yale University, New Haven, Connecticut 06525, USA
